@@ -9,6 +9,17 @@ Consistency ledger. Add entries as decisions get made.
 Eras have a natural lifespan. The previous one simply ran out — no war ended it, no
 one caused it. It was time.
 
+*Candidate mechanism, following from the jar:* **a world ends when it can no longer
+hold what has grown inside it.** Still natural — worlds fill the way bodies age — so
+nobody is to blame and the clearing of karma remains just. But it gives the lifespan
+a logic the reader can feel.
+
+If that holds, it produces something unpleasant: **the reincarnators are accelerating
+this world's death simply by existing.** Eight of the largest things that ever lived,
+re-growing inside a young jar, each climbing as fast as they can. No intent to harm
+is required; their survival is the harm. And if the protagonist ever works it out,
+the alternative to climbing is dying.
+
 **The era's end did not kill anyone.** It evicted them. Those who could reincarnate
 got out; everyone else did not.
 
@@ -62,8 +73,21 @@ to people the reader should find frightening rather than fully understand.
 **Absolute beings stand at the tenth realm, ninth layer — level 99, the top of the
 ladder.**
 
-**The world permits exactly eight at any given time.** When one dies, someone at 98
-can take the empty place.
+**The world holds exactly eight at any given time.** When one dies, someone at 98 can
+take the empty place.
+
+**This is capacity, not decree.** The world is a jar and every cultivator is a ball
+inside it; the higher the cultivation, the larger the ball. At some point the jar
+cannot accommodate another of that size. Eight is simply how many fit.
+
+Which also makes the pyramid natural rather than legislated — small balls leave
+endless room, and the squeeze only begins to bite near the top. No rule is needed for
+how many exist at any lower realm.
+
+*This is public cosmology, taught to children in their first year. Unlike the
+inner-world mechanics, it should be said out loud on the page: **private mechanics
+are shown, public cosmology is taught.** The image is strong enough that a listener
+holds it permanently after hearing it once.*
 
 Consequences:
 
@@ -78,6 +102,11 @@ Consequences:
 - **All eight seats emptied when the era ended.** Either they stand vacant in the new
   era or natives have been climbing into them — in which case every reincarnator who
   returns to 99 will find someone already sitting in the seat they used to own.
+- **Cultivating impoverishes everyone else.** A finite jar and a finite supply of
+  spiritual energy mean every cultivator who rises takes room and resource others
+  could have used. The powerful are parasitic on their own world by nature, not by
+  malice, and the resentment beneath them has a material basis. The people below do
+  not merely envy the eight — they are paying for them.
 
 **Open:** were all eight of the old era's absolutes among those who reincarnated? If
 exactly eight got out and there are exactly eight chairs, the fit is very tight — the
@@ -88,9 +117,12 @@ room for them if they take it back.
 
 There is no tenth layer of the tenth realm. Nobody stands at 100.
 
-Why is open, and it is the kind of hole that can carry a series: because nothing
-could hold it, because it was removed, or because it is not a rung at all but a step
-out of the world — which would be why "absolute being" is the ceiling of *this* world
+Why is open, and it is the kind of hole that can carry a series.
+
+*Candidate, following from the jar:* if the world holds eight balls at size 99, it
+could not hold even one at size 100. The rung may be absent because **no world can
+contain it** — reaching it would mean being larger than the jar, so one would either
+break it or leave it. That is why "absolute being" is the ceiling of *this* world
 rather than of everything.
 
 ### The inner-world gate
