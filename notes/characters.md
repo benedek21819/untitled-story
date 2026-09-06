@@ -12,7 +12,12 @@ Names are all TBD. Test candidates in ElevenLabs before committing.
 - **Ruled by deterrence, not administration.** Managed nothing, owed nothing,
   answered to no one, and was largely absent from the world — but wherever he
   appeared, everything went according to his wishes, because he could kill anyone who
-  refused. He has never in his existence been told no.
+  refused.
+- **Unaccustomed to refusal.** For as long as he stood at the top — a very long time
+  — nothing that mattered to him was denied. Not an absolute: he was not born there.
+  He climbed, and the climb is where the calculation and the cruelty came from, which
+  means there is a long stretch of being weak, refused, and obeying others somewhere
+  underneath everything else.
 - **Now:** a child in a family that loves him, with no memory of any of it.
 - **Chose:** to sink his own memories before reincarnating — invisibility and time,
   bought with decades of ignorance and weakness. He is the only survivor who made
