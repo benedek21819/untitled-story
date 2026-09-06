@@ -90,8 +90,15 @@ friends. Neither knows what the other is.
 
 ## The Mu clan
 
-A large, prominent cultivation clan. Many branch lines and one main line; succession
-runs by main-line precedence. Zishan is main line.
+An extremely old and very large cultivation clan. Many branch lines and one main
+line; succession runs by main-line precedence. Zishan is main line, and his position
+is **contested** — the branch families want the patriarch's seat for their own heirs
+and will do almost anything to get it.
+
+**The clan is not one of the great clans** — not Tang, not Zhuge — but it is close,
+and one opportunity away. This is the most important fact about it. A secure clan is
+scenery; a clan that has been *almost* great for centuries is hungry, and hungry
+institutions make ugly decisions. Everyone in it has been waiting generations.
 
 **The clan and the household are two different things, and the story must never blur
 them.**
@@ -121,26 +128,56 @@ most closely watched kind of child in the world — assessments, ceremonies, reg
 rivals keeping count. He sank his memories to buy invisibility and woke up on a
 stage. Do not resolve this. It is the clock on act one.
 
+### He is the opportunity
+
+The clan is one break from the top table and a monstrously talented child is growing
+up in its main line. They will work this out — not that he is Shen Luo, but that he
+is the vehicle. This flips the contest partway through:
+
+- **Early:** the branch families want him removed. He is an obstacle.
+- **Later:** opposing him becomes treason against the clan's own ambition. They have
+  to switch from *remove him* to *own him*.
+
+And a clan on the threshold, holding a weapon like him, will **use** him. It will ask
+him for things. He will be excellent at them, immediately, without effort. His family
+will be proud of him. That is the moral engine of act one, and it needs no seal
+opened to run.
+
+### The branch conflict expires — plan the escalation
+
+They can only hurt him while he is weak: poison, sabotaged resources, an accident
+during a trial, a rigged assessment. That window closes permanently once he is
+strong, so it cannot carry the arc. When it closes, they do the only thing left and
+go after the household. That is where it stops being politics.
+
+*Candidate act-one climax:* when they touch his mother he does not lose control. He
+calculates — coldly, correctly — and the result is appalling. The first time the
+reader sees Shen Luo, no memory is involved at all.
+
 **Undecided:**
 
-- **Is his position contested?** Main line by precedence, but if a branch cousin with
-  better talent is a live threat, then excelling becomes *necessary* rather than
-  merely permitted, the clan splits into factions with a stake in his failure, and
-  the first person he solves coldly, he solves to keep his seat — and his family
-  thanks him for it. Uncontested is safer and much flatter.
-- **How prominent, exactly?** Strong regionally and unremarkable beyond it gives him
-  room; world-famous means every reincarnator already knows the address.
+- **Where is the succession clock?** Whether the current patriarch is his father, his
+  grandfather, or dying decides whether the contest is hot now or a generation off,
+  and that sets the temperature of his entire childhood.
 - **Did he arrange the landing?** He sealed his memories in advance, so anything he
   set up, he set up before. Whether he chose this family — the last place anyone
   would look for a recluse who despised institutions — or whether it is pure accident
   changes what the clan *is* to him.
 - Who the household is: two or three people, what each wants from him, and what each
   would notice when he changes.
+- Which branch family is the named rival, and who fronts it.
 
 **Production constraint:** a clan implies dozens of people, and a listener can hold
 about five to seven names in early chapters. Name almost no one. The clan speaks
 through roles — the third elder, his uncle, the branch head — and only the household
-and a named rival get names.
+and a named rival get names. One named rival branch, at most two.
+
+**`Zhuge` needs a pronunciation entry.** The name is right — the Zhuge Liang echo
+does the strategist-clan work for free — but English TTS mangles it (`zoo-gee`,
+`zhug`), and a great clan gets named often. Fix it in the dictionary or swap it
+before it appears. `Tang` is fine in this role: the association only bites on a
+protagonist's own surname, and for a legendary background clan a name that already
+sounds legendary is a feature.
 
 **Where the drift will show first.** Genuine attachment is exempt from scale
 poisoning; the clan is not. He will defend his mother past the end of the world and
