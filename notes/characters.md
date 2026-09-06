@@ -1,10 +1,17 @@
 # Characters
 
-Names are all TBD. Test candidates in ElevenLabs before committing.
+Remaining names are TBD. Test candidates in ElevenLabs before committing.
 
 ---
 
-## The protagonist — *name TBD*
+## The protagonist — Shen Luo *(old era)* / given name TBD *(this life)*
+
+**Two names, doing opposite jobs.** *Shen Luo* is the name the old world stopped
+saying aloud — spoken in the prologue, in memory, and by enemies, never by anyone who
+loves him. His name in this life is chosen by a family who have no idea what they are
+holding, and should sound like nothing at all. The distance between the two names is
+the premise in two words, so nothing about the new one may echo the old: not the
+surname, not the sound. A hunter who hears an echo has a thread to pull.
 
 - **Was:** an absolute being at the very top of the previous era. Reached it through
   calculation and cruelty. Every other absolute being wanted him dead; none of them

@@ -603,3 +603,4 @@ Test aloud in ElevenLabs before committing. Vary syllable count and opening cons
 
 | Term | Meaning | First used |
 |---|---|---|
+| Shen Luo | The protagonist's name in the previous era. | Prologue |
