@@ -25,6 +25,19 @@ Names are all TBD. Test candidates in ElevenLabs before committing.
 - **Therefore:** the only participant in this game operating blind. Everyone else
   knows who they are, knows who the others were, and is hunting him.
 - **Intends:** to walk the old road again. Says so. Whether he can is the story.
+- **Wants to know, at first.** He finds an impossible ocean and a sealed sky in his
+  own soul and does exactly what any boy would: he wants it open. He strives for it,
+  actively, and cultivates hard because realm is the price of the next layer. He is
+  pulling forward through the early arcs, not holding back.
+- **Later he hesitates.** The arc is **eager → hesitant → opening anyway, under
+  pressure and at a price.** A protagonist who simply stops is static; one who keeps
+  going while dreading it is not.
+- *Suggested trigger for the turn:* a layer delivers exactly what past-him promised,
+  and the usefulness is the horror. He opens it expecting information and receives a
+  way of thinking — then solves a person, easily, and the ease is what frightens him.
+  Nobody had to tell him what he was. He watched himself do it.
+- *Pacing:* the eager phase should not run much past arc two. Longer and the audience
+  settles into a power fantasy, and the turn reads as the story changing genre.
 - **Has never:** been afraid, or had anything that could be taken from him. Both are
   now false.
 

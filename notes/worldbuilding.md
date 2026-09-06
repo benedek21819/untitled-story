@@ -187,19 +187,14 @@ the necessary level does not open anything. Each layer still takes deliberate ef
 to break, and he cannot attempt a higher layer without the power the previous one
 required.
 
-So the sky is a door he holds the key to and decides, every day, not to go through.
-Not something that happens to him — a choice he re-makes continuously, which is the
-right shape for a character whose defining trait is restraint.
-
 Consequences:
 
 - **A visible progress meter.** How much sky is open. No numbers required.
 - **Every unsealing is a message from someone who knew exactly what he was doing.**
   The curriculum is a statement of priorities. A layer that teaches him something
   appalling is past-him saying *you will need this* — and he cannot ask why.
-- **He knows what is available and refuses it anyway.** Once he has the realm for a
-  layer, the door is unlocked and he still will not open it. Worse for him, better
-  for the story.
+- **Realm is the price of knowing.** His hunger to find out and his drive to get
+  stronger are the same drive, without the two ladders merging mechanically.
 
 ### Both channels are voluntary
 
@@ -211,10 +206,8 @@ takes it.
 The ocean does not leak. It does not stir on its own, it does not answer rhymes, and
 living his life does not raise it. It is still water, and it stays still.
 
-*Optional, undecided:* whether the water retains any **reaction** without being a
-mechanism — an unaccountable wrongness on encountering something, with no content and
-nothing retrievable. A symptom rather than a leak. Useful because the reader is ahead
-of him and can read those moments correctly when he cannot.
+**The ocean is completely inert.** No reaction, no residue, no unaccountable feeling.
+It does nothing at all unless he enters it.
 
 ### The leak is outside him
 
