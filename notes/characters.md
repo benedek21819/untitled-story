@@ -106,9 +106,10 @@ them.**
 - **The clan** is an institution — hundreds of people, resources, obligations,
   factions, and a name to protect. He can be ruthless with it and the reader will
   follow him. Nobody loves an institution.
-- **The household** is two or three named people who actually love him. *This* is the
-  sympathy floor. Not chosen, not earned, installed before he came back — he cannot
-  dismiss it as a weakness he picked up, because he didn't pick it up.
+- **The household** is the mother and the older sister. *This* is the sympathy floor.
+  Not chosen, not earned, installed before he came back — he cannot dismiss it as a
+  weakness he picked up, because he didn't pick it up. The father is *not* part of
+  the floor; see below.
 
 The household occupies the clear, sunlit, shallow layer at the top of the ocean — the
 part he can stand on without effort. Everything below is the old era.
@@ -170,6 +171,47 @@ hiding something. The cold version — he looks at Zishan, sees *something*, and
 nothing, because a clan one step from greatness needs a monster and he would rather
 die hoping than warn anyone.
 
+### The household
+
+Three people plus the grandfather at a distance. Do not add a fourth: in audio every
+named relative costs clarity in exactly the chapters where a listener is still
+deciding whether to continue.
+
+**The father — loves him and deploys him, and neither can separate the two.**
+Competent, ambitious, fond of control. He is proud of his son and he is also counting
+what his son is worth, and he would not be able to tell you where one stops. He is
+not the floor.
+
+**The mother — the floor.** Married in from outside the clan. No faction, no elders,
+no leverage, and no illusions about what her husband is. She is the only adult in his
+life who wants him to be *less* than he could be, because she can see exactly where
+being exceptional in this family leads. Everyone else in the world measures him; she
+would rather he were ordinary. So he disappoints someone every time he cultivates
+hard, and the person he disappoints is the one who loves him most cleanly.
+
+**The older sister — the floor, and the drift meter.**
+
+- *Displaced by him.* Main line, older, and the candidate until a brother was born who
+  did nothing but exist. She loves him anyway and never once lets him feel it, which
+  is what makes the affection demonstrably unearned and un-owed.
+- *Her own want:* she grew up inside this clan with no claim and no protection, so
+  she reads the elders better than her father does. Unsentimental about the clan,
+  entirely sentimental about her brother.
+- *Why a sister and not only a mother:* **she is how the scale poisoning becomes
+  visible.** Attachment is exempt, so he will love her at chapter four hundred exactly
+  as much as at chapter four — but she cultivates, and she is older, so she starts
+  *ahead* of him. There is a chapter where he passes her. Later there is a point where
+  she cannot follow him anywhere at all. He still loves her; he simply cannot be with
+  her. A non-cultivating mother cannot do this job, because she is left behind from
+  page one and it reads as ordinary.
+- *Format bonus:* an older sister explaining clan politics to a younger brother is the
+  most natural exposition vehicle there is, and in audio it beats narration outright.
+
+**Naming trap.** Clan siblings usually share a generational character — Mu Zishan and
+Mu Zi-something. Elegant in print, ruinous in audio: two constantly-spoken names
+opening `Mu Zi-` will blur every time. Break the convention for her, or keep it and
+ensure her full name is spoken almost never.
+
 ### He is the opportunity
 
 The clan is one break from the top table and a monstrously talented child is growing
@@ -198,11 +240,9 @@ reader sees Shen Luo, no memory is involved at all.
 
 **Undecided:**
 
-- **Does the father love him, and is that enough?** The intended answer is that both
-  are true at once — he loves the boy *and* deploys him, and neither of them can
-  fully separate the two. But that means the father cannot be the sympathy floor.
-  Someone in the household has to love Zishan with zero political content, or the
-  story has no ground to stand on. **That person is the next thing to decide.**
+- Names for the mother and the sister, and how many years older she is — enough that
+  she is already cultivating while he is a child, not so many that she is an adult
+  stranger.
 - **Did he arrange the landing?** He sealed his memories in advance, so anything he
   set up, he set up before. Whether he chose this family — the last place anyone
   would look for a recluse who despised institutions — or whether it is pure accident
