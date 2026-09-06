@@ -128,6 +128,48 @@ most closely watched kind of child in the world — assessments, ceremonies, reg
 rivals keeping count. He sank his memories to buy invisibility and woke up on a
 stage. Do not resolve this. It is the clock on act one.
 
+### The succession, as it stands
+
+- **The grandfather** is patriarch, extremely old, near the end of his natural
+  lifespan. (He is therefore below the Immortal realm; only realm ten removes natural
+  death.) His life is the clock on act one, and his death is also when the clan's
+  protection from *outside* pressure dies.
+- **The father** is his son and the most legitimate candidate — competent, ambitious,
+  and fond of control.
+- **Most of the elders want someone else**, specifically someone they can control.
+  Not because the father is weak. Because he isn't. They want influence, and a
+  capable patriarch is the thing that denies it to them.
+
+**The inversion matters.** The main line is not persecuted and pitiable here; it is
+strong, and that is the threat. Every consequence below comes from that.
+
+**The father is Shen Luo at human scale.** A competent, ambitious man who likes
+control is a calculator, and Zishan grows up watching him run a household and a
+council the way his old self ran a world. He will find it comfortable. He will read
+his father effortlessly and outgrow him early. The protagonist's nature gets
+demonstrated through a man the reader can see whole, long before any memory surfaces.
+
+**Therefore his talent is political from childhood — and he must hide it.** Shine too
+early and the elders see a second uncontrollable main-liner and harden against his
+father. Shine at the right moment and he is the argument that saves him. So he learns
+to manage how much of himself is visible, carefully, from a very young age, for
+entirely mundane reasons. It is exactly what Shen Luo would do. He does it by
+instinct, never wonders why he is good at it, and only the reader knows.
+
+**The rival need not be a villain.** The elders want someone controllable, so the
+branch candidate may be a decent boy being used. Destroying him should be ugly rather
+than satisfying.
+
+**Structural:** the father's fight is an A-plot Zishan is a *stake* in rather than an
+agent of, for years. That is a feature. The chapter where he can finally intervene is
+a milestone the audience will be waiting for.
+
+*Candidate, for the grandfather:* a man at the end of his life who has seen
+everything and has nothing left to lose is the most dangerous person alive to a child
+hiding something. The cold version — he looks at Zishan, sees *something*, and says
+nothing, because a clan one step from greatness needs a monster and he would rather
+die hoping than warn anyone.
+
 ### He is the opportunity
 
 The clan is one break from the top table and a monstrously talented child is growing
@@ -156,9 +198,11 @@ reader sees Shen Luo, no memory is involved at all.
 
 **Undecided:**
 
-- **Where is the succession clock?** Whether the current patriarch is his father, his
-  grandfather, or dying decides whether the contest is hot now or a generation off,
-  and that sets the temperature of his entire childhood.
+- **Does the father love him, and is that enough?** The intended answer is that both
+  are true at once — he loves the boy *and* deploys him, and neither of them can
+  fully separate the two. But that means the father cannot be the sympathy floor.
+  Someone in the household has to love Zishan with zero political content, or the
+  story has no ground to stand on. **That person is the next thing to decide.**
 - **Did he arrange the landing?** He sealed his memories in advance, so anything he
   set up, he set up before. Whether he chose this family — the last place anyone
   would look for a recluse who despised institutions — or whether it is pure accident
