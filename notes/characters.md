@@ -138,10 +138,28 @@ stage. Do not resolve this. It is the clock on act one.
   the elders move now instead of waiting; and an illness a great clan could cure and
   the Mu cannot is the clan's entire hunger stated in one image. His death is also
   when the clan's protection from *outside* pressure dies.
-  - *Undecided, and it matters:* whether it is an ordinary illness the clan simply
-    cannot afford to cure — the great clans could save him, the Mu cannot reach that
-    high — or whether **someone gave it to him**. The first does thematic work for
-    free. The second opens a mystery that can run for a hundred chapters.
+  - **It is a special illness with no known cure, and the clan has tried many
+    things.** Not poverty and not poison. They spent — years of resources, favours,
+    and probably debts — on an unwinnable problem, and got nothing.
+  - *What that buys:* a live drain on the ascent everyone is impatient for, and an
+    ugly question someone has to ask out loud in a council room — **how much more do
+    we spend on him?** Whoever says it is monstrous and also correct. It also splits
+    the elders into two kinds: those scheming out of ambition and those scheming
+    because they have done the arithmetic. Different men, both writable now.
+  - **Do not dangle a cure.** "No known cure" invites a cure behind a seal, but the
+    timing does not work — Zishan is at realm two or three when this clock runs out,
+    and stretching a dying man across a hundred chapters so a boy can eventually save
+    him drains the urgency. It is genuinely unpreventable.
+  - **What his death is for.** It is the first time Zishan concludes that the clan was
+    simply *not strong enough* — and the reader, who has heard the prologue, knows
+    what that conclusion turned into the last time he reached it. A proof-of-life on
+    the whole premise with no memory surfaced and no seal opened. A boy at a funeral
+    thinking *this happened because we were weak* is the most frightening thing that
+    can happen in act one.
+  - *Production:* describe the illness, never name it. An invented disease name gets
+    spoken constantly and is a TTS liability for no benefit. Symptoms, good days and
+    bad days, do all the work. Its nature is otherwise unspecified and stays that way
+    until the lore needs it.
 - **The father** is his son and the most legitimate candidate — competent, ambitious,
   and fond of control.
 - **Most of the elders want someone else**, specifically someone they can control.
