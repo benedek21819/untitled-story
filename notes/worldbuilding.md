@@ -289,21 +289,36 @@ Consequences:
 - **The memories accelerate it, they do not cause it.** Opening a seal imports the
   perspective of a man already at the end of that road. He is a special case of a
   general rule, not a separate mechanic.
-- **His family is doomed by the power system, not by his past.** He could commit
-  nothing, walk none of the old road, and still lose them, because he will keep
-  climbing and one day their concerns will be noise. The threat is structural and
-  arrives regardless of what he chooses.
+**Genuine attachment is exempt.** The drift does not touch what a person actually
+cares about, however powerful they become. It raises the threshold for things *in
+general* — strangers, minor injustices, small pleasures, everyone outside the circle.
+What someone truly loves stays.
+
+So the drift is a **narrowing**, not a hollowing.
+
+Which is what makes it dangerous, and the danger points outward:
+
+- **It does not threaten his family. It threatens everyone who is not his family.** A
+  man who loves four people, and for whom the rest of the world weighs less every
+  year, is a catastrophe waiting for a pretext. He would burn a city for his sister
+  and it would not be a difficult decision — not from evil, but because by then the
+  city does not register and she does. The love remains perfectly intact. That is
+  exactly what makes it dangerous.
+- **This is how a loving man does monstrous things**, requiring no villainy at all.
+- **It explains the old era with more precision than cruelty does.** Whatever he had
+  or lacked then, nothing was pinned down. The threshold rose with no exemptions
+  beneath it until everything was noise and a life could be ended on a Tuesday
+  without looking up.
+- **The family is load-bearing, not endangered.** They are not what the drift will
+  take. They are the reason it cannot take everything.
 
 **It cannot be avoided or reversed** — so "will he escape it" is a dead question. The
-live one is *how fast, and what does he spend it on.*
+live one is *what stays inside the circle, and what does he do to everything outside
+it.*
 
-*Undecided, and recommended:* that the **rate** varies with what a person stays
-attached to — someone with nothing holding them drifts fastest. Not a cure, a brake.
-He cannot win; his choices still change how long he gets.
-
-*Scene it sets up:* an elder tells him this casually, as ordinary cultivation advice
-— you will stop caring about them eventually, everyone does, better to accept it
-early — and he does not believe it, and the reader does.
+*Scene it sets up:* an elder gives him this as ordinary cultivation advice — that in
+time almost nothing will reach him, that this is normal and better accepted early —
+and says it without any sense that it is a warning.
 
 ### Why more knowledge means more risk
 
