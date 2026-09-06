@@ -9,16 +9,30 @@ Consistency ledger. Add entries as decisions get made.
 Eras have a natural lifespan. The previous one simply ran out — no war ended it, no
 one caused it. It was time.
 
-*Candidate mechanism, following from the jar:* **a world ends when it can no longer
-hold what has grown inside it.** Still natural — worlds fill the way bodies age — so
-nobody is to blame and the clearing of karma remains just. But it gives the lifespan
-a logic the reader can feel.
+**The mechanism: the jar burst.** When there was no room left inside it, the world
+failed from the pressure and was destroyed. That is what an era's lifespan is — a
+vessel holds what grows in it until it cannot.
 
-If that holds, it produces something unpleasant: **the reincarnators are accelerating
+**Open, and adjacent to Reserved — what filled it:**
+
+- *General pressure.* The world simply filled over an age as everything inside it
+  grew. The vessel failed the way a body fails. Nobody did it, and the clearing of
+  karma is straightforwardly just.
+- *Someone was ascending.* A ball began growing toward jar-size, and this world was
+  not large enough to contain that, and it burst. The era's end then had a cause —
+  one of eight people, at 99, reaching for the hundredth step. The cleared karma
+  becomes ironic rather than just.
+
+The two produce different books, and the difference shows in the prologue's tone.
+
+Either way it produces something unpleasant: **the reincarnators are accelerating
 this world's death simply by existing.** Eight of the largest things that ever lived,
 re-growing inside a young jar, each climbing as fast as they can. No intent to harm
-is required; their survival is the harm. And if the protagonist ever works it out,
-the alternative to climbing is dying.
+is required; their survival is the harm. And if the protagonist works it out, the
+alternative to climbing is dying.
+
+It also explains why reincarnation was available only at the very top: they were the
+only things large enough to survive a vessel rupturing.
 
 **The era's end did not kill anyone.** It evicted them. Those who could reincarnate
 got out; everyone else did not.
@@ -117,13 +131,18 @@ room for them if they take it back.
 
 There is no tenth layer of the tenth realm. Nobody stands at 100.
 
-Why is open, and it is the kind of hole that can carry a series.
+**Because it is not a rung.** The hundredth step is not advancement within the world
+— it is a change of category. **At 100 a cultivator becomes the jar itself:** their
+inner world grows large enough that beings can form inside it. They stop being a ball
+and become a vessel that holds life.
 
-*Candidate, following from the jar:* if the world holds eight balls at size 99, it
-could not hold even one at size 100. The rung may be absent because **no world can
-contain it** — reaching it would mean being larger than the jar, so one would either
-break it or leave it. That is why "absolute being" is the ceiling of *this* world
-rather than of everything.
+So the ladder honestly has ninety-nine. The step past the top leaves the ladder
+entirely.
+
+This makes the cosmology recursive, and the implication is available whenever it is
+wanted: **their world is presumably someone's inner world.** If reaching 100 makes a
+vessel that holds life, the jar containing them was made the same way. The structure
+runs both directions indefinitely.
 
 ### The inner-world gate
 
@@ -279,8 +298,12 @@ rising out of an endless black ocean would be recognised instantly by every surv
 of the old era. Not a limit on his strength, but it makes "I could end this now, and
 the price is being found" a better problem than "I could end this now."
 
-Also open: whether he put it there, whether he controls it, and whether it is the
-reason the sea stirs.
+Also open: whether he put it there, and whether he controls it.
+
+**Now load-bearing:** at level 100 a cultivator's inner world grows large enough that
+*beings form inside it*. Something already lives in his ocean. So either a serpent is
+categorically different from beings arising — something he made or brought in — or it
+is evidence that his inner world was nearer the hundredth step than anyone knew.
 
 ### The sky seal
 
