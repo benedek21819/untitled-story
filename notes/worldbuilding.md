@@ -124,29 +124,83 @@ and taking orders from others.
 **Reserved.** What he actually was is decided and will be supplied when the lore
 needs it. Not an open question. Do not invent it.
 
+### Building the inner world
+
+**Every cultivator constructs their own inner world before reaching the realm where
+water begins to accumulate.** They shape it as they like — mountains, hills, plains,
+deserts, whatever they choose.
+
+It is lifeless. Nothing grows there and nothing moves. It stays that way until the
+water comes.
+
+**As water accumulates it acts on the world, according to the kind of water it is.**
+Some water nourishes: grass, foliage, trees, whole forests. Some water erodes,
+carrying the terrain away and leaving bedrock, silt, and nothing.
+
+### The two-part portrait
+
+This makes every inner world a record of two separate things:
+
+- **The terrain is what a person intended to become.** Built young, before they have
+  lived enough to have any water at all — a declaration of ambition made by someone
+  who does not yet know what their life will be.
+- **The water is what they actually became.** Accumulated at a fixed rate, never
+  chosen.
+
+The interaction between them is the verdict: the gap between the person someone meant
+to be and the person their living made of them. Green hills thick with orchard is a
+life that fed its own intention. A plateau scoured to bedrock is the opposite.
+
+Useful as a fast characterisation tool — a new cultivator can be established in three
+sentences of inner world.
+
 ### Shape
 
-Since volume is fixed by duration, shape is the only variable in the system, and
-therefore the only thing that distinguishes one cultivator's inner world from
-another's.
-
-Same volume, different geometry:
+Since volume is fixed by duration, shape carries everything that distinguishes one
+inner world from another. Same volume, different geometry:
 
 - **Wide and shallow** — a life spread across many things, none of them far down.
-  Easy to stand on. Nothing hidden and no pressure at the floor.
+  Easy to stand on, nothing hidden, no pressure at the floor.
 - **Narrow and deep** — the same water forced into a trench. Crushing at the bottom,
   most of it out of reach.
 
-Shape may also carry clarity, motion, temperature, whether the water is contained or
-spilling, whether any of it is frozen. An inner world is a portrait, not a score.
+Shape also carries clarity, motion, temperature, whether the water is contained or
+spilling, whether any of it is frozen.
 
-**The protagonist's is vast and fathomless**, which means his basin is narrow
-relative to his volume. His experience was concentrated rather than broad — an
-enormous duration spent on a very narrow set of things, which is what a recluse who
-appeared only to impose his will would accumulate.
+**The protagonist's is vast and fathomless**, so his basin is narrow relative to his
+volume. His experience was concentrated rather than broad — enormous duration spent
+on a very narrow set of things, which is what a recluse who appeared only to impose
+his will would accumulate.
 
 Every survivor of the old era has an ocean, because every one of them lived it. None
 of theirs is impressively larger than another's. They are simply old.
+
+### His drowned terrain
+
+He built a terrain once, young, before the climb, when he still intended to become
+something.
+
+An ocean of black water rose and covered all of it.
+
+Not eroded — **submerged**. Whatever he aspired to is intact or ruined at the very
+bottom, under everything he did afterwards. He is standing on the surface of an ocean
+that covers his own younger ambition, and he could reach it, and reaching it means
+going all the way down.
+
+*(What that terrain was is Reserved, along with who he was before the climb — the
+same answer.)*
+
+### The water kept the record
+
+The era's end cleared everyone's karma. No cosmic retribution is coming; from the
+heavens' perspective he begins clean.
+
+**His water is still black.**
+
+Nothing about the colour is a judgment handed down from outside — karma is external
+and it forgave him. The water is internal, produced by the living itself, and it is
+the only honest account of him left in existence. His own soul is the last thing in
+the world still holding him to it.
 
 ### The wave mechanic
 
@@ -191,6 +245,12 @@ solves a problem too elegantly. The danger scales with knowledge automatically.
 ### Undecided
 
 - Does the clear layer float on the black, and thicken over a lifetime?
+- **Can anything grow on an ocean?** If clear water nourishes, a long enough life
+  might deposit an island or a shoal — somewhere to stand that is not the surface
+  tension of his own past. A better form of the thickening-layer idea, if it holds.
+- What determines the **kind** of water? Precedent exists — old-era water is black,
+  this life's is clear — so quality tracks how the time was lived. It cannot be a
+  score awarded from outside, since the heavens have no opinion any more.
 - Does surfacing cost *self* — the scale-poisoning?
 - Is the water usable power he must never draw on?
 - Can waves knock him under involuntarily?

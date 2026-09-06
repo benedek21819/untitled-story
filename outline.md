@@ -65,6 +65,11 @@ Then the world ends, and the next one grants the wish: they do meet differently.
 - Reader stays ahead of him. He works out the mechanism late; we get there first.
 - The mechanism is never explained on the page. Shown until understood. If anyone
   lectures about drops and waves, it dies.
+- **Inner-world scenes are the one place this story fights its own medium.** The
+  system is intensely visual and a listener's attention slides off a panorama. One or
+  two concrete images per visit, never a survey, and lean on non-visual senses —
+  footing, temperature, sound, the smell of water. "The sand was still warm under it"
+  builds more world than a paragraph of hills.
 - **The safe dive is the incriminating one.** Diving under duress is excusable — he
   had no choice. Diving on an ordinary afternoon, with nothing forcing him, because
   he wanted to know, is the choice that says what he is. Those are the ones that
