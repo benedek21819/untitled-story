@@ -108,6 +108,17 @@ The protagonist opens his inner world and finds an **endless ocean**.
 - **The knowledge is not necessarily good**, and more of it means a higher chance of
   being found.
 
+### The bottom
+
+Depth equals age, so the deepest water is not his reign. It is older than that.
+
+Underneath every atrocity, beneath the whole span of his time at the top, is whoever
+he was before he was anything — from before the climb, when he was weak and refused
+and taking orders from others.
+
+**Reserved.** What he actually was is decided and will be supplied when the lore
+needs it. Not an open question. Do not invent it.
+
 ### The wave mechanic
 
 New water from this life falls into the ocean. The drops make waves. The waves wash

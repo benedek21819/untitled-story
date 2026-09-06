@@ -110,17 +110,25 @@ Candidates, not canon.
   beyond anyone alive and announce him to every survivor at once?
 - Can big waves knock him under **involuntarily**?
 
+## Reserved
+
+Decided by the author, deliberately not recorded here. Not open questions — do not
+invent, infer, or work around them. Ask.
+
+- What lies at the bottom of the ocean: who he was before the climb.
+- The true content of the withheld explanation given in the prologue.
+- What he was actually pursuing across those millennia, having ruled nothing and
+  owed nothing.
+
+*Craft note that still applies:* the withheld explanation must be written as concrete,
+specific words whose referents are unknown — not vagueness, not a trailing off. That
+requires knowing what it refers to at the time of writing.
+
 ## Open
 
 - Names: everyone, and whether the title stays.
 - The family: who they are, what each wants, what they notice.
 - The other reincarnators: how many, who appears when.
-- What lies at the bottom of the ocean, and the true content of the withheld
-  explanation.
-- **What was he doing with those millennia?** He ruled nothing and owed nothing, so
-  the question of what he actually pursued is wide open — and whatever it was had to
-  be worth an era of universal hatred. Needs an answer before the prologue is
-  written.
 - How long his blindness lasts, in chapters.
 - The first uninvited surfacing: trigger, and what he sees.
 - Arc one: chapter count and where it ends.

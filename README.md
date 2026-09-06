@@ -32,5 +32,7 @@ Written for narration, not the page.
 - Insert `02a-` style files rather than renumbering mid-draft.
 - **Settled** material is canon. Anything under **Undecided** is a candidate, not a fact —
   don't build on it without promoting it first.
+- **Reserved** means the author has decided it and is not recording it here. It is not
+  an open question and not an invitation. Do not invent, infer, or "solve" it — ask.
 - Names get tested in ElevenLabs before they're committed to. A name the model mangles
   or reads inconsistently is a name you'll be fixing for two hundred chapters.
