@@ -89,9 +89,14 @@ forgave him; the survivors did not.
 At a certain cultivation realm, a practitioner opens their inner world and finds
 their soul power condensed there as water.
 
-For almost everyone this is a single drop. Over a life of experience it accumulates —
-a puddle, a pond, eventually a lake. **It cannot be accumulated any other way.** Only
-time and lived experience. Rare exceptions exist.
+For almost everyone this is a single drop. Over a life it accumulates — a puddle, a
+pond, eventually a lake. **It cannot be accumulated any other way.** Only time and
+lived experience. Rare exceptions exist.
+
+**Volume is a function of time alone.** Everyone experiences one second of life in
+one second, so everyone accumulates at exactly the same rate. Nothing anyone does
+earns more water. What differs between people is not the amount but the **shape** —
+of the water, and of the inner world holding it.
 
 The protagonist opens his inner world and finds an **endless ocean**.
 
@@ -119,6 +124,30 @@ and taking orders from others.
 **Reserved.** What he actually was is decided and will be supplied when the lore
 needs it. Not an open question. Do not invent it.
 
+### Shape
+
+Since volume is fixed by duration, shape is the only variable in the system, and
+therefore the only thing that distinguishes one cultivator's inner world from
+another's.
+
+Same volume, different geometry:
+
+- **Wide and shallow** — a life spread across many things, none of them far down.
+  Easy to stand on. Nothing hidden and no pressure at the floor.
+- **Narrow and deep** — the same water forced into a trench. Crushing at the bottom,
+  most of it out of reach.
+
+Shape may also carry clarity, motion, temperature, whether the water is contained or
+spilling, whether any of it is frozen. An inner world is a portrait, not a score.
+
+**The protagonist's is vast and fathomless**, which means his basin is narrow
+relative to his volume. His experience was concentrated rather than broad — an
+enormous duration spent on a very narrow set of things, which is what a recluse who
+appeared only to impose his will would accumulate.
+
+Every survivor of the old era has an ocean, because every one of them lived it. None
+of theirs is impressively larger than another's. They are simply old.
+
 ### The wave mechanic
 
 New water from this life falls into the ocean. The drops make waves. The waves wash
@@ -127,8 +156,22 @@ over him where he stands, and **memories surface uninvited**.
 **Living his new life is what raises his old one.** He can refuse to dive forever and
 it changes nothing, because the trigger is not seeking — it is existing.
 
-The more intensely he lives, the larger the drop, the larger the wave, the more of
-the black comes up. His happiness is what wakes the thing underneath.
+**Waves come from resonance, not magnitude.** Drops are drops — size cannot be what
+disturbs the ocean, because every second produces the same second of water. New water
+stirs old water when its *shape matches*: when a moment rhymes with something already
+down there. The particular register of a laugh. Rain on hot stone. A phrase said a
+certain way. The new finds its like in the deep, and the deep answers.
+
+Consequences:
+
+- Nothing has to be dramatic. An ordinary afternoon can raise something monstrous
+  because the light fell a certain way.
+- You can raise any memory you choose at any moment you choose, provided you have
+  built the rhyme.
+- **He cannot defend against it.** Avoiding strong feeling doesn't help, because size
+  isn't the trigger. He would have to avoid everything resembling anything he ever
+  did — and he does not know what he did. The map required for the defence is the
+  thing he sank.
 
 Which closes a trap: once he understands the mechanism, the correct tactical response
 is to stop feeling things. Keep the water still. **The rational move and the

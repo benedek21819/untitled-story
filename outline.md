@@ -73,8 +73,10 @@ Then the world ends, and the next one grants the wish: they do meet differently.
   present. Inner-world scenes go inert fast, and in audio there is no visual to carry
   a man floating in water. The tension is what he will find and what it will do to
   him — never whether he can get back in time.
-- Memory reveals attach to emotional peaks automatically — see the wave mechanic in
-  `notes/worldbuilding.md`. Use that. Choose which old beat rhymes with which new one.
+- Memory reveals fire on **resonance, not magnitude** — see the wave mechanic in
+  `notes/worldbuilding.md`. A reveal lands wherever you have built a rhyme between a
+  present moment and something in the deep, and nothing about that moment has to be
+  dramatic. Build the rhyme first; the reveal then arrives on its own.
 - Plan proof-of-life touches for the withheld explanation every 30–40 chapters. At
   1–2 chapters/week, "hundreds of chapters later" is *years* of real time, and an
   audience will conclude you forgot.
@@ -131,4 +133,7 @@ requires knowing what it refers to at the time of writing.
 - The other reincarnators: how many, who appears when.
 - How long his blindness lasts, in chapters.
 - The first uninvited surfacing: trigger, and what he sees.
+- **What shape does, mechanically.** It is now the only variable distinguishing any
+  two inner worlds, and it has no rules yet — what a shape means, whether it can be
+  read by others, whether it can change.
 - Arc one: chapter count and where it ends.
