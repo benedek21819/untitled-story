@@ -182,30 +182,52 @@ Competent, ambitious, fond of control. He is proud of his son and he is also cou
 what his son is worth, and he would not be able to tell you where one stops. He is
 not the floor.
 
-**The mother — the floor.** Married in from outside the clan. No faction, no elders,
-no leverage, and no illusions about what her husband is. She is the only adult in his
-life who wants him to be *less* than he could be, because she can see exactly where
-being exceptional in this family leads. Everyone else in the world measures him; she
-would rather he were ordinary. So he disappoints someone every time he cultivates
-hard, and the person he disappoints is the one who loves him most cleanly.
+**The mother — the floor.** Married in from a middle-sized clan that was buying
+political favour. She was the payment.
 
-**The older sister — the floor, and the drift meter.**
+- She is the only person in that house who has already been used as an instrument by
+  a family, which is exactly what is now being done to her son. Her wanting him to be
+  *less* is not a temperament, it is experience.
+- The elders consider it a poor match — a middle clan was beneath a successor — so
+  she is faintly resented inside the Mu and has no standing of her own. That
+  isolation is what makes the bond precious.
+- **Her birth clan will come asking.** When the Mu begin to rise they will want the
+  favour they paid for, and they will approach her to reach Zishan. Her refusing
+  them, at a cost, is how the floor gets *proved* rather than asserted.
+- Everyone else in the world measures him. She would rather he were ordinary. So he
+  disappoints someone every time he cultivates hard, and the person he disappoints is
+  the one who loves him most cleanly.
 
-- *Displaced by him.* Main line, older, and the candidate until a brother was born who
-  did nothing but exist. She loves him anyway and never once lets him feel it, which
-  is what makes the affection demonstrably unearned and un-owed.
-- *Her own want:* she grew up inside this clan with no claim and no protection, so
-  she reads the elders better than her father does. Unsentimental about the clan,
-  entirely sentimental about her brother.
-- *Why a sister and not only a mother:* **she is how the scale poisoning becomes
-  visible.** Attachment is exempt, so he will love her at chapter four hundred exactly
-  as much as at chapter four — but she cultivates, and she is older, so she starts
-  *ahead* of him. There is a chapter where he passes her. Later there is a point where
-  she cannot follow him anywhere at all. He still loves her; he simply cannot be with
-  her. A non-cultivating mother cannot do this job, because she is left behind from
-  page one and it reads as ordinary.
-- *Format bonus:* an older sister explaining clan politics to a younger brother is the
-  most natural exposition vehicle there is, and in audio it beats narration outright.
+**The older sister — the floor, the tone, and the drift meter.**
+
+- *She was the successor after their father, and she did not want it.* Zishan's birth
+  released her, and she was relieved. Her love has no political content because she
+  **gained** by him — nobody, including her, can read it any other way.
+- *Decent talent, no interest in using it.* She would rather enjoy her life. In a
+  world where everyone claws upward she was handed the first step and shrugged: she
+  is the road not taken, living in the house, being happy. Shen Luo *is* the climb.
+  He paid everything for it. He grows up beside her.
+- *Why she matters for the format:* this story is a dying patriarch, scheming elders,
+  and a boy with an ocean of atrocity in him. A weekly audio serial needs one voice in
+  the cast that is not tense or the listener wears out. She is also the *Absolute
+  Regression* register — warmth and banter from someone who refuses to take the
+  protagonist seriously.
+- *She knows the politics and treats them as gossip*, not strategy. Carefree is not
+  unobservant. This keeps her as the natural exposition vehicle — an older sister
+  explaining the clan to a younger brother beats narration outright in audio — without
+  costing the tone.
+- **The drift meter, and it is terminal.** Only the Immortal realm removes natural
+  lifespan. A sister who does not cultivate seriously ages and dies on a human
+  timescale while her brother walks toward a realm where death has to be delivered by
+  hand. She is structurally the sibling who dies of old age while he is still young.
+  Attachment is exempt from scale poisoning, so he will love her at chapter four
+  hundred exactly as at chapter four — and that is the problem.
+- *Open, and large:* does he try to drag her up the ladder, can he, and would she
+  accept it from what he will have become by then.
+- *Someone defends her right to idle*, because a hungry clan does not let a talented
+  main-line daughter do nothing. **The father does.** He never once made her do
+  anything. It is the only place his control slips, it is the proof he loves his
+  children — and the elders count it as weakness.
 
 **Naming trap.** Clan siblings usually share a generational character — Mu Zishan and
 Mu Zi-something. Elegant in print, ruinous in audio: two constantly-spoken names
