@@ -157,9 +157,17 @@ and taking orders from others.
 **Reserved.** What he actually was is decided and will be supplied when the lore
 needs it. Not an open question. Do not invent it.
 
-**Open, and adjacent to Reserved:** if every cultivator builds their own inner world,
-then someone chose to make an endless black sea. Did he build the ocean? When, and as
-what? That choice would say a great deal about him.
+**He built it.** In the previous life, what he made was black water — and it was not
+endless then. It grew as he did. Every realm he gained across the old era, he spent
+extending the water, over and over, for millennia, until it exceeded anything he
+could see the end of. Nobody made him choose that. He simply kept choosing it.
+
+Which gives the island its exact weight: the same budget, spent the other way, one
+small piece at a time, against a sea he made himself. He is undoing his own work at
+an infinitesimal rate.
+
+And it tightens the bottom — if he made the water, the deepest of it is the first he
+ever made. The oldest thing down there is the beginning of the thing itself.
 
 ### The water kept the record
 
@@ -219,7 +227,8 @@ solves a problem too elegantly. The danger scales with knowledge automatically.
   soul-examination is a threat, and two of them meeting cannot verify each other
   without mutual exposure.)
 - Can anything survive on the island long-term, or does the deep eventually take
-  whatever he builds?
+  whatever he builds? **Deferred** — to be established when the story reaches it.
+  Not needed until the island carries something worth losing.
 
 ## Names and terms
 
