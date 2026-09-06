@@ -320,6 +320,51 @@ it.*
 time almost nothing will reach him, that this is normal and better accepted early —
 and says it without any sense that it is a warning.
 
+### Seeing another inner world
+
+**It is perceivable, but generally only with consent** — and consent is close to
+unthinkable.
+
+**Inspecting another person's inner world is taboo.** It is the most private thing
+anyone has. Nobody feels right granting access to their own soul, and nobody enters
+another's knowing they will be entirely at that person's mercy once inside.
+
+The taboo is **self-enforcing**: both sides have overwhelming reason to refuse, so it
+needs no law or custom to hold it up. The mechanics do the work.
+
+**Forced entry is possible** — capture someone, break in — but it is a double-edged
+blade. A cultivator has full control within their own inner world, so an intruder who
+is not powerful enough can be killed or erased outright. It is both taboo and
+frequently suicidal, which means it happens only when someone is desperate or
+certain.
+
+Consequences:
+
+- **He has no reason to fear for his inner world** until someone far stronger wants
+  to force it. Refusing is normal; asking is the transgression. Nobody wonders why he
+  never shows anyone.
+- **This is not where his exposure risk lives.** His concealment problem is entirely
+  behavioural — what he knows, how he acts, what he can do.
+- **The reincarnators cannot scan for each other.** Recognition has to come through
+  behaviour, history, and remnants, which is where the leak already sits.
+- **Nobody in either era has ever seen his ocean.** The world never knew him by his
+  soul. It knew him by what he did, and that is still the only evidence against him
+  in either life.
+
+The two exceptions are enormous precisely because they are near-unthinkable:
+
+- **Someone offering.** Not a gesture but the largest act of trust available in this
+  world. If the friend ever offers, the protagonist is in an impossible position,
+  because he cannot reciprocate.
+- **Someone forcing.** A violation rather than an attack, with the moral weight of
+  one. Whoever does it has abandoned something, and everyone watching knows.
+
+**Open:** whether his defence against forced entry scales with his *current realm* or
+with the *inner world itself*. If the latter, an intruder expecting a child's puddle
+finds an endless black ocean and does not survive it — and killing an elder mid-
+examination is its own catastrophe. Same shape as the serpent: the defence is
+absolute, and using it identifies him.
+
 ### Why more knowledge means more risk
 
 Everything he learns is something he can accidentally demonstrate knowing. He
@@ -328,10 +373,6 @@ solves a problem too elegantly. The danger scales with knowledge automatically.
 
 ### Undecided
 
-- Do all reincarnators have oceans — or something equally unmistakable — making the
-  inner world the mark that identifies them to each other? (If yes: any deep
-  soul-examination is a threat, and two of them meeting cannot verify each other
-  without mutual exposure.)
 - Can anything survive on the island long-term, or does the deep eventually take
   whatever he builds? **Deferred** — to be established when the story reaches it.
   Not needed until the island carries something worth losing.
