@@ -64,7 +64,7 @@ Then the world ends, and the next one grants the wish: they do meet differently.
 
 - Reader stays ahead of him. He works out the mechanism late; we get there first.
 - The mechanism is never explained on the page. Shown until understood. If anyone
-  lectures about oceans and resonance, it dies.
+  lectures about the ocean and the sky, it dies.
 - **Inner-world scenes are the one place this story fights its own medium.** The
   system is intensely visual and a listener's attention slides off a panorama. One or
   two concrete images per visit, never a survey, and lean on non-visual senses —
@@ -82,10 +82,12 @@ Then the world ends, and the next one grants the wish: they do meet differently.
   present. Inner-world scenes go inert fast, and in audio there is no visual to carry
   a man floating in water. The tension is what he will find and what it will do to
   him — never whether he can get back in time.
-- Memory reveals fire on **resonance, not magnitude** — see the wave mechanic in
-  `notes/worldbuilding.md`. A reveal lands wherever you have built a rhyme between a
-  present moment and something in the deep, and nothing about that moment has to be
-  dramatic. Build the rhyme first; the reveal then arrives on its own.
+- **Nothing about his past reaches him involuntarily.** Both the sky and the ocean
+  are voluntary, so every reveal in the present timeline happens because he chose to
+  go and take it. The pressure that makes him choose has to come from **outside** —
+  people who remember him, remnants, records, and the friend most of all. The outside
+  asks; the inside is the only place with an answer; reaching costs him something.
+  Build the question before you build the reveal.
 - Plan proof-of-life touches for the withheld explanation every 30–40 chapters. At
   1–2 chapters/week, "hundreds of chapters later" is *years* of real time, and an
   audience will conclude you forgot.
@@ -120,7 +122,6 @@ Candidates, not canon.
   them: not by turning cruel, but by becoming unable to take them seriously.
 - Is the ocean **usable power he must never use** — a loaded gun that would put him
   beyond anyone alive and announce him to every survivor at once?
-- Can big waves knock him under **involuntarily**?
 
 ## Reserved
 

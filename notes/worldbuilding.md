@@ -182,28 +182,62 @@ higher cultivation realm than the last to open.
 **He built it himself**, in the old era, to release only what would be necessary at
 each stage of his path.
 
-This is deliberately separate from the ocean, and the two do not overlap:
+**Opening a layer is voluntary.** Realm is a prerequisite, not a trigger — reaching
+the necessary level does not open anything. Each layer still takes deliberate effort
+to break, and he cannot attempt a higher layer without the power the previous one
+required.
 
-- **The sky** — scheduled, curated, intentional. What past-him decided present-him
-  would need, and when. Knowledge as a briefing.
-- **The ocean** — involuntary and uncurated. Resonance raises whatever rhymes, in no
-  order, with no regard for what is useful. Knowledge as an ambush.
-
-The sky is what he was meant to know. The ocean is what he was not. The gap between
-them is where much of the story lives.
+So the sky is a door he holds the key to and decides, every day, not to go through.
+Not something that happens to him — a choice he re-makes continuously, which is the
+right shape for a character whose defining trait is restraint.
 
 Consequences:
 
-- **Resonance is a flaw in his own plan.** He built a perfect staged disclosure and
-  could not stop the water answering rhymes regardless. The scheme leaks because he
-  is alive and having a life.
-- **It restores inevitability.** He can refuse the ocean forever. He cannot refuse to
-  cultivate — he needs the power to survive — so the sky opens whether he wants it or
-  not. A clock, of his own making.
 - **A visible progress meter.** How much sky is open. No numbers required.
 - **Every unsealing is a message from someone who knew exactly what he was doing.**
   The curriculum is a statement of priorities. A layer that teaches him something
   appalling is past-him saying *you will need this* — and he cannot ask why.
+- **He knows what is available and refuses it anyway.** Once he has the realm for a
+  layer, the door is unlocked and he still will not open it. Worse for him, better
+  for the story.
+
+### Both channels are voluntary
+
+The sky and the ocean are separate systems — the sky is scheduled and curated, what
+past-him decided he would need; the ocean is raw and unordered, everything else — but
+**neither opens by itself.** Nothing about his past reaches him unless he goes and
+takes it.
+
+The ocean does not leak. It does not stir on its own, it does not answer rhymes, and
+living his life does not raise it. It is still water, and it stays still.
+
+*Optional, undecided:* whether the water retains any **reaction** without being a
+mechanism — an unaccountable wrongness on encountering something, with no content and
+nothing retrievable. A symptom rather than a leak. Useful because the reader is ahead
+of him and can read those moments correctly when he cannot.
+
+### The leak is outside him
+
+He controls his own memory completely. He controls the world not at all — and the
+world was *there*.
+
+This is the involuntary channel, and it is external by design:
+
+- **People who lived through him.** Every reincarnator remembers everything. They say
+  things he cannot parse, react to him in ways that make no sense, name things he
+  does not recognise.
+- **The friend above all** — complete memory, sitting next to him, occasionally
+  saying something that does not land right. The primary leak.
+- **Remnants.** Places, objects, ruins, techniques that outlasted the era.
+- **Records and legend.** Distorted accounts of what he was, encountered as history
+  rather than as memory.
+
+This is what drives the plot, and it solves the problem the voluntary rules create.
+A protagonist this disciplined, with these reasons not to look, could plausibly never
+look — so the pressure cannot come from inside him.
+
+**The loop:** the outside world asks a question. The sky or the ocean is the only
+place with an answer. Reaching for it costs him something.
 
 ### The bottom
 
@@ -240,36 +274,6 @@ and it forgave him. The ocean is internal, and it is the only honest account of 
 left in existence. His own soul is the last thing in the world still holding him to
 it.
 
-### The wave mechanic
-
-The ocean stirs on its own, and **memories surface uninvited**.
-
-**Waves come from resonance.** Something in his day resembles something in the deep,
-and the water answers. The particular register of a laugh. Rain on hot stone. A
-phrase said a certain way. Nothing falls in, nothing is poured — the sea moves
-because it *is* him, and something out here matched something down there.
-
-Consequences:
-
-- Nothing has to be dramatic. An ordinary afternoon can raise something monstrous
-  because the light fell a certain way.
-- No visible cause. Nobody watching him could point at what did it.
-- You can raise any memory you choose at any moment you choose, provided you have
-  built the rhyme.
-- **He cannot defend against it.** Avoiding strong feeling doesn't help, because
-  intensity isn't the trigger. He would have to avoid everything resembling anything
-  he ever did — and he does not know what he did. The map required for the defence is
-  the thing he sank.
-
-Which closes a trap: once he understands the mechanism, the correct tactical response
-is to stop feeling things. Keep the water still. **The rational move and the
-monstrous move are the same move.** He can protect his family by ceasing to love
-them.
-
-*Ambient use:* a calm life is a calm sea and easy to stand on; a turbulent one means
-he is fighting for footing. One line, any chapter, conveys his whole inner state
-without stopping the scene.
-
 ### Why more knowledge means more risk
 
 Everything he learns is something he can accidentally demonstrate knowing. He
@@ -279,7 +283,6 @@ solves a problem too elegantly. The danger scales with knowledge automatically.
 ### Undecided
 
 - Does surfacing cost *self* — the scale-poisoning?
-- Can waves knock him under involuntarily, so that he falls in rather than dives?
 - Do all reincarnators have oceans — or something equally unmistakable — making the
   inner world the mark that identifies them to each other? (If yes: any deep
   soul-examination is a threat, and two of them meeting cannot verify each other
