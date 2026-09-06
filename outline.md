@@ -140,9 +140,9 @@ requires knowing what it refers to at the time of writing.
 
 ## Open
 
-- Names: his name in this life, the friend, the family, the reincarnators — and
-  whether the title stays. *(Settled: Shen Luo, his name in the old era.)*
-- The family: who they are, what each wants, what they notice.
+- Names: the friend, the rest of the family, the reincarnators — and whether the
+  title stays. *(Settled: Mu Zishan, this life; Shen Luo, the old era.)*
+- The Mu family: who they are, what each wants, what they notice.
 - The other reincarnators: how many, who appears when.
 - **How many chapters until realm five** — his blindness lasts until the inner-world
   gate, so this number is the length of act one.

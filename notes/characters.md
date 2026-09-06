@@ -4,14 +4,25 @@ Remaining names are TBD. Test candidates in ElevenLabs before committing.
 
 ---
 
-## The protagonist — Shen Luo *(old era)* / given name TBD *(this life)*
+## The protagonist — Mu Zishan *(this life)* / Shen Luo *(old era)*
 
 **Two names, doing opposite jobs.** *Shen Luo* is the name the old world stopped
 saying aloud — spoken in the prologue, in memory, and by enemies, never by anyone who
-loves him. His name in this life is chosen by a family who have no idea what they are
-holding, and should sound like nothing at all. The distance between the two names is
-the premise in two words, so nothing about the new one may echo the old: not the
-surname, not the sound. A hunter who hears an echo has a thread to pull.
+loves him. *Mu Zishan* was chosen by a family who have no idea what they are holding,
+and sounds like nothing at all. The distance between the two is the premise in two
+words, so nothing about the new name may echo the old — not the surname, not the
+sound. A hunter who hears an echo has a thread to pull.
+
+*Zishan* is 山, mountain: the most solid thing there is, given to a boy whose inside
+has no bottom. Like Far Shore, this is for the reader only. No character remarks on
+it, ever.
+
+**Audio constraints on any name added later.** `Mu` and `Shen` were chosen to sit far
+apart when spoken, since the whole book asks a listener to hold the two names
+separate. Do not introduce a recurring name that rhymes with `Shen` or `-shan` —
+that rules out Han, Wen, Yan, and Meng as surnames. `Gu` and `Tang` were rejected on
+different grounds: the first thing this audience associates with each belongs to
+another book.
 
 - **Was:** an absolute being at the very top of the previous era. Reached it through
   calculation and cruelty. Every other absolute being wanted him dead; none of them
@@ -77,7 +88,7 @@ friends. Neither knows what the other is.
 - What does he want in this life that has nothing to do with the protagonist? He
   needs one, or he's a device pointed at the main character.
 
-## The family — *TBD*
+## The family — the Mu family, *specifics TBD*
 
 Two or three specific people who want specific things and notice specific changes.
 Not "a loving family" in the abstract.
