@@ -1,18 +1,36 @@
-# Untitled Story
+# They Called Me the Calamity
 
-Working repository for a new story. Title TBD.
+*Working title.* A cultivation serial written for audiobook release.
+
+An absolute being from a dead era reincarnates into the new one, having sunk his own
+memories to avoid being found. He does not know what he was. Everyone still looking
+for him does.
+
+## Format
+
+Written for narration, not the page.
+
+| | |
+|---|---|
+| Target chapter length | 1,500–3,000 words (~10–20 min at 150 wpm) |
+| Release cadence | 1–2 chapters/week |
+| Narration | ElevenLabs |
+| Platforms | YouTube and others |
 
 ## Layout
 
 | Path | What goes here |
 |---|---|
-| `outline.md` | Premise, structure, beat sheet. The map. |
-| `chapters/` | The draft itself, one file per chapter. |
-| `notes/characters.md` | Who they are, what they want, how they change. |
-| `notes/worldbuilding.md` | Setting, rules, history, anything that has to stay consistent. |
+| `outline.md` | Premise, spine, structure, open questions |
+| `chapters/` | The draft, one file per chapter |
+| `notes/worldbuilding.md` | Eras, absolute beings, the ocean — the consistency ledger |
+| `notes/characters.md` | Who they are, what they want, how they change |
 
 ## Conventions
 
-- Chapters are named `NN-short-slug.md` (e.g. `01-the-arrival.md`) so they sort in reading order.
-- Numbering is deliberately sparse at first — insert `02a-` style files rather than renumbering everything mid-draft.
-- Commit messages describe the change, not the word count: "rewrite ch3 confrontation" beats "updates".
+- Chapters are `NN-short-slug.md` so they sort in reading order.
+- Insert `02a-` style files rather than renumbering mid-draft.
+- **Settled** material is canon. Anything under **Undecided** is a candidate, not a fact —
+  don't build on it without promoting it first.
+- Names get tested in ElevenLabs before they're committed to. A name the model mangles
+  or reads inconsistently is a name you'll be fixing for two hundred chapters.
