@@ -146,6 +146,65 @@ evidence — and it sits on top of the evidence, both visible in one glance.
 
 The deep can send storms.
 
+### Items and effects
+
+**The inner world is not directly usable power.** It grants unique effects, not
+strength. Cultivation is the only source of power; the inner world is a separate
+axis entirely.
+
+**Objects can be carried in and out.** Items from the outside world can be brought
+into an inner world, where they may act on it or be kept, and retrieved again. This
+is universal — every cultivator has it, and what a person keeps in their world
+matters mechanically, not only as characterisation.
+
+For the protagonist this has a sharp consequence: **his inner world is an ocean, so
+he has nowhere to put anything.** Until the island. It is the only ground he owns and
+the only place anything he carries can rest, which makes whether it holds a practical
+question as well as a thematic one.
+
+### The serpent
+
+There is a serpent in his ocean, and it can be brought out into the world.
+
+*Undecided, and worth keeping:* that surfacing it would be total exposure — a serpent
+rising out of an endless black ocean would be recognised instantly by every survivor
+of the old era. Not a limit on his strength, but it makes "I could end this now, and
+the price is being found" a better problem than "I could end this now."
+
+Also open: whether he put it there, whether he controls it, and whether it is the
+reason the sea stirs.
+
+### The sky seal
+
+The sky of his inner world is sealed, in **multiple layers**. Each layer requires a
+higher cultivation realm than the last to open.
+
+**He built it himself**, in the old era, to release only what would be necessary at
+each stage of his path.
+
+This is deliberately separate from the ocean, and the two do not overlap:
+
+- **The sky** — scheduled, curated, intentional. What past-him decided present-him
+  would need, and when. Knowledge as a briefing.
+- **The ocean** — involuntary and uncurated. Resonance raises whatever rhymes, in no
+  order, with no regard for what is useful. Knowledge as an ambush.
+
+The sky is what he was meant to know. The ocean is what he was not. The gap between
+them is where much of the story lives.
+
+Consequences:
+
+- **Resonance is a flaw in his own plan.** He built a perfect staged disclosure and
+  could not stop the water answering rhymes regardless. The scheme leaks because he
+  is alive and having a life.
+- **It restores inevitability.** He can refuse the ocean forever. He cannot refuse to
+  cultivate — he needs the power to survive — so the sky opens whether he wants it or
+  not. A clock, of his own making.
+- **A visible progress meter.** How much sky is open. No numbers required.
+- **Every unsealing is a message from someone who knew exactly what he was doing.**
+  The curriculum is a statement of priorities. A layer that teaches him something
+  appalling is past-him saying *you will need this* — and he cannot ask why.
+
 ### The bottom
 
 Depth equals age, so the deepest water is not his reign. It is older than that.
@@ -220,7 +279,6 @@ solves a problem too elegantly. The danger scales with knowledge automatically.
 ### Undecided
 
 - Does surfacing cost *self* — the scale-poisoning?
-- Is the ocean usable power he must never draw on?
 - Can waves knock him under involuntarily, so that he falls in rather than dives?
 - Do all reincarnators have oceans — or something equally unmistakable — making the
   inner world the mark that identifies them to each other? (If yes: any deep

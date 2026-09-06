@@ -70,6 +70,10 @@ Then the world ends, and the next one grants the wish: they do meet differently.
   two concrete images per visit, never a survey, and lean on non-visual senses —
   footing, temperature, sound, the smell of water. "The sand was still warm under it"
   builds more world than a paragraph of hills.
+- **He is overpowered, so fights are concealment problems, not power problems.**
+  Winning is free; winning without being recognised is the expensive part. Frame
+  every fight as "what will it cost him to do this quietly" — otherwise combat goes
+  slack, because the outcome is never in doubt.
 - **The safe dive is the incriminating one.** Diving under duress is excusable — he
   had no choice. Diving on an ordinary afternoon, with nothing forcing him, because
   he wanted to know, is the choice that says what he is. Those are the ones that
