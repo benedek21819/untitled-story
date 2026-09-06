@@ -64,7 +64,7 @@ Then the world ends, and the next one grants the wish: they do meet differently.
 
 - Reader stays ahead of him. He works out the mechanism late; we get there first.
 - The mechanism is never explained on the page. Shown until understood. If anyone
-  lectures about drops and waves, it dies.
+  lectures about oceans and resonance, it dies.
 - **Inner-world scenes are the one place this story fights its own medium.** The
   system is intensely visual and a listener's attention slides off a panorama. One or
   two concrete images per visit, never a survey, and lean on non-visual senses —
@@ -107,9 +107,10 @@ of him, should feel the wrongness of that warmth.
 
 Candidates, not canon.
 
-- Does the clear layer float on the black and **thicken over a lifetime**? If so,
-  that's the mechanical form of the "something else" path — outweighing the dark
-  rather than erasing it. Nearly hopeless, which is the right amount of hope.
+- Does the **island** hold? It is the mechanical form of the "something else" path —
+  not outweighing the dark, which is impossible, but building something small and
+  deliberate on top of it and defending that. Nearly hopeless, which is the right
+  amount of hope.
 - Does surfacing cost **self** — not evil, but *scale*? He remembers ruling
   everything and stops being able to take small lives seriously. That's how he loses
   them: not by turning cruel, but by becoming unable to take them seriously.

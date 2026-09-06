@@ -84,27 +84,35 @@ of them did.
 **People remember anyway.** Absolution and memory are separate systems. The ledger
 forgave him; the survivors did not.
 
-## The inner world and the ocean
+## The inner world
 
-At a certain cultivation realm, a practitioner opens their inner world and finds
-their soul power condensed there as water.
+At a certain cultivation realm, a practitioner opens their inner world and **builds
+it**. Mountains, hills, plains, forest, desert — whatever they choose. It is theirs,
+made deliberately, and it is a declaration: this is what I intend to be.
 
-For almost everyone this is a single drop. Over a life it accumulates — a puddle, a
-pond, eventually a lake. **It cannot be accumulated any other way.** Only time and
-lived experience. Rare exceptions exist.
+**Realm determines how much world you get.** As a cultivator rises, the inner world
+can be extended in size and complexity — more terrain, greater intricacy, ranges
+where there were hills. This is the progression marker. No numbers and no system
+window: you gauge a cultivator by looking at what they have built.
 
-**Volume is a function of time alone.** Everyone experiences one second of life in
-one second, so everyone accumulates at exactly the same rate. Nothing anyone does
-earns more water. What differs between people is not the amount but the **shape** —
-of the water, and of the inner world holding it.
+There is no accumulating soul-water. Nothing fills up over a life. A person's inner
+world is what they made and what their living has since done to it — weathering,
+growth, ruin — which makes it a portrait in two parts: **intention, and what came of
+it.** A new cultivator can be established in three sentences of inner world.
 
-The protagonist opens his inner world and finds an **endless ocean**.
+### What the protagonist finds instead
+
+He reaches the realm to build his inner world, and there is nothing to build.
+
+**It is already there.** An endless black ocean, finished, enormous, and not his to
+design. He arrives to make something and finds it made.
+
+That is the difference between him and everyone alive — not that he has more, but
+that he was never given the choice.
 
 ### Rules
 
 - **Depth equals age.** The deeper the water, the older the memory held there.
-- **Colour marks the life.** Water from this life is crystal clear, almost shining.
-  Water from the old era is pitch black.
 - He can **stand and walk on the surface**. He can dive with effort.
 - **Diving is not difficult. He chooses not to go.** The limit is will, not pressure.
 - **Diving yields knowledge only — never power.** No memory makes him stronger. The
@@ -112,6 +120,31 @@ The protagonist opens his inner world and finds an **endless ocean**.
   walks; knowledge comes from the ocean, instantly and freely.
 - **The knowledge is not necessarily good**, and more of it means a higher chance of
   being found.
+
+### The island
+
+He cannot remove the ocean, drain it, or build terrain on a seafloor he cannot reach.
+But as he rises through the realms, the world-budget every cultivator spends on
+expansion, he spends **building a small island on the water**.
+
+The inequality is the point. Everyone else grows outward. He builds against an
+infinite sea, and his island stays small, because the ocean does not end.
+
+So his inner world says two things at once:
+
+- **The ocean** — what he was. Not chosen, not removable, endless.
+- **The island** — what he is making. Chosen, deliberate, tiny, and floating on the
+  other thing.
+
+**What appears on the island over time is the record of what he decided to keep.** A
+tree. A house. A courtyard shaped like one he knows. It accrues quietly across
+hundreds of chapters and pays off without a word of explanation — the exact inverse
+of the ocean, which is the record of what he cannot get rid of.
+
+It is also the only part of his inner world that is his, the only part that is not
+evidence — and it sits on top of the evidence, both visible in one glance.
+
+The deep can send storms.
 
 ### The bottom
 
@@ -124,71 +157,9 @@ and taking orders from others.
 **Reserved.** What he actually was is decided and will be supplied when the lore
 needs it. Not an open question. Do not invent it.
 
-### Building the inner world
-
-**Every cultivator constructs their own inner world before reaching the realm where
-water begins to accumulate.** They shape it as they like — mountains, hills, plains,
-deserts, whatever they choose.
-
-It is lifeless. Nothing grows there and nothing moves. It stays that way until the
-water comes.
-
-**As water accumulates it acts on the world, according to the kind of water it is.**
-Some water nourishes: grass, foliage, trees, whole forests. Some water erodes,
-carrying the terrain away and leaving bedrock, silt, and nothing.
-
-### The two-part portrait
-
-This makes every inner world a record of two separate things:
-
-- **The terrain is what a person intended to become.** Built young, before they have
-  lived enough to have any water at all — a declaration of ambition made by someone
-  who does not yet know what their life will be.
-- **The water is what they actually became.** Accumulated at a fixed rate, never
-  chosen.
-
-The interaction between them is the verdict: the gap between the person someone meant
-to be and the person their living made of them. Green hills thick with orchard is a
-life that fed its own intention. A plateau scoured to bedrock is the opposite.
-
-Useful as a fast characterisation tool — a new cultivator can be established in three
-sentences of inner world.
-
-### Shape
-
-Since volume is fixed by duration, shape carries everything that distinguishes one
-inner world from another. Same volume, different geometry:
-
-- **Wide and shallow** — a life spread across many things, none of them far down.
-  Easy to stand on, nothing hidden, no pressure at the floor.
-- **Narrow and deep** — the same water forced into a trench. Crushing at the bottom,
-  most of it out of reach.
-
-Shape also carries clarity, motion, temperature, whether the water is contained or
-spilling, whether any of it is frozen.
-
-**The protagonist's is vast and fathomless**, so his basin is narrow relative to his
-volume. His experience was concentrated rather than broad — enormous duration spent
-on a very narrow set of things, which is what a recluse who appeared only to impose
-his will would accumulate.
-
-Every survivor of the old era has an ocean, because every one of them lived it. None
-of theirs is impressively larger than another's. They are simply old.
-
-### His drowned terrain
-
-He built a terrain once, young, before the climb, when he still intended to become
-something.
-
-An ocean of black water rose and covered all of it.
-
-Not eroded — **submerged**. Whatever he aspired to is intact or ruined at the very
-bottom, under everything he did afterwards. He is standing on the surface of an ocean
-that covers his own younger ambition, and he could reach it, and reaching it means
-going all the way down.
-
-*(What that terrain was is Reserved, along with who he was before the climb — the
-same answer.)*
+**Open, and adjacent to Reserved:** if every cultivator builds their own inner world,
+then someone chose to make an endless black sea. Did he build the ocean? When, and as
+what? That choice would say a great deal about him.
 
 ### The water kept the record
 
@@ -198,34 +169,30 @@ heavens' perspective he begins clean.
 **His water is still black.**
 
 Nothing about the colour is a judgment handed down from outside — karma is external
-and it forgave him. The water is internal, produced by the living itself, and it is
-the only honest account of him left in existence. His own soul is the last thing in
-the world still holding him to it.
+and it forgave him. The ocean is internal, and it is the only honest account of him
+left in existence. His own soul is the last thing in the world still holding him to
+it.
 
 ### The wave mechanic
 
-New water from this life falls into the ocean. The drops make waves. The waves wash
-over him where he stands, and **memories surface uninvited**.
+The ocean stirs on its own, and **memories surface uninvited**.
 
-**Living his new life is what raises his old one.** He can refuse to dive forever and
-it changes nothing, because the trigger is not seeking — it is existing.
-
-**Waves come from resonance, not magnitude.** Drops are drops — size cannot be what
-disturbs the ocean, because every second produces the same second of water. New water
-stirs old water when its *shape matches*: when a moment rhymes with something already
-down there. The particular register of a laugh. Rain on hot stone. A phrase said a
-certain way. The new finds its like in the deep, and the deep answers.
+**Waves come from resonance.** Something in his day resembles something in the deep,
+and the water answers. The particular register of a laugh. Rain on hot stone. A
+phrase said a certain way. Nothing falls in, nothing is poured — the sea moves
+because it *is* him, and something out here matched something down there.
 
 Consequences:
 
 - Nothing has to be dramatic. An ordinary afternoon can raise something monstrous
   because the light fell a certain way.
+- No visible cause. Nobody watching him could point at what did it.
 - You can raise any memory you choose at any moment you choose, provided you have
   built the rhyme.
-- **He cannot defend against it.** Avoiding strong feeling doesn't help, because size
-  isn't the trigger. He would have to avoid everything resembling anything he ever
-  did — and he does not know what he did. The map required for the defence is the
-  thing he sank.
+- **He cannot defend against it.** Avoiding strong feeling doesn't help, because
+  intensity isn't the trigger. He would have to avoid everything resembling anything
+  he ever did — and he does not know what he did. The map required for the defence is
+  the thing he sank.
 
 Which closes a trap: once he understands the mechanism, the correct tactical response
 is to stop feeling things. Keep the water still. **The rational move and the
@@ -244,19 +211,15 @@ solves a problem too elegantly. The danger scales with knowledge automatically.
 
 ### Undecided
 
-- Does the clear layer float on the black, and thicken over a lifetime?
-- **Can anything grow on an ocean?** If clear water nourishes, a long enough life
-  might deposit an island or a shoal — somewhere to stand that is not the surface
-  tension of his own past. A better form of the thickening-layer idea, if it holds.
-- What determines the **kind** of water? Precedent exists — old-era water is black,
-  this life's is clear — so quality tracks how the time was lived. It cannot be a
-  score awarded from outside, since the heavens have no opinion any more.
 - Does surfacing cost *self* — the scale-poisoning?
-- Is the water usable power he must never draw on?
-- Can waves knock him under involuntarily?
-- Do all reincarnators have oceans, making soul depth the mark that identifies them
-  to each other? (If yes: any deep soul-examination is a threat, and two of them
-  meeting cannot verify each other without mutual exposure.)
+- Is the ocean usable power he must never draw on?
+- Can waves knock him under involuntarily, so that he falls in rather than dives?
+- Do all reincarnators have oceans — or something equally unmistakable — making the
+  inner world the mark that identifies them to each other? (If yes: any deep
+  soul-examination is a threat, and two of them meeting cannot verify each other
+  without mutual exposure.)
+- Can anything survive on the island long-term, or does the deep eventually take
+  whatever he builds?
 
 ## Names and terms
 
