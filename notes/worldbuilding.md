@@ -119,10 +119,24 @@ ceiling of the world is called the Far Shore. Nobody in the story means it about
 Only the reader hears it, and hears it every time the term is spoken in front of a boy
 who will not swim. Never have a character notice this.
 
+### Lifespan
+
+**Every realm extends life.** Cultivation buys years at every step, so even a modest
+cultivator lives far longer than a mortal, and someone in the middle realms lives a
+very long time. The tenth realm does not begin this — it finishes it.
+
+Two things follow, and both matter more than the rule itself:
+
+- **Nobody is short of time in the way mortals are.** Plans run on decades. A clan
+  can wait. An enemy can wait. Urgency in this world almost never comes from age, so
+  when something *is* urgent it is because someone made it so.
+- **Refusing to cultivate has a visible price, and the person refusing can see it.**
+  They are not declining power. They are declining centuries, knowingly.
+
 ### The Immortal realm
 
-**From the tenth realm onward there is no natural lifespan.** An Immortal dies only
-by being killed, or when the world ends.
+**From the tenth realm onward there is no natural lifespan at all.** An Immortal dies
+only by being killed, or when the world ends.
 
 Consequences:
 

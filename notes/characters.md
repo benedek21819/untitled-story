@@ -131,10 +131,17 @@ stage. Do not resolve this. It is the clock on act one.
 
 ### The succession, as it stands
 
-- **The grandfather** is patriarch, extremely old, near the end of his natural
-  lifespan. (He is therefore below the Immortal realm; only realm ten removes natural
-  death.) His life is the clock on act one, and his death is also when the clan's
-  protection from *outside* pressure dies.
+- **The grandfather** is patriarch, extremely old, and **dying of an illness** — not
+  of age. Cultivators live far too long for age to be a plot clock, and an illness is
+  better in three ways: it has symptoms, so the clock is something a listener *hears*
+  in scenes rather than is told about; its timing is uncertain, which is what makes
+  the elders move now instead of waiting; and an illness a great clan could cure and
+  the Mu cannot is the clan's entire hunger stated in one image. His death is also
+  when the clan's protection from *outside* pressure dies.
+  - *Undecided, and it matters:* whether it is an ordinary illness the clan simply
+    cannot afford to cure — the great clans could save him, the Mu cannot reach that
+    high — or whether **someone gave it to him**. The first does thematic work for
+    free. The second opens a mystery that can run for a hundred chapters.
 - **The father** is his son and the most legitimate candidate — competent, ambitious,
   and fond of control.
 - **Most of the elders want someone else**, specifically someone they can control.
@@ -216,14 +223,24 @@ political favour. She was the payment.
   unobservant. This keeps her as the natural exposition vehicle — an older sister
   explaining the clan to a younger brother beats narration outright in audio — without
   costing the tone.
-- **The drift meter, and it is terminal.** Only the Immortal realm removes natural
-  lifespan. A sister who does not cultivate seriously ages and dies on a human
-  timescale while her brother walks toward a realm where death has to be delivered by
-  hand. She is structurally the sibling who dies of old age while he is still young.
-  Attachment is exempt from scale poisoning, so he will love her at chapter four
-  hundred exactly as at chapter four — and that is the problem.
-- *Open, and large:* does he try to drag her up the ladder, can he, and would she
-  accept it from what he will have become by then.
+- **The drift meter.** Every realm extends life, so she is not dying young — a
+  cultivator of any realm lives a long time, and she has centuries. Two separations
+  instead of one, on different clocks:
+  - *Near-term, and this is the one that plays on the page:* she stops being able to
+    **accompany** him long before she stops being alive. She cannot go where he goes,
+    cannot stand where he stands, cannot be in the room. She turns from someone he
+    travels with into someone he protects, and that transition is the narrowing made
+    visible.
+  - *Long-term:* she still ends. He does not. Centuries out rather than decades, which
+    suits a long serial — the payoff is not forced early.
+- **She knows the price and pays it anyway.** She is not declining power out of
+  ignorance; she is declining centuries, with her eyes open, because she would rather
+  enjoy the life she has. That is a far more pointed choice than obliviousness, and
+  it is the one argument in the book against everything her brother is.
+- *Open, and large:* he can **buy her time** — resources, realms, whatever this world
+  sells. So the thread is: he keeps giving her years she never asked for, and she
+  keeps not wanting them. Whether she ever accepts, and what he has become by the
+  time she might, is the arc.
 - *Someone defends her right to idle*, because a hungry clan does not let a talented
   main-line daughter do nothing. **The father does.** He never once made her do
   anything. It is the only place his control slips, it is the proof he loves his
