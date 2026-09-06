@@ -39,6 +39,82 @@ Consequences:
 For the protagonist specifically: he has never had to be afraid. Fear is a skill he
 never needed, and he must learn it from scratch at the moment it matters most.
 
+## Cultivation realms
+
+**Ten realms, ten layers each — except the tenth, which has nine. Ninety-nine levels
+in total.** The ladder is built so that nothing on it reaches completion.
+
+Realms are named. **Layers are just layers**, numbered.
+
+**The numbers are author-side scaffolding.** A listener cannot track "the seventh
+layer of the fifth realm" across two hundred weekly episodes with nothing to look at.
+Realms get named and the audience follows maybe five of them; layers exist so the
+author knows exactly where everyone stands, and reach the page only when a specific
+gap matters. *"He is two realms above me"* lands. A coordinate does not.
+
+Detail should be **front-loaded at the bottom**. The first three or four realms need
+concrete, distinguishable characteristics, because that is where the story lives.
+The upper realms can stay legendary and ill-defined — they belong to the old era and
+to people the reader should find frightening rather than fully understand.
+
+### The eight seats
+
+**Absolute beings stand at the tenth realm, ninth layer — level 99, the top of the
+ladder.**
+
+**The world permits exactly eight at any given time.** When one dies, someone at 98
+can take the empty place.
+
+Consequences:
+
+- **Every cultivator at 98 has a material interest in an absolute being's death.**
+  The eight are not merely the strongest; they occupy the only eight chairs, and a
+  chair opens only when someone vacates it.
+- **This is why the old era wanted him dead, on top of the cruelty.** He was standing
+  in a doorway — and being effectively unkillable, he was a *permanent* blockage in a
+  queue with no other exit.
+- **The eight were never a stable club.** Each of them had a line of people behind
+  them waiting for a slip.
+- **All eight seats emptied when the era ended.** Either they stand vacant in the new
+  era or natives have been climbing into them — in which case every reincarnator who
+  returns to 99 will find someone already sitting in the seat they used to own.
+
+**Open:** were all eight of the old era's absolutes among those who reincarnated? If
+exactly eight got out and there are exactly eight chairs, the fit is very tight — the
+entire top of a dead world, currently children, and a new world with precisely enough
+room for them if they take it back.
+
+### The missing rung
+
+There is no tenth layer of the tenth realm. Nobody stands at 100.
+
+Why is open, and it is the kind of hole that can carry a series: because nothing
+could hold it, because it was removed, or because it is not a rung at all but a step
+out of the world — which would be why "absolute being" is the ceiling of *this* world
+rather than of everything.
+
+### The inner-world gate
+
+**The inner world is built in the fifth realm, at no fixed layer.** A cultivator may
+create it on the first layer or wait until the tenth, but **cannot advance into the
+sixth realm without it.**
+
+The freedom characterises people for free. Building at the first layer means eager,
+or reckless, or with something to prove. Waiting until the last means cautious, or
+afraid of what it commits them to.
+
+For the protagonist this is pointed: his arc is *eager*, so he builds at the earliest
+opportunity — a talented child racing forward, opening his inner world the first hour
+it is available. The ocean is waiting. The reveal lands harder because he rushed
+toward it.
+
+**This dates his blindness.** It lasts until the fifth realm, which converts directly
+into a chapter count — and that count is the length of the first act. Everything
+before it is carried by the family, the friend, and the world asking questions he
+cannot answer.
+
+**Open:** the realm names, and how many chapters until realm five.
+
 ## Rule and authority
 
 The protagonist ruled, but not in any administrative sense.

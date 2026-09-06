@@ -139,10 +139,11 @@ requires knowing what it refers to at the time of writing.
 
 ## Open
 
-- Names: everyone, and whether the title stays.
+- Names: everyone, the ten realms, and whether the title stays.
 - The family: who they are, what each wants, what they notice.
 - The other reincarnators: how many, who appears when.
-- How long his blindness lasts, in chapters.
+- **How many chapters until realm five** — his blindness lasts until the inner-world
+  gate, so this number is the length of act one.
 - The first uninvited surfacing: trigger, and what he sees.
 - **What shape does, mechanically.** It is now the only variable distinguishing any
   two inner worlds, and it has no rules yet — what a shape means, whether it can be
