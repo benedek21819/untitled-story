@@ -267,6 +267,44 @@ and it forgave him. The ocean is internal, and it is the only honest account of 
 left in existence. His own soul is the last thing in the world still holding him to
 it.
 
+### The drift
+
+**Cultivation raises the threshold at which things register as mattering.** This is
+universal, not a curse and not specific to him. As anyone grows stronger, what once
+seemed important stops being able to hold their attention, and the effect compounds
+with every realm.
+
+Not cruelty, not coldness — an increasing amount of significance required before a
+person can be bothered to care.
+
+Consequences:
+
+- **Every powerful character is a demonstration.** Elders, sect heads, the
+  reincarnators — all further down the same road. The mechanic never needs explaining;
+  it is shown by old cultivators being casually indifferent to things that horrify a
+  child.
+- **He was not uniquely monstrous. He was the furthest along.** The world produces
+  people like him structurally, and every climber is heading the same direction at a
+  different speed. Presumably every era makes its own absolutes this way.
+- **The memories accelerate it, they do not cause it.** Opening a seal imports the
+  perspective of a man already at the end of that road. He is a special case of a
+  general rule, not a separate mechanic.
+- **His family is doomed by the power system, not by his past.** He could commit
+  nothing, walk none of the old road, and still lose them, because he will keep
+  climbing and one day their concerns will be noise. The threat is structural and
+  arrives regardless of what he chooses.
+
+**It cannot be avoided or reversed** — so "will he escape it" is a dead question. The
+live one is *how fast, and what does he spend it on.*
+
+*Undecided, and recommended:* that the **rate** varies with what a person stays
+attached to — someone with nothing holding them drifts fastest. Not a cure, a brake.
+He cannot win; his choices still change how long he gets.
+
+*Scene it sets up:* an elder tells him this casually, as ordinary cultivation advice
+— you will stop caring about them eventually, everyone does, better to accept it
+early — and he does not believe it, and the reader does.
+
 ### Why more knowledge means more risk
 
 Everything he learns is something he can accidentally demonstrate knowing. He
@@ -275,7 +313,6 @@ solves a problem too elegantly. The danger scales with knowledge automatically.
 
 ### Undecided
 
-- Does surfacing cost *self* — the scale-poisoning?
 - Do all reincarnators have oceans — or something equally unmistakable — making the
   inner world the mark that identifies them to each other? (If yes: any deep
   soul-examination is a threat, and two of them meeting cannot verify each other
