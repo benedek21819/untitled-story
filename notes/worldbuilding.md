@@ -39,6 +39,42 @@ Consequences:
 For the protagonist specifically: he has never had to be afraid. Fear is a skill he
 never needed, and he must learn it from scratch at the moment it matters most.
 
+## Rule and authority
+
+The protagonist ruled, but not in any administrative sense.
+
+He managed nothing. He held no office, ran no domain, arbitrated no disputes, and
+carried no responsibilities. He was reclusive and largely absent from the daily life
+of the world.
+
+But he could command anyone, because he could kill anyone who refused. And so
+**wherever and whenever he appeared, everything went according to his wishes.**
+
+Rule by pure deterrence, with no infrastructure underneath it. Sovereignty without a
+state. The world had its laws, and it had him.
+
+Consequences:
+
+- **It explains the universal hatred.** A tyrant who administers still offers a
+  bargain — obedience in exchange for order and protection. He offered nothing and
+  took whatever he wanted whenever he surfaced. Extraction with no exchange. That is
+  far more hateable than an emperor, and it is why an entire era organised around
+  removing him.
+- **It is the origin of the scale-poisoning.** He never had to accommodate another
+  being. Never negotiated, never explained himself, never waited, for thousands of
+  years. The incapacity to take a small life seriously has a history rather than
+  being an assertion.
+- **It makes the family contrast enormous.** He is now a child who must ask, wait his
+  turn, and be told no. Being refused is an experience he has literally never had,
+  and he will not understand why it feels so strange.
+- **It makes his caution in character.** Withdrawal was always his native mode. In
+  this life he is doing exactly what he always did, for opposite reasons — the
+  behaviour keeping him safe is the same behaviour that made him what he was.
+
+**Open:** if he had no domain and no responsibilities, what was he *doing* with those
+millennia? Whatever he pursued had to be worth an era of universal hatred. This is
+the same question the prologue asks and withholds.
+
 ## Karma
 
 The era's end **cleared everyone's karma**. From the heavens' perspective every

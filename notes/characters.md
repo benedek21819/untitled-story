@@ -9,6 +9,10 @@ Names are all TBD. Test candidates in ElevenLabs before committing.
 - **Was:** an absolute being at the very top of the previous era. Reached it through
   calculation and cruelty. Every other absolute being wanted him dead; none of them
   could manage it.
+- **Ruled by deterrence, not administration.** Managed nothing, owed nothing,
+  answered to no one, and was largely absent from the world — but wherever he
+  appeared, everything went according to his wishes, because he could kill anyone who
+  refused. He has never in his existence been told no.
 - **Now:** a child in a family that loves him, with no memory of any of it.
 - **Chose:** to sink his own memories before reincarnating — invisibility and time,
   bought with decades of ignorance and weakness. He is the only survivor who made

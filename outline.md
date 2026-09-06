@@ -65,8 +65,14 @@ Then the world ends, and the next one grants the wish: they do meet differently.
 - Reader stays ahead of him. He works out the mechanism late; we get there first.
 - The mechanism is never explained on the page. Shown until understood. If anyone
   lectures about drops and waves, it dies.
-- Never let him dive when it's safe. Descents happen under a real-world clock, or
-  they become backstory delivery in a costume.
+- **The safe dive is the incriminating one.** Diving under duress is excusable — he
+  had no choice. Diving on an ordinary afternoon, with nothing forcing him, because
+  he wanted to know, is the choice that says what he is. Those are the ones that
+  should carry weight.
+- A dive must leave him **changed when he surfaces**, and the change must land on the
+  present. Inner-world scenes go inert fast, and in audio there is no visual to carry
+  a man floating in water. The tension is what he will find and what it will do to
+  him — never whether he can get back in time.
 - Memory reveals attach to emotional peaks automatically — see the wave mechanic in
   `notes/worldbuilding.md`. Use that. Choose which old beat rhymes with which new one.
 - Plan proof-of-life touches for the withheld explanation every 30–40 chapters. At
@@ -103,8 +109,6 @@ Candidates, not canon.
 - Is the ocean **usable power he must never use** — a loaded gun that would put him
   beyond anyone alive and announce him to every survivor at once?
 - Can big waves knock him under **involuntarily**?
-- **Did he ever actually rule anything?** Open. Affects whether "monarch"-type
-  language is accurate about him at all.
 
 ## Open
 
@@ -113,6 +117,10 @@ Candidates, not canon.
 - The other reincarnators: how many, who appears when.
 - What lies at the bottom of the ocean, and the true content of the withheld
   explanation.
+- **What was he doing with those millennia?** He ruled nothing and owed nothing, so
+  the question of what he actually pursued is wide open — and whatever it was had to
+  be worth an era of universal hatred. Needs an answer before the prologue is
+  written.
 - How long his blindness lasts, in chapters.
 - The first uninvited surfacing: trigger, and what he sees.
 - Arc one: chapter count and where it ends.
