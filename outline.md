@@ -131,7 +131,8 @@ invent, infer, or work around them. Ask.
 - What lies at the bottom of the ocean: who he was before the climb.
 - The true content of the withheld explanation given in the prologue.
 - What he was actually pursuing across those millennia, having ruled nothing and
-  owed nothing.
+  owed nothing. *(Partly answered: he was closest of anyone to the hundredth step. Why
+  he wanted it remains Reserved.)*
 
 *Craft note that still applies:* the withheld explanation must be written as concrete,
 specific words whose referents are unknown — not vagueness, not a trailing off. That

@@ -13,17 +13,43 @@ one caused it. It was time.
 failed from the pressure and was destroyed. That is what an era's lifespan is — a
 vessel holds what grows in it until it cannot.
 
-**Open, and adjacent to Reserved — what filled it:**
+**Both at once, and the ambiguity is permanent.**
 
-- *General pressure.* The world simply filled over an age as everything inside it
-  grew. The vessel failed the way a body fails. Nobody did it, and the clearing of
-  karma is straightforwardly just.
-- *Someone was ascending.* A ball began growing toward jar-size, and this world was
-  not large enough to contain that, and it burst. The era's end then had a cause —
-  one of eight people, at 99, reaching for the hundredth step. The cleared karma
-  becomes ironic rather than just.
+The protagonist was the closest anyone ever came to the hundredth step. **The serpent
+is the first and only being ever born inside a cultivator's inner world** — proof
+that he crossed into the threshold condition.
 
-The two produce different books, and the difference shows in the prologue's tone.
+So he may be why the era ended. But the world was already close to full, so the
+pressure may have been general and his part incidental. **Nobody can distinguish the
+two.**
+
+- Nobody can ever confirm it, because nobody can see his inner world.
+- Nobody can ever rule it out, because the jar was failing anyway.
+- **He cannot confess and he cannot be cleared.**
+
+**The guilt is undecidable, not secret.** A secret resolves when someone finds out. An
+unanswerable question never resolves at all.
+
+**No retrieval can answer it.** He could open every layer of the sky and dive to the
+floor of the ocean and recover everything he ever was, and still not know — because
+memory holds what he *did*, not whether it sufficed to burst a world already near
+bursting. Causation is not stored in a soul. The entire apparatus of self-recovery is
+structurally incapable of answering the one question that matters most to him, which
+means the story can never resolve this by revelation, only by decision.
+
+This completes the karma irony. If he did it, the heavens absolved the largest act in
+history. If he did not, they absolved a man who will never know he was innocent.
+Either way the absolution is worthless, because being forgiven requires knowing what
+for — and it puts a hole in *the water kept the record*, since even the record is
+incomplete.
+
+*Available in the prologue at no cost:* **why did you do it** reads as a question
+about the cruelty on a first pass and about the world on a re-listen. Which the other
+man meant is invisible the first time through.
+
+*Ending note:* the recommendation is never to answer it in-world, and to make the
+final act about how he chooses to live without the answer. The resolution is not the
+fact but what he does having accepted he will never have it.
 
 Either way it produces something unpleasant: **the reincarnators are accelerating
 this world's death simply by existing.** Eight of the largest things that ever lived,
@@ -300,10 +326,15 @@ the price is being found" a better problem than "I could end this now."
 
 Also open: whether he put it there, and whether he controls it.
 
-**Now load-bearing:** at level 100 a cultivator's inner world grows large enough that
-*beings form inside it*. Something already lives in his ocean. So either a serpent is
-categorically different from beings arising — something he made or brought in — or it
-is evidence that his inner world was nearer the hundredth step than anyone knew.
+**It is the evidence.** At level 100 an inner world grows large enough that beings
+form inside it. The serpent is the first and only being ever born that way — so its
+existence is proof that he crossed into the threshold condition, and it is the
+closest thing to evidence about the end of the era that exists anywhere.
+
+It is also the only entity that was present. Whether it has any perspective on what
+happened is open — but structurally, the sole possible witness to the death of a
+world is a serpent inside the accused's own soul, and it cannot be produced without
+destroying him.
 
 ### The sky seal
 
