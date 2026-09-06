@@ -142,7 +142,9 @@ requires knowing what it refers to at the time of writing.
 
 - Names: the friend, the rest of the family, the reincarnators — and whether the
   title stays. *(Settled: Mu Zishan, this life; Shen Luo, the old era.)*
-- The Mu family: who they are, what each wants, what they notice.
+- The Mu household: who the two or three people are, what each wants, what they
+  notice. *(Settled: the Mu clan is large and prominent, branch lines under a main
+  line, succession by main-line precedence, Zishan main line.)*
 - The other reincarnators: how many, who appears when.
 - **How many chapters until realm five** — his blindness lasts until the inner-world
   gate, so this number is the length of act one.

@@ -88,13 +88,64 @@ friends. Neither knows what the other is.
 - What does he want in this life that has nothing to do with the protagonist? He
   needs one, or he's a device pointed at the main character.
 
-## The family — the Mu family, *specifics TBD*
+## The Mu clan
 
-Two or three specific people who want specific things and notice specific changes.
-Not "a loving family" in the abstract.
+A large, prominent cultivation clan. Many branch lines and one main line; succession
+runs by main-line precedence. Zishan is main line.
 
-They occupy the clear, sunlit, shallow layer at the top of the ocean — the part he
-can stand on without effort. Everything below is the old era.
+**The clan and the household are two different things, and the story must never blur
+them.**
+
+- **The clan** is an institution — hundreds of people, resources, obligations,
+  factions, and a name to protect. He can be ruthless with it and the reader will
+  follow him. Nobody loves an institution.
+- **The household** is two or three named people who actually love him. *This* is the
+  sympathy floor. Not chosen, not earned, installed before he came back — he cannot
+  dismiss it as a weakness he picked up, because he didn't pick it up.
+
+The household occupies the clear, sunlit, shallow layer at the top of the ocean — the
+part he can stand on without effort. Everything below is the old era.
+
+**What the clan buys the story:**
+
+- A believable road to realm five. A main-line heir gets resources, teachers, and
+  permission to cultivate at full speed, so his eager phase needs no contrivance.
+- Pressure that isn't aimed at him. He is overpowered; nothing can threaten him
+  directly. A clan is a large, soft surface that can be threatened instead.
+- A plausible arrival for the friend — visiting disciples, allied clans, tournaments.
+- Politics, which is a game of calculation, which is the thing he was best at. He
+  will be *good* at this, immediately and without effort, and that is the problem.
+
+**The cost, and it is the central one:** a main-line heir of a prominent clan is the
+most closely watched kind of child in the world — assessments, ceremonies, registries,
+rivals keeping count. He sank his memories to buy invisibility and woke up on a
+stage. Do not resolve this. It is the clock on act one.
+
+**Undecided:**
+
+- **Is his position contested?** Main line by precedence, but if a branch cousin with
+  better talent is a live threat, then excelling becomes *necessary* rather than
+  merely permitted, the clan splits into factions with a stake in his failure, and
+  the first person he solves coldly, he solves to keep his seat — and his family
+  thanks him for it. Uncontested is safer and much flatter.
+- **How prominent, exactly?** Strong regionally and unremarkable beyond it gives him
+  room; world-famous means every reincarnator already knows the address.
+- **Did he arrange the landing?** He sealed his memories in advance, so anything he
+  set up, he set up before. Whether he chose this family — the last place anyone
+  would look for a recluse who despised institutions — or whether it is pure accident
+  changes what the clan *is* to him.
+- Who the household is: two or three people, what each wants from him, and what each
+  would notice when he changes.
+
+**Production constraint:** a clan implies dozens of people, and a listener can hold
+about five to seven names in early chapters. Name almost no one. The clan speaks
+through roles — the third elder, his uncle, the branch head — and only the household
+and a named rival get names.
+
+**Where the drift will show first.** Genuine attachment is exempt from scale
+poisoning; the clan is not. He will defend his mother past the end of the world and
+let three branch families be erased without it registering. The clan is the
+instrument that makes the narrowing visible, long before any war.
 
 ## The other reincarnators — *TBD*
 
