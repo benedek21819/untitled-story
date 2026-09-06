@@ -140,7 +140,7 @@ requires knowing what it refers to at the time of writing.
 
 ## Open
 
-- Names: everyone, the ten realms, and whether the title stays.
+- Names: everyone, and whether the title stays.
 - The family: who they are, what each wants, what they notice.
 - The other reincarnators: how many, who appears when.
 - **How many chapters until realm five** — his blindness lasts until the inner-world

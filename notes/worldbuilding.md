@@ -97,6 +97,45 @@ in total.** The ladder is built so that nothing on it reaches completion.
 
 Realms are named. **Layers are just layers**, numbered.
 
+| | Realm |
+|---|---|
+| 1 | Qi Condensation |
+| 2 | Foundation Establishment |
+| 3 | Core Formation |
+| 4 | Nascent Soul |
+| 5 | World Forming |
+| 6 | Void Refinement |
+| 7 | Grand Ascension |
+| 8 | Tribulation Transcendence |
+| 9 | Mahayana |
+| 10 | Immortal |
+
+*Test "Mahayana" in ElevenLabs before committing — four syllables, non-obvious to a
+TTS engine, and spoken constantly. It is also the ladder's one register outlier, the
+only Sanskrit term among English-derived compounds; that can read as the language
+turning older near the top, but it should be a choice rather than an inheritance.*
+
+### The Immortal realm
+
+**From the tenth realm onward there is no natural lifespan.** An Immortal dies only
+by being killed, or when the world ends.
+
+Consequences:
+
+- **The promotion queue is murderous.** Someone at 98 is not waiting for an elder to
+  age out — Immortals do not age out. They are waiting for a killing, because that is
+  the only way a chair opens. Everyone in the queue knows it; everyone in a chair
+  knows they know it.
+- **The old era's stalemate was double-locked.** The eight could not be killed and
+  could not die of age. Permanent by two independent mechanisms, which is why an
+  entire era failed to shift any of them.
+- **The era's end was the only event capable of clearing the top**, being one of
+  exactly two ways an Immortal dies.
+- **"Immortal" and "absolute being" are two tiers, not synonyms.** Anyone in the tenth
+  realm is an Immortal (91–98). Only eight are absolutes (99). So the upper world has
+  a population and a politics: a body of Immortals, most permanently one step below
+  the only eight seats that exist, none of whom will die of anything but murder.
+
 **The numbers are author-side scaffolding.** A listener cannot track "the seventh
 layer of the fifth realm" across two hundred weekly episodes with nothing to look at.
 Realms get named and the audience follows maybe five of them; layers exist so the
@@ -148,10 +187,24 @@ Consequences:
   malice, and the resentment beneath them has a material basis. The people below do
   not merely envy the eight — they are paying for them.
 
-**Open:** were all eight of the old era's absolutes among those who reincarnated? If
-exactly eight got out and there are exactly eight chairs, the fit is very tight — the
-entire top of a dead world, currently children, and a new world with precisely enough
-room for them if they take it back.
+**All eight got out** — the entire top of a dead world, and a new world with exactly
+enough room for them if they take it back.
+
+**But not at the same time.** Reincarnation is staggered across the new era. Some
+arrived long before the protagonist; some have not arrived yet and may not for a long
+while.
+
+- **There can be a dangerous reincarnator immediately.** An early arrival is not a
+  hiding child but an adult who has been climbing for a long time, and may already
+  hold one of the eight seats.
+- **The threat picture changes across the series.** Some ahead of him, some behind,
+  some still to come — and the ones still to come are a guaranteed future entrance
+  the reader can anticipate for a hundred chapters.
+- **Nobody knows their own place in the sequence.** He cannot tell whether he is early
+  or late. Neither can any of them.
+- **Constraint:** the friend arrived close to the same time as him, or they could not
+  be children together. His early memory recovery therefore rests on his not being
+  hunted, not on a head start.
 
 ### The missing rung
 
@@ -172,7 +225,7 @@ runs both directions indefinitely.
 
 ### The inner-world gate
 
-**The inner world is built in the fifth realm, at no fixed layer.** A cultivator may
+**The inner world is built in the fifth realm — World Forming — at no fixed layer.** A cultivator may
 create it on the first layer or wait until the tenth, but **cannot advance into the
 sixth realm without it.**
 
@@ -190,7 +243,7 @@ into a chapter count — and that count is the length of the first act. Everythi
 before it is carried by the family, the friend, and the world asking questions he
 cannot answer.
 
-**Open:** the realm names, and how many chapters until realm five.
+**Open:** how many chapters until the fifth realm.
 
 ## Rule and authority
 
