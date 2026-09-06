@@ -107,13 +107,17 @@ Realms are named. **Layers are just layers**, numbered.
 | 6 | Void Refinement |
 | 7 | Grand Ascension |
 | 8 | Tribulation Transcendence |
-| 9 | Mahayana |
+| 9 | Far Shore |
 | 10 | Immortal |
 
-*Test "Mahayana" in ElevenLabs before committing — four syllables, non-obvious to a
-TTS engine, and spoken constantly. It is also the ladder's one register outlier, the
-only Sanskrit term among English-derived compounds; that can read as the language
-turning older near the top, but it should be a choice rather than an inheritance.*
+*The ninth is named from crossing-over imagery, and the whole world uses it without a
+second thought — public cosmology, innocent of any private meaning.*
+
+**Resonance to exploit, never to point at:** the protagonist has an endless ocean
+inside him that he stands on and refuses to cross, and the realm two steps from the
+ceiling of the world is called the Far Shore. Nobody in the story means it about him.
+Only the reader hears it, and hears it every time the term is spoken in front of a boy
+who will not swim. Never have a character notice this.
 
 ### The Immortal realm
 
