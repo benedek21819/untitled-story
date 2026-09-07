@@ -119,6 +119,43 @@ ceiling of the world is called the Far Shore. Nobody in the story means it about
 Only the reader hears it, and hears it every time the term is spoken in front of a boy
 who will not swim. Never have a character notice this.
 
+### What talent is made of
+
+Three factors, and they behave differently across a reincarnation:
+
+| | Source | Across lives |
+|---|---|---|
+| **Aptitude** | The body one is born with | Random. Reissued every life. |
+| **Comprehension** | The soul | Carries fully — present from birth, before any memory |
+| **Understanding** | Accumulated experience | Returns as the memories return |
+
+Say it aloud once, early, and never explain it again. Two of the three are invisible
+from outside, which is what makes assessments arguable and reputations wrong.
+
+**Shen Luo had peerless comprehension and a bad body.** He reached the top of the
+world anyway. Every step took him longer, cost more, and hurt worse than it did for
+anyone standing near him — so the calculation and the cruelty are **compensation**,
+not temperament. The straight road was closed to him and he took the other ones,
+for millennia, until he stood above people who had been handed what he had to steal.
+Never state this on the page. It explains him, and the explanation is worth more
+withheld.
+
+**Which closes the loop with Jin Yao.** His decency was purchased for him by his
+birth — a noble clan, resources, never once standing where the unforgivable thing was
+the only thing left. Shen Luo's cruelty was purchased for him by his birth too.
+**Both men were made by what they were issued.** That is the argument of the book, and
+it is mechanical now rather than thematic.
+
+**Then the new era reissued them.** Mu Zishan got the good body *and* the good clan —
+everything either of them lacked. Jiang Wei got neither. The world ran the experiment
+twice and reversed the result. Nobody in the story notices.
+
+**Consequence to use later:** aptitude being random means some of the other seven got
+terrible bodies. At least one absolute being is plausibly trapped this era — a mind
+that ruled the world in a body that cannot climb, permanently. Such a person cannot
+rise, so the only lever left is other people. A manipulator rather than a fighter, and
+a threat shape nothing else in the cast has.
+
 ### Lifespan
 
 **Every realm extends life.** Cultivation buys years at every step, so even a modest

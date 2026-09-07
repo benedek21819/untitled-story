@@ -27,6 +27,11 @@ another book.
 - **Was:** an absolute being at the very top of the previous era. Reached it through
   calculation and cruelty. Every other absolute being wanted him dead; none of them
   could manage it.
+- **Peerless comprehension, a bad body.** He climbed to the top of the world with the
+  worst engine of the eight, which is why it took an era and why it took cruelty. In
+  this life the dice came up the other way: exceptional aptitude, the same soul, and
+  understanding returning as the seals open. He is not fast because he is a
+  reincarnator. He is fast because he finally has the body he never had.
 - **Ruled by deterrence, not administration.** Managed nothing, owed nothing,
   answered to no one, and was largely absent from the world — but wherever he
   appeared, everything went according to his wishes, because he could kill anyone who
@@ -429,15 +434,19 @@ one otherwise runs a succession fight *and* an off-screen hunt; with him in the
 council chamber they are the same story, and a weekly serial stops paying episode
 rent on two threads.
 
-**He was the least talented of the eight**, and talent carries across lives, so he
-climbs at the same mediocre rate he always did — which is why he is an elder and not
-a legend. He reached the top the first time by sheer duration, an entire era of
-grinding, and he knows he cannot repeat that quickly.
+**He was the least talented of the eight** — average body, average comprehension,
+both lives, the dice landing the same way twice. What put him at the top of the world
+was time, patience, and taking every opportunity at exactly the right moment. He is
+running that play again because **it is the only play a man with no gifts has ever
+had**, and he knows precisely how long it takes.
 
 That single fact does four things:
 
 - **It makes him patient**, which is far more menacing than urgency. He is the one
   enemy who is not in a hurry.
+- **It gives him the most frightening credential in the cast.** He reached the top of
+  the world on patience alone — the only one of the eight who got there without being
+  given anything. He is living proof the method works.
 - **It makes him beatable.** Zishan can plausibly pass him inside act one, which the
   arc requires.
 - **It makes him the most dangerous of the eight to Zishan precisely because he is
