@@ -435,24 +435,50 @@ during a trial, a rigged assessment. That window closes permanently once he is
 strong, so it cannot carry the arc. When it closes, they do the only thing left and
 go after the household. That is where it stops being politics.
 
-*Act-one climax:* they come for his mother. Once the procedural routes are exhausted,
-desperate people do what desperate people do — poison, an accident on the road,
-something deniable. **The specific trigger is deliberately left open.** What matters
-is what follows.
+### The act-one climax
 
-He does not lose control. He calculates, coldly and correctly, and the result is
-appalling.
+**What is settled:** he does something appalling. He does not lose control — he
+calculates, coldly and correctly. The disproportion lives in **the scope of the
+answer**: he does not punish an act, he eliminates a category, removing everyone who
+could ever have had reason, including people who knew nothing about it. That is what
+the elder recognises — not vengeance, which anyone can feel, but **prevention at any
+scale**, which almost nobody would think to reach for. The first time the reader sees
+Shen Luo, no memory is involved at all.
 
-**The disproportion lives in the scope of the answer, not the size of the
-provocation.** A normal son kills whoever did it. Zishan removes **everyone who could
-ever have had reason to** — the entire branch, including people who knew nothing
-about it — because that is the only way to make it not happen a second time. He is
-not punishing an act. He is eliminating a category.
+**Rejected: harming the mother as the trigger.** It was reasoned backwards from
+mechanics — the branch conflict expires, so escalate to the household — and it is the
+oldest move in the genre. It fails on its own terms:
 
-That is what the elder recognises. Not vengeance, which anyone can feel, but
-**prevention at any scale**, which almost nobody would think to reach for. It is the
-method he spent an era being afraid of. The first time the reader sees Shen Luo, no
-memory is involved at all.
+- **It gets him forgiven.** Revenge for an attack on his mother is justified, and the
+  audience will grant it instantly. This book needs the reader unable to excuse him
+  comfortably. Avenging his mother lets everyone off, including them.
+- **It contradicts him.** Nothing in the old era says he was protective. He ruled by
+  deterrence, took what he wanted, offered no bargain. Protective is a different man.
+- **It wastes her.** She has a history, a knowledge of what families do with valuable
+  people, and a refusal of her own. Spending all of that as a detonator for one scene
+  is a bad trade.
+
+**She is the witness, not the victim.** He does the appalling thing and she is the one
+person who sees exactly what it was. Either she is not surprised, or she is — and
+something in the way she looks at him afterwards never entirely comes back. That costs
+him something real and costs her nothing but her illusions.
+
+**Trigger — pick one:**
+
+1. *Pure efficiency.* Someone stands between his father and the seat, or between him
+   and something he wants. He removes them and everyone adjacent because it is the
+   correct solution and costs him nothing. No provocation at all; the most frightening.
+2. *Atrocity with applause.* He does it to win, it works, and the clan thanks him for
+   his decisiveness. Already recorded as the moral engine — the clan uses him and his
+   family is proud of him.
+3. *Pre-emption.* Nobody has done anything yet. He sees that they could, and moves
+   first. Keeps the family as motive while removing the reader's permission entirely,
+   because there is no crime to avenge — and it is exactly what rule by deterrence
+   looks like. Shen Luo never waited to be attacked.
+
+*Recommendation: 3 as the trigger and 2 as the aftermath.* He moves first, the clan
+benefits enormously, everyone praises him, and his mother is the only person in the
+room who understands what she has just watched.
 
 **Undecided:**
 
