@@ -412,29 +412,60 @@ instrument that makes the narrowing visible, long before any war.
 
 ## The elder — a reincarnator inside the Mu clan
 
-One of the eight, seated in the Mu clan's own council, and one of the elders pushing
-to install a controllable patriarch. He backs the branch candidate, which puts him
-inside the machinery already built rather than adding new machinery.
+One of the eight, **born into the Mu clan this life**, seated in its council, and one
+of the elders pushing to install a controllable patriarch. He backs the branch
+candidate, which puts him inside the machinery already built rather than adding new
+machinery. He did not choose to land here — he woke up here, so there is no
+coincidence to explain, and the clan is simply the tool at hand.
+
+**He has most of his memories back.** That does not let him leave: memory is
+information, not power. He is realm five or six with no reputation in this world and
+no resources, and his birth clan is the only asset he owns. Staying is the correct
+play. **Taking the clan is the obvious first stepping stone**, and he knows exactly
+how long the rest of the road is, because he has walked it once.
 
 **Why he is worth more than any outside antagonist:** he merges the two plots. Act
 one otherwise runs a succession fight *and* an off-screen hunt; with him in the
 council chamber they are the same story, and a weekly serial stops paying episode
 rent on two threads.
 
-**He does not know what he is.** If he had his memories he would leave — no absolute
-being stays a mid-ranking elder in a second-tier clan. What has come back so far is
-not memory but **appetite**: an unshakeable, unexplainable conviction that he is owed
-more than this, that he should be deciding rather than petitioning, that a room is
-wrong when he is not the one at its head. It is indistinguishable from ordinary
-ambition, and neither the reader nor the man can locate the line. He is a scheming
-elder for thirty chapters and then he is not.
+**He was the least talented of the eight**, and talent carries across lives, so he
+climbs at the same mediocre rate he always did — which is why he is an elder and not
+a legend. He reached the top the first time by sheer duration, an entire era of
+grinding, and he knows he cannot repeat that quickly.
 
-**His motive stops being greed.** He is a man who sat at the top of a dead world
-trying to build the first rung of a ladder back, and the Mu clan is what is within
-reach.
+That single fact does four things:
 
-**Act one is two clocks racing** — his memory returning against Zishan's power
-growing, in the same compound. This is the tension act one was short of.
+- **It makes him patient**, which is far more menacing than urgency. He is the one
+  enemy who is not in a hurry.
+- **It makes him beatable.** Zishan can plausibly pass him inside act one, which the
+  arc requires.
+- **It makes him the most dangerous of the eight to Zishan precisely because he is
+  the weakest.** The strong ones will rise, be noticed, be talked about. This one is
+  invisible — an average elder nobody looks at twice. He is running the same strategy
+  Zishan is and did not need a seal to do it. Two men hiding in plain sight in one
+  compound.
+- **He remembers being afraid of Shen Luo.** The other seven could contest him; the
+  least of the eight merely survived him. So when suspicion arrives his reaction is
+  not *I will kill the boy* — it is fear, then patience, then something careful. A
+  frightened, well-informed, unhurried enemy is much worse news than an arrogant one.
+
+**His motive is not greed.** He is a man who sat at the top of a dead world building
+the first rung of a ladder back, and the Mu clan is what is within reach.
+
+### Why he does not spot Zishan
+
+**Shen Luo was never a talent.** He climbed by calculation and cruelty over millennia
+— not a prodigy, a man who out-thought and out-hurt everyone for longer than they
+could stand. So a boy cultivating at unprecedented speed is the *least* Shen Luo-like
+thing in the world. The elder is not scanning for a genius. He is scanning for a
+schemer, and he is looking at a polite fifteen-year-old who defers to his father.
+
+**Which sets the act-one climax.** The trigger is never Zishan's power. It is Zishan
+doing something **cold** — the recorded candidate: the branches come for his mother,
+he does not lose control, he calculates, and the result is appalling. The elder sees
+it. What he recognises is not a strong boy. It is a *method* he spent an era being
+afraid of.
 
 **Constraints:**
 
@@ -442,17 +473,13 @@ growing, in the same compound. This is the tension act one was short of.
   protagonist's house does not stay fooled for four hundred chapters. He works it out,
   or nearly does, and it comes to a head — plausibly at the same event as the
   grandfather's death, which gives act one an ending rather than only a funeral.
-- **His cultivation accelerates too.** Memory is not power, but recovered technique is
-  an edge, so he rises faster than a man his age should. Two anomalies in one clan,
-  each with reason to watch the other. He may notice Zishan before he understands why
-  he is noticing.
-- **The coincidence needs the clustering answer.** See the open question about souls
-  leaving the dying era on the same current. Promoting it turns *a reincarnator
-  happens to be in his clan* from a cheat into evidence of the mechanism — and means
-  Jiang Wei's proximity is not luck either, that there are probably others in the
-  region, and that act one can stay geographically contained.
-- Which of the eight he was, and how much history he has with Shen Luo specifically,
-  is open. He was one of the seven who wanted him dead.
+- **His cultivation is helped by recovered technique**, so he rises faster than a man
+  his age should — but from a genuinely poor talent, so not far and not fast. Two
+  anomalies in one clan, each with reason to watch the other.
+- Which of the eight he was is open. He was one of the seven who wanted Shen Luo dead
+  — from a safe distance.
+- **Does he know which of the eight got out?** Open, and it changes how alert he is.
+- **Does he know there is another reincarnator in the region** — Jiang Wei? Open.
 
 ## The other reincarnators — *TBD*
 
