@@ -310,10 +310,16 @@ political favour. She was the payment.
 
 - **She cultivates a little** — a middle clan's daughter would — so she sits in the
   same band as the sister and puts no second deathwatch in act one.
-- **On marrying in she received an elixir worth a hundred years.** That was her cut of
-  her own sale: her birth clan took the political favour, she took the lifespan. The
-  Mu bought her and paid her partly in her own years, and she has spent every day
-  since knowing exactly what she cost and what she was worth.
+- **On marrying in she received an elixir worth a hundred years, and consumed it.**
+  That was her cut of her own sale: her birth clan took the political favour, she took
+  the lifespan. The Mu bought her and paid her partly in her own years, and she has
+  spent every day since knowing exactly what she cost and what she was worth.
+- **The years are hers and cannot be revoked.** It was consumed once; there is nothing
+  to renew and nothing to withhold. So her security does not depend on the clan's
+  goodwill — **and therefore neither does her love.** She is not kind to her son
+  because the family holds her leash. She has nothing to lose by being exactly what
+  she is. It also makes the Mu marginally more complicated than purely predatory: they
+  bought her, and they paid in something they can never take back.
 - She is the only person in that house who has already been used as an instrument by
   a family, which is exactly what is now being done to her son. Her wanting him to be
   *less* is not a temperament, it is experience — **she was the transaction.**
@@ -429,21 +435,24 @@ during a trial, a rigged assessment. That window closes permanently once he is
 strong, so it cannot carry the arc. When it closes, they do the only thing left and
 go after the household. That is where it stops being politics.
 
-*Act-one climax:* they come for his mother — **and not with an assassin.** Elixirs
-are clan resources and allocation is a council decision, so the branches need only
-ensure hers go elsewhere: block a renewal, divert what was promised, lose it in
-committee. Deniable, procedurally correct, entirely within the rules, and it kills
-her slowly.
+*Act-one climax:* they come for his mother. Once the procedural routes are exhausted,
+desperate people do what desperate people do — poison, an accident on the road,
+something deniable. **The specific trigger is deliberately left open.** What matters
+is what follows.
 
 He does not lose control. He calculates, coldly and correctly, and the result is
 appalling.
 
-**The disproportion is the point.** A boy who destroys people over an attempted
-murder is understandable. A boy who destroys them over a committee vote is not — and
-that missing sense of scale is the thing itself. It is also exactly what the elder
-recognises: not rage, not grief, but an answer with no proportion in it, the
-signature of a man who stopped weighing lives against consequences a very long time
-ago. The first time the reader sees Shen Luo, no memory is involved at all.
+**The disproportion lives in the scope of the answer, not the size of the
+provocation.** A normal son kills whoever did it. Zishan removes **everyone who could
+ever have had reason to** — the entire branch, including people who knew nothing
+about it — because that is the only way to make it not happen a second time. He is
+not punishing an act. He is eliminating a category.
+
+That is what the elder recognises. Not vengeance, which anyone can feel, but
+**prevention at any scale**, which almost nobody would think to reach for. It is the
+method he spent an era being afraid of. The first time the reader sees Shen Luo, no
+memory is involved at all.
 
 **Undecided:**
 

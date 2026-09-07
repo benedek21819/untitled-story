@@ -226,10 +226,13 @@ What this does to things already recorded:
 - **The drift becomes measurable in spending.** A pill that is a family's fortune,
   bought without noticing. The reader tracks his ascent by what he stops counting.
 - **Allocation is a weapon.** Elixirs are clan resources and who receives them is a
-  council decision, so a faction can kill someone with a vote — block a renewal,
-  divert what was promised, lose it in committee. Deniable, procedurally correct, and
-  slow. This is how the branches come for Zishan's mother, and it is far better than
-  an assassin: it makes his answer disproportionate, which is the whole point.
+  council decision, so a faction can shorten someone's life with a vote — divert what
+  was promised, lose it in committee, rank them below someone else. Deniable,
+  procedurally correct, and slow.
+- **But a consumed elixir is permanent.** Its years are in the body and cannot be
+  clawed back, so this weapon only works on people still waiting for something. It has
+  no hold over anyone already paid. *(Zishan's mother is in the second category: she
+  took her hundred years on marrying in and the clan has no lever on her.)*
 
 ### The Immortal realm
 
