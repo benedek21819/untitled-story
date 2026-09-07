@@ -62,13 +62,36 @@ another book.
 **Sympathy floor:** the family. Not chosen, not earned, installed before he came
 back. He cannot dismiss it as a weakness he picked up, because he didn't pick it up.
 
-## The friend — *name TBD*
+## The friend — Jiang Wei *(this life)* / Jin Yao *(old era)*
 
 One of the other reincarnators. They meet by accident in this life and become genuine
 friends. Neither knows what the other is.
 
-- **Old era:** enemies. They fought to kill each other, for a very long time, and
-  never spoke until the last day.
+**He does not use his old name.** Not from fear — nobody hunts him — but because a
+publicly announced returned absolute being would be the most interesting person
+alive, and every sect and clan in the world would want to recruit, use, or study him.
+He would never get the quiet ordinary life in which one can accidentally befriend a
+boy. So there are two names here too, and the scene where Zishan first hears the old
+one from his friend's own mouth stays intact.
+
+*(`Jin` and `Jiang` share an initial. Normally a flag; here it is fine and mildly
+useful — the two are almost never spoken in the same breath, and an ear that
+half-links them accepts the reveal faster.)*
+
+- **Old era:** heir and then patriarch of the Jin clan, one of the top noble clans.
+  He looked at the world from an almost naive idealistic perspective.
+- **His idealism was purchased for him.** Born at the top, inherited the seat, never
+  once stood where the unforgivable thing was the only thing left. Shen Luo climbed
+  from nothing by calculation and cruelty because that was the road available to him.
+  **This is what Jin Yao finally understands on the last day** — that his own decency
+  was a luxury good he was issued at birth. It is also what his own line means: *if we
+  had met differently we could have been friends.* They did meet differently. One at
+  the top, one at the bottom. That was the entire difference.
+- **Why he hunted him for millennia:** moral obligation, not rivalry or ambition. A
+  man who believes the world ought to be just, looking at Shen Luo, sees an atrocity
+  that has to be stopped. Sympathetic and insufferable in the right proportion.
+- **Enemies.** They fought to kill each other, for a very long time, and never spoke
+  until the last day.
 - **Remembers early** — because he loses nothing by remembering. He isn't the one
   being hunted. The protagonist's caution is specific to the protagonist's situation,
   not to anything about the ocean.
@@ -81,12 +104,23 @@ friends. Neither knows what the other is.
   same current, depositing them near each other? (Implication: others may be nearby
   too.) And does he, once he remembers, assume the protagonist engineered the whole
   friendship — wrongly, and unshakeably?
-- **Is he the more eroded of the two?** He has swum freely in that water for years.
-  If surfacing costs *self*, then the friend who seems warm and at peace with what he
-  was is further gone and can't feel it — and the protagonist's cowardice is the only
-  reason he can still love his mother.
-- What does he want in this life that has nothing to do with the protagonist? He
-  needs one, or he's a device pointed at the main character.
+- **He is the more eroded of the two, and the mechanism is now the idealism.** An
+  idealist with absolute power, at war for millennia, has done terrible things and
+  justified every one of them. Jin Yao has a body count and sleeps fine. Shen Luo has
+  a body count and knows exactly what he is. The friend is further gone not because
+  he is worse but because he is the one who cannot see himself — and the idealism is
+  load-bearing, the thing that lets him not look. Play him cheerful and warm and
+  morally certain, and let the reader work out what that costs.
+- **The symmetry is the friendship.** Jin Yao remembers his clan perfectly and every
+  one of them is dead in a world that never heard the name. Zishan has a living family
+  and remembers nothing. Each has exactly what the other lost, and neither knows that
+  is what is happening.
+- What does he want in this life that has nothing to do with the protagonist? He needs
+  one, or he's a device pointed at the main character. More answerable now: a man
+  whose clan is gone, whose cause was fulfilled by the world simply ending, and who
+  won at a cost that bought nothing. Either he wants to do it properly this time and
+  build something — or he wants nothing at all, which is quieter and sadder. Decide
+  before he reaches the page.
 
 ## The Mu clan
 

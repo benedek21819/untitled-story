@@ -619,3 +619,5 @@ Test aloud in ElevenLabs before committing. Vary syllable count and opening cons
 |---|---|---|
 | Mu Zishan | The protagonist's name in this life. Given by his family. | Ch. 1 |
 | Shen Luo | The protagonist's name in the previous era. | Prologue |
+| Jiang Wei | The friend's name in this life. | Act one |
+| Jin Yao | The friend's name in the previous era. Patriarch of the Jin clan. | Prologue |

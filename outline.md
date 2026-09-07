@@ -140,8 +140,8 @@ requires knowing what it refers to at the time of writing.
 
 ## Open
 
-- Names: the friend, the rest of the family, the reincarnators — and whether the
-  title stays. *(Settled: Mu Zishan, this life; Shen Luo, the old era.)*
+- Names: the mother, the sister, the rival branch, the reincarnators — and whether
+  the title stays. *(Settled: Mu Zishan / Shen Luo; Jiang Wei / Jin Yao.)*
 - The Mu household: names, and the sister's age gap. *(Settled: the clan is old,
   large, and one opportunity short of great; succession by main-line precedence;
   Zishan main line and contested. Household is the father — who loves and deploys
