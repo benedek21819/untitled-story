@@ -224,6 +224,35 @@ while.
   be children together. His early memory recovery therefore rests on his not being
   hunted, not on a head start.
 
+### Memory returns on its own — except his
+
+**Reincarnation is imperfect for everyone.** All eight came back blank. Their
+memories seep back over years and are largely restored by adulthood. Nobody chose
+this and nobody can stop it.
+
+**Zishan is the only one who built a seal on top of it.** His memory loss is
+therefore the one that is not temporary: total, structured, layered, realm-gated, and
+it **blocks the natural return the others get for free.**
+
+What this buys:
+
+- **The threat has a schedule.** Seven absolute beings who have always remembered
+  everything are a constant — a background hum that never gets louder. Seven who are
+  *recovering* are a deadline. He has until they remember. A listener can feel that
+  tightening; they cannot feel a constant.
+- **His sacrifice gets sharper, not weaker.** He is the only one who chose to stay
+  blind while the tide was running the other way. Everyone else is being handed back
+  what he is paying to keep out.
+- **It explains the early era.** The eight have not already reshaped the new world in
+  part because, for the first stretch of it, none of them knew what they were.
+- **The friend's early recovery stays characterisation.** He is ahead of the curve
+  because he is not hunted and has nothing to flinch from — not because his timer ran
+  faster.
+
+**Never make the natural return a mechanic with rules.** It is weather: slow, uneven,
+unstoppable, different for everyone. The only memory system with rules in this story
+is the one Zishan built.
+
 ### The missing rung
 
 There is no tenth layer of the tenth realm. Nobody stands at 100.
@@ -449,11 +478,12 @@ world was *there*.
 
 This is the involuntary channel, and it is external by design:
 
-- **People who lived through him.** Every reincarnator remembers everything. They say
-  things he cannot parse, react to him in ways that make no sense, name things he
-  does not recognise.
-- **The friend above all** — complete memory, sitting next to him, occasionally
-  saying something that does not land right. The primary leak.
+- **People who lived through him.** The reincarnators recover their memories as the
+  years pass, and they say things he cannot parse, react to him in ways that make no
+  sense, name things he does not recognise. Early on this is fragmentary and easy to
+  dismiss. It gets worse every year, because they are all still remembering.
+- **The friend above all** — furthest along of anyone, sitting next to him,
+  occasionally saying something that does not land right. The primary leak.
 - **Remnants.** Places, objects, ruins, techniques that outlasted the era.
 - **Records and legend.** Distorted accounts of what he was, encountered as history
   rather than as memory.

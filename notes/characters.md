@@ -38,10 +38,12 @@ another book.
   underneath everything else.
 - **Now:** a child in a family that loves him, with no memory of any of it.
 - **Chose:** to sink his own memories before reincarnating — invisibility and time,
-  bought with decades of ignorance and weakness. He is the only survivor who made
-  that trade.
-- **Therefore:** the only participant in this game operating blind. Everyone else
-  knows who they are, knows who the others were, and is hunting him.
+  bought with decades of ignorance and weakness. He is the only survivor who made that
+  trade. Everyone came back blank; only his stays that way, because only he built a
+  seal to hold the natural return out.
+- **Therefore:** the only participant in this game who stays blind. The others are
+  remembering, year by year, on a curve nobody controls — so the hunt does not start
+  at full volume, it *ramps*, and he is racing it.
 - **Intends:** to walk the old road again. Says so. Whether he can is the story.
 - **Wants to know, at first.** He finds an impossible ocean and a sealed sky in his
   own soul and does exactly what any boy would: he wants it open. He strives for it,
@@ -125,9 +127,10 @@ simply not to live in poverty, which is already hard.
   have unacknowledged children and the world does not blink. Made a puzzle, it
   competes with the seals for the listener's *what is really going on* attention, and
   act one must not run two of those.
-- **Remembers early** — because he loses nothing by remembering. He isn't the one
-  being hunted. The protagonist's caution is specific to the protagonist's situation,
-  not to anything about the ocean.
+- **Recovers early and fast** — because he loses nothing by remembering. He is not
+  the one being hunted and has nothing to flinch from, so he lets it come. Everyone's
+  memory returns on its own; he simply does not resist his. The protagonist's caution
+  is specific to the protagonist's situation, not to anything about the ocean.
 - **Three stages:** neither knows → he knows and the protagonist doesn't → both know.
   Stage two is the engine, and shouldn't run more than ~15–25 chapters.
 
@@ -409,9 +412,9 @@ instrument that makes the narrowing visible, long before any war.
 
 ## The other reincarnators — *TBD*
 
-All absolute beings. All kept their memories. Many have presumably found each other
-by now, formed alliances, taken positions. All of them have spent this life looking
-for him.
+All absolute beings. All came back blank, and all are getting it back — slowly,
+unevenly, over years. Many have presumably found each other by now, formed alliances,
+taken positions. As they remember, they start looking for him.
 
 Some have concluded he didn't make it through. A few are certain he did, and have
 not slept well since.
