@@ -332,19 +332,28 @@ political favour. She was the payment.
   He paid everything for it. He grows up beside her.
 - **She dabbles and never entirely stopped.** She cultivates when she feels like it,
   which is rarely and briefly. She is never *not* a cultivator, so she is never a
-  helpless bystander — she simply advances at a crawl. Years of intermittent effort
-  put her around realm two or three when act one opens.
+  helpless bystander — she simply advances at a crawl.
+- **She stalled exactly where cultivation stopped being easy.** The curve is
+  exponential: the early realms come quickly for almost anyone, and the cost compounds
+  from there. Her years of dabbling carried her through the first realms on almost no
+  effort and then stopped dead, because past that point it requires the one thing she
+  will not spend. The lazy person coasts precisely as far as coasting goes. Nobody
+  says this aloud — the reader works it out from her having sat at the same realm for
+  years without minding.
 - **Her cultivation is an emotional tell.** The times she feels like it are readable:
   when something has frightened her, when the household is tense, when her brother has
   come home wrong. **No character ever remarks on this.** The reader notices she has
   been in the training yard again and knows what it means before anyone says it. Keep
   the gains always small — she must never level up because the plot needs her to.
-- **She is still ahead of him when act one opens.** He is fifteen or sixteen; she is
-  older and has been dabbling for years. So the tease comes first — a lazy older
-  sister genuinely above her prodigy brother and enjoying it — and then he passes her,
-  inside act one. **That is the first visible instance of the drift**, years before a
-  single memory surfaces, and it reads to everyone in the story as an ordinary sibling
-  milestone.
+- **She is barely ahead of him when act one opens**, and he goes past almost
+  immediately. He is already at her shoulder in chapter one; the exponential curve
+  means he does not spend the act catching up. So the tease is **one scene, early** —
+  a lazy older sister genuinely, briefly above her prodigy brother and enjoying it —
+  and then never again for the rest of the series. **That is the first visible
+  instance of the drift**, years before a single memory surfaces, and everyone in the
+  story reads it as an ordinary sibling milestone. A small early throwaway is what a
+  listener remembers four hundred chapters later, when he can no longer be in a room
+  with her.
 - *Why she matters for the format:* this story is a dying patriarch, scheming elders,
   and a boy with an ocean of atrocity in him. A weekly audio serial needs one voice in
   the cast that is not tense or the listener wears out. She is also the *Absolute

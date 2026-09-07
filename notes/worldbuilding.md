@@ -158,6 +158,30 @@ that ruled the world in a body that cannot climb, permanently. Such a person can
 rise, so the only lever left is other people. A manipulator rather than a fighter, and
 a threat shape nothing else in the cast has.
 
+### The curve
+
+**Cultivation gets exponentially harder the higher the level.** The early realms come
+quickly for almost anyone; the cost of each step compounds from there.
+
+- **It explains the pyramid from the effort side**, independently of the jar
+  explaining it from the capacity side. Two reasons, both true.
+- **It makes the protagonist's speed more remarkable the further he goes.** Reaching
+  the fifth realm at nineteen is one thing; the gap between him and everyone else
+  widens as he climbs, because he is beating a curve that defeats everyone.
+- **It is why the elder is frightening rather than pitiable.** Reaching the top of the
+  world on patience alone means beating an exponential by sheer duration. *He knows
+  exactly how long the road is* is a much heavier line under this rule.
+- **It is a second reason the eight seats stayed full for an era.** Not only was there
+  no room — the last steps were brutal.
+- **People stall where coasting stops working.** Anyone who will not spend real effort
+  gets carried through the first realms and then stops, permanently, at the point
+  where the curve turns. This is visible in the world and needs no explanation.
+
+**Open:** does lifespan extension scale the same way? If it does, a low-realm
+cultivator gets a modest extension rather than a vast one, and everything recorded
+about the sister having *centuries* is wrong — her clock would be far shorter and the
+drift would bite much sooner and harder.
+
 ### Lifespan
 
 **Every realm extends life.** Cultivation buys years at every step, so even a modest
