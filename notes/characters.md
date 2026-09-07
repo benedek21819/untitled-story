@@ -92,6 +92,39 @@ half-links them accepts the reveal faster.)*
   that has to be stopped. Sympathetic and insufferable in the right proportion.
 - **Enemies.** They fought to kill each other, for a very long time, and never spoke
   until the last day.
+
+**This life: a nobody.** Son of a servant woman, no father, poor. His first goal is
+simply not to live in poverty, which is already hard.
+
+- **They have swapped starting positions exactly.** Zishan — who was Shen Luo, who
+  climbed from nothing — is living Jin Yao's old life: born at the top of a clan,
+  name, resources, a seat waiting. Jiang Wei — who was Jin Yao, born to everything —
+  is living Shen Luo's. Neither knows. **Never state this on the page.** The reader
+  sees it unaided and it works on them for the length of the series.
+- It also turns Jin Yao's own wistful line into an experiment the world actually ran.
+  *If we had met differently.* They did. Now watch what the idealist does when
+  idealism is not free.
+- **Why he stays poor: knowledge is not capital.** He has millennia in his head —
+  techniques, formations, locations, secrets worth fortunes — and cannot afford the
+  ingredients for any of it. He knows a thousand things and can buy none of them.
+  That is the education Jin Yao was never given, and precisely the lesson Shen Luo
+  learned first: being right and being able to act are different, and the difference
+  is resources.
+- **His descent runs parallel to Zishan's, by the opposite route.** The question is
+  not whether he escapes poverty but what he does to. Every shortcut is one he would
+  have condemned Shen Luo for, and being an idealist he will justify each one cleanly
+  to himself. Two men going down at once; only one of them can see it happening.
+- **Keep him outside the Mu clan.** As a Mu servant, proximity solves his poverty, he
+  becomes a clan asset, and the friendship turns into clan business. Everything else
+  in Zishan's life is politics. **Jiang Wei is the one person in it who wants nothing
+  from him** — which is why the friendship matters and why the reveal will hurt.
+- *The money is the one thing that can put a stake into that.* Zishan is rich and his
+  friend is not. Does Zishan offer; does Jiang Wei take it. A proud man refusing help
+  from a friend, or taking it and hating himself, is a thread worth years.
+- ***No father* stays a plain fact, not a mystery.** Servant women in clan compounds
+  have unacknowledged children and the world does not blink. Made a puzzle, it
+  competes with the seals for the listener's *what is really going on* attention, and
+  act one must not run two of those.
 - **Remembers early** — because he loses nothing by remembering. He isn't the one
   being hunted. The protagonist's caution is specific to the protagonist's situation,
   not to anything about the ocean.
@@ -115,12 +148,9 @@ half-links them accepts the reveal faster.)*
   one of them is dead in a world that never heard the name. Zishan has a living family
   and remembers nothing. Each has exactly what the other lost, and neither knows that
   is what is happening.
-- What does he want in this life that has nothing to do with the protagonist? He needs
-  one, or he's a device pointed at the main character. More answerable now: a man
-  whose clan is gone, whose cause was fulfilled by the world simply ending, and who
-  won at a cost that bought nothing. Either he wants to do it properly this time and
-  build something — or he wants nothing at all, which is quieter and sadder. Decide
-  before he reaches the page.
+- *(Answered: what he wants in this life is not to be poor. Concrete, humble,
+  immediately legible, and entirely his own.)*
+- Where and how they actually meet, given he is outside the clan.
 
 ## The Mu clan
 
