@@ -148,8 +148,29 @@ requires knowing what it refers to at the time of writing.
   him — plus the mother and older sister, who are the sympathy floor. The dying
   grandfather is patriarch.)*
 - The other reincarnators: how many, who appears when.
-- **How many chapters until realm five** — his blindness lasts until the inner-world
-  gate, so this number is the length of act one.
+- **How many chapters until realm five.** He reaches it at nineteen or twenty, but
+  years are not chapters and the chapter count is what the buffer depends on.
+
+### Act one, as settled
+
+- **Do not open at birth.** Two decades cannot be covered at 1,500–3,000 words an
+  episode without giant time skips, and skips are harsher in audio than in print — a
+  listener who missed a week has nothing to glance back at when an episode opens on
+  *three years later*.
+- **Open at fifteen or sixteen, close to the crisis:** the grandfather already ill,
+  the succession already hot, the concealment already an old habit. Childhood becomes
+  a few paragraphs of established fact.
+- *Candidate chapter one:* a talent assessment where he decides what number to show.
+  It introduces the boy, the clan, the politics, and the central behaviour in one
+  scene.
+- That leaves four or five years to World Forming, with modest skips.
+- **Accept the consequence:** the ocean does not appear until realm five, so the
+  premise's central image lands at the *end* of act one. This is survivable only
+  because the prologue has already told the reader what he is — act one is dramatic
+  irony, not mystery. It therefore has to grip on the clan alone, with no supernatural
+  hook: a dying patriarch, a succession war, branches moving on a boy who cannot yet
+  fight back, a mother leaned on by her own family, and a sister who will not lift a
+  finger.
 - The first uninvited surfacing: trigger, and what he sees.
 - **What shape does, mechanically.** It is now the only variable distinguishing any
   two inner worlds, and it has no rules yet — what a shape means, whether it can be

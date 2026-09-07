@@ -175,12 +175,30 @@ council the way his old self ran a world. He will find it comfortable. He will r
 his father effortlessly and outgrow him early. The protagonist's nature gets
 demonstrated through a man the reader can see whole, long before any memory surfaces.
 
-**Therefore his talent is political from childhood — and he must hide it.** Shine too
-early and the elders see a second uncontrollable main-liner and harden against his
-father. Shine at the right moment and he is the argument that saves him. So he learns
-to manage how much of himself is visible, carefully, from a very young age, for
-entirely mundane reasons. It is exactly what Shen Luo would do. He does it by
+**Therefore his talent is political from childhood — and he must calibrate it.**
+Shine too early and the elders see a second uncontrollable main-liner and harden
+against his father. Shine at the right moment and he is the argument that saves him.
+So he learns to manage how much of himself is visible, carefully, from a very young
+age, for entirely mundane reasons. It is exactly what Shen Luo would do. He does it by
 instinct, never wonders why he is good at it, and only the reader knows.
+
+**He reaches World Forming at nineteen or twenty** — extremely fast, close to
+unprecedented — **and shows a controlled figure the whole way.**
+
+- *Not blanket concealment.* An heir who tests as mediocre gets written off, his
+  father loses the succession, and the branches win; hiding completely would hand his
+  enemies exactly what they want. He displays enough to be worth protecting and not
+  enough to alarm anyone. Publicly a formidable prodigy. Privately something else.
+  **Every assessment is a decision about what number to show**, and the gap is the
+  secret the reader gets to watch him manage.
+- *Even the displayed figure is remarkable*, because he has to be the clan's
+  opportunity. So the true one is beyond anything this world has seen, and the day he
+  is forced to stop calibrating is a very large payoff.
+- **The instinct precedes the reason.** He begins concealing before he has any motive
+  for it — a child cultivating impossibly fast whose gut simply declines to let
+  anyone see the whole number. The good reasons arrive later. The impulse was first.
+  That is the earliest evidence of what he is, it costs nothing, and no one in the
+  story can interpret it.
 
 **The rival need not be a villain.** The elders want someone controllable, so the
 branch candidate may be a decent boy being used. Destroying him should be ugly rather
