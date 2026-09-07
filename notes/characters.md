@@ -330,6 +330,21 @@ political favour. She was the payment.
   world where everyone claws upward she was handed the first step and shrugged: she
   is the road not taken, living in the house, being happy. Shen Luo *is* the climb.
   He paid everything for it. He grows up beside her.
+- **She dabbles and never entirely stopped.** She cultivates when she feels like it,
+  which is rarely and briefly. She is never *not* a cultivator, so she is never a
+  helpless bystander — she simply advances at a crawl. Years of intermittent effort
+  put her around realm two or three when act one opens.
+- **Her cultivation is an emotional tell.** The times she feels like it are readable:
+  when something has frightened her, when the household is tense, when her brother has
+  come home wrong. **No character ever remarks on this.** The reader notices she has
+  been in the training yard again and knows what it means before anyone says it. Keep
+  the gains always small — she must never level up because the plot needs her to.
+- **She is still ahead of him when act one opens.** He is fifteen or sixteen; she is
+  older and has been dabbling for years. So the tease comes first — a lazy older
+  sister genuinely above her prodigy brother and enjoying it — and then he passes her,
+  inside act one. **That is the first visible instance of the drift**, years before a
+  single memory surfaces, and it reads to everyone in the story as an ordinary sibling
+  milestone.
 - *Why she matters for the format:* this story is a dying patriarch, scheming elders,
   and a boy with an ocean of atrocity in him. A weekly audio serial needs one voice in
   the cast that is not tense or the listener wears out. She is also the *Absolute
@@ -355,8 +370,10 @@ political favour. She was the payment.
   it is the one argument in the book against everything her brother is.
 - *Open, and large:* he can **buy her time** — resources, realms, whatever this world
   sells. So the thread is: he keeps giving her years she never asked for, and she
-  keeps not wanting them. Whether she ever accepts, and what he has become by the
-  time she might, is the arc.
+  keeps not wanting them. She will not refuse on principle — she is not proud about
+  it — she will accept and then use it badly, because she still does not care enough.
+  That is harder to watch than refusal. Whether she ever takes it seriously, and what
+  he has become by the time she might, is the arc.
 - *Someone defends her right to idle*, because a hungry clan does not let a talented
   main-line daughter do nothing. **The father does.** He never once made her do
   anything. It is the only place his control slips, it is the proof he loves his
@@ -403,9 +420,6 @@ reader sees Shen Luo, no memory is involved at all.
   would look for a recluse who despised institutions — or whether it is pure accident
   changes what the clan *is* to him.
 - Which branch family is the named rival, and who fronts it.
-- **Does the sister cultivate at all, or merely could she?** The drift meter needs a
-  rough realm for her: someone who dabbles and stops around realm two or three reads
-  very differently from someone who never began. She has centuries either way.
 
 **Production constraint:** a clan implies dozens of people, and a listener can hold
 about five to seven names in early chapters. Name almost no one. The clan speaks
