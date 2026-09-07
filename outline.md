@@ -147,7 +147,9 @@ requires knowing what it refers to at the time of writing.
   Zishan main line and contested. Household is the father — who loves and deploys
   him — plus the mother and older sister, who are the sympathy floor. The dying
   grandfather is patriarch.)*
-- The other reincarnators: how many, who appears when.
+- The other reincarnators: how many, who appears when. *(Settled: one is a Mu clan
+  elder backing the branch candidate, recovering appetite rather than memory, and he
+  is act one's antagonist and its second clock.)*
 - **How many chapters until realm five.** He reaches it at nineteen or twenty, but
   years are not chapters and the chapter count is what the buffer depends on.
 
