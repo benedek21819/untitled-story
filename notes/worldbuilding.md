@@ -177,10 +177,11 @@ quickly for almost anyone; the cost of each step compounds from there.
   gets carried through the first realms and then stops, permanently, at the point
   where the curve turns. This is visible in the world and needs no explanation.
 
-**Open:** does lifespan extension scale the same way? If it does, a low-realm
-cultivator gets a modest extension rather than a vast one, and everything recorded
-about the sister having *centuries* is wrong — her clock would be far shorter and the
-drift would bite much sooner and harder.
+**Lifespan scales on the same curve.** A low-realm cultivator gets a modest extension,
+not a vast one. Only the upper realms buy the long spans, and only the tenth removes
+death. So the sister does *not* have centuries — she has a life longer than a
+mortal's and nothing like her brother's, and the drift bites sooner and harder than
+it would otherwise.
 
 ### Lifespan
 
@@ -195,6 +196,35 @@ Two things follow, and both matter more than the rule itself:
   when something *is* urgent it is because someone made it so.
 - **Refusing to cultivate has a visible price, and the person refusing can see it.**
   They are not declining power. They are declining centuries, knowingly.
+
+### Lifespan can be bought
+
+**Pills and elixirs extend life** — so lifespan is a commodity, and the rich live
+longer as a line item rather than a metaphor.
+
+**Required guardrail: diminishing returns.** Each extension must cost steeply more
+and give less, or be capped by what the body's realm can hold. Without that, wealth
+substitutes for cultivation, a rich merchant outlives a Grand Ascension cultivator,
+and the Immortal realm loses the only thing that makes it special. **Money never
+crosses the tenth realm.** It delays; it does not exempt.
+
+What this does to things already recorded:
+
+- **The grandfather's treatment was other people's years.** The clan spent years of
+  resources on an incurable illness, and under this rule those resources *were*
+  lifespan somebody else would have had. The council question — *how much more do we
+  spend on him?* — stops being about money and becomes about who dies so that he does
+  not. The man who asks it is monstrous and even more obviously correct.
+- **Jiang Wei's poverty means a short life.** A man who could once die only by murder
+  now faces an ordinary span because he cannot afford otherwise. *Not living in
+  poverty* now means *not dying early*, and every shortcut he takes buys back time he
+  used to have infinitely.
+- **The mother's birth clan has a concrete ask.** What a middle clan wants is elixirs
+  for its elders — sympathetic, grounded, and impossible to refuse cleanly, because
+  refusing means named people die. Her refusal then costs exactly what the floor needs
+  it to cost.
+- **The drift becomes measurable in spending.** A pill that is a family's fortune,
+  bought without noticing. The reader tracks his ascent by what he stops counting.
 
 ### The Immortal realm
 

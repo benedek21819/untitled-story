@@ -371,18 +371,22 @@ political favour. She was the payment.
     cannot stand where he stands, cannot be in the room. She turns from someone he
     travels with into someone he protects, and that transition is the narrowing made
     visible.
-  - *Long-term:* she still ends. He does not. Centuries out rather than decades, which
-    suits a long serial — the payoff is not forced early.
+  - *Long-term:* she still ends. He does not. Lifespan scales on the same exponential
+    curve as difficulty, so a low-realm cultivator gets a modest extension — she
+    outlives a mortal comfortably and comes nowhere near her brother.
 - **She knows the price and pays it anyway.** She is not declining power out of
   ignorance; she is declining centuries, with her eyes open, because she would rather
   enjoy the life she has. That is a far more pointed choice than obliviousness, and
   it is the one argument in the book against everything her brother is.
-- *Open, and large:* he can **buy her time** — resources, realms, whatever this world
-  sells. So the thread is: he keeps giving her years she never asked for, and she
-  keeps not wanting them. She will not refuse on principle — she is not proud about
-  it — she will accept and then use it badly, because she still does not care enough.
-  That is harder to watch than refusal. Whether she ever takes it seriously, and what
-  he has become by the time she might, is the arc.
+- **He can buy her time, and he will.** Lifespan is purchasable — pills and elixirs —
+  so he does not have to drag her up the ladder, he simply buys, repeatedly, and
+  eventually without noticing the cost. She will not refuse on principle; she is not
+  proud about it. She accepts and uses it badly, because she still does not care
+  enough. That is harder to watch than refusal.
+- **The sting neither of them chooses:** the one person whose love had no stake in him
+  ends up owing him her existence. Not a betrayal, nobody's fault — she quietly lives
+  because he can afford it. And it only ever delays. Money does not cross the tenth
+  realm, so she always ends, and the delay is his to grant.
 - *Someone defends her right to idle*, because a hungry clan does not let a talented
   main-line daughter do nothing. **The father does.** He never once made her do
   anything. It is the only place his control slips, it is the proof he loves his
