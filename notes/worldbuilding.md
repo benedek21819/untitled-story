@@ -80,8 +80,10 @@ Consequences:
   could end one.
 - Fights between absolute beings ended in stalemate by default. The prologue's draw
   is not a statement about parity — they simply ran out of time.
-- **In the new era, every one of them is a child, and trivially killable.** The thing
-  that was impossible for thousands of years is now available to anyone with a knife.
+- **In the new era none of them are absolute any more, and all of them can be
+  killed.** The thing that was impossible for thousands of years is now available to
+  anyone with a knife — most acutely for those who arrived recently, least for those
+  who have been climbing here for a long time already.
 - Which is why none of them move openly. Whoever is identified first can die for the
   first time in their existence, and they all know how badly the others want that.
 - The window closes as they climb. The smart play for everyone is to find the others
@@ -361,9 +363,11 @@ Consequences:
   this life he is doing exactly what he always did, for opposite reasons — the
   behaviour keeping him safe is the same behaviour that made him what he was.
 
-**Open:** if he had no domain and no responsibilities, what was he *doing* with those
-millennia? Whatever he pursued had to be worth an era of universal hatred. This is
-the same question the prologue asks and withholds.
+**Reserved:** if he had no domain and no responsibilities, what was he *doing* with
+those millennia? Whatever he pursued had to be worth an era of universal hatred. This
+is the same question the prologue asks and withholds. Partly answered — he came
+closest of anyone to the hundredth step — but *why he wanted it* is author-held. Do
+not invent it.
 
 ## Karma
 
@@ -519,8 +523,9 @@ This is the involuntary channel, and it is external by design:
   years pass, and they say things he cannot parse, react to him in ways that make no
   sense, name things he does not recognise. Early on this is fragmentary and easy to
   dismiss. It gets worse every year, because they are all still remembering.
-- **The friend above all** — furthest along of anyone, sitting next to him,
-  occasionally saying something that does not land right. The primary leak.
+- **The friend above all** — a long way along, sitting next to him, occasionally
+  saying something that does not land right. The primary leak in his daily life. (The
+  elder is at least as far recovered, but says almost nothing.)
 - **Remnants.** Places, objects, ruins, techniques that outlasted the era.
 - **Records and legend.** Distorted accounts of what he was, encountered as history
   rather than as memory.

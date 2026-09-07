@@ -6,10 +6,11 @@ An absolute being from the previous era — one of a handful at the very top of 
 world, who reached it through calculation and cruelty, and whom every other absolute
 being wanted dead and could not kill — reincarnates into the new era.
 
-Before he went, he sank his own memories into the deep, trading decades of ignorance
-and weakness for invisibility and time. He is the only survivor who did this. Every
-other one of them woke up knowing exactly who they were, and they have been looking
-for him ever since.
+Reincarnation is imperfect: all eight came back blank, and their memories return on
+their own over years. Before he went, he alone sank his memories deliberately and
+built a seal to hold the tide out — trading decades of ignorance and weakness for
+invisibility and time. His is the only blindness that is not temporary. As the others
+remember, they start looking for him.
 
 In this life he has a family, and people who genuinely care about him. He never had
 that before.
@@ -40,7 +41,7 @@ whatever he has actually become.
 
 ## The prologue
 
-The end of the old era. He and his oldest enemy are mid-fight — neither anywhere
+The end of the old era. Shen Luo and his oldest enemy, Jin Yao, are mid-fight — neither anywhere
 near death, because killing an absolute being is next to impossible no matter how
 strong you are. They feel the era ending. They stop.
 
@@ -117,11 +118,11 @@ Candidates, not canon.
   not outweighing the dark, which is impossible, but building something small and
   deliberate on top of it and defending that. Nearly hopeless, which is the right
   amount of hope.
-- Does surfacing cost **self** — not evil, but *scale*? He remembers ruling
-  everything and stops being able to take small lives seriously. That's how he loses
-  them: not by turning cruel, but by becoming unable to take them seriously.
-- Is the ocean **usable power he must never use** — a loaded gun that would put him
-  beyond anyone alive and announce him to every survivor at once?
+
+*(Both other entries here were settled and moved: scale-poisoning became **the
+drift** — universal, unavoidable, a narrowing rather than a hollowing, with the
+memories accelerating rather than causing it. And the ocean is **not** usable power:
+the inner world grants effects, never strength.)*
 
 ## Reserved
 
@@ -148,10 +149,19 @@ requires knowing what it refers to at the time of writing.
   him — plus the mother and older sister, who are the sympathy floor. The dying
   grandfather is patriarch.)*
 - The other reincarnators: how many, who appears when. *(Settled: one is a Mu clan
-  elder backing the branch candidate, recovering appetite rather than memory, and he
-  is act one's antagonist and its second clock.)*
+  elder, born Mu this life, backing the branch candidate — he has most of his memories
+  back and is act one's antagonist and its second clock.)*
 - **How many chapters until realm five.** He reaches it at nineteen or twenty, but
   years are not chapters and the chapter count is what the buffer depends on.
+- **Does the elder survive act one** — killed, or gets away knowing. The second
+  compromises the invisibility strategy from the first chapter of act two.
+- **The first dive he takes uninvited by circumstance:** trigger, and what he finds.
+  *(Note: nothing surfaces on its own. The ocean is inert. This is a choice he makes,
+  and per the structural rule the safe one is the incriminating one.)*
+- **What shape does, mechanically.** Realm sets size and complexity and the builder
+  sets content, so shape is one variable among three — but it has no rules yet: what
+  a shape means, whether it can be read by others, whether it can change.
+- Arc one: chapter count and where it ends.
 
 ### Act one, as settled
 
@@ -173,8 +183,6 @@ requires knowing what it refers to at the time of writing.
   hook: a dying patriarch, a succession war, branches moving on a boy who cannot yet
   fight back, a mother leaned on by her own family, and a sister who will not lift a
   finger.
-- The first uninvited surfacing: trigger, and what he sees.
-- **What shape does, mechanically.** It is now the only variable distinguishing any
-  two inner worlds, and it has no rules yet — what a shape means, whether it can be
-  read by others, whether it can change.
-- Arc one: chapter count and where it ends.
+- **Act one's climax is fixed:** the branches move on his mother; Zishan does not
+  break, he calculates, and the result is appalling; the elder witnesses it and
+  recognises a method rather than a talent. Pairs with the grandfather's death.

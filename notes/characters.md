@@ -50,10 +50,15 @@ another book.
   remembering, year by year, on a curve nobody controls — so the hunt does not start
   at full volume, it *ramps*, and he is racing it.
 - **Intends:** to walk the old road again. Says so. Whether he can is the story.
-- **Wants to know, at first.** He finds an impossible ocean and a sealed sky in his
-  own soul and does exactly what any boy would: he wants it open. He strives for it,
-  actively, and cultivates hard because realm is the price of the next layer. He is
-  pulling forward through the early arcs, not holding back.
+- **Through act one he does not know any of this exists.** The ocean and the sky are
+  not found until realm five, so his drive to cultivate across the whole first act is
+  entirely mundane — his father's succession, the branches, the clan's expectations,
+  and whatever a gifted boy wants for himself. Do not let the seals motivate him
+  before he has seen them.
+- **Wants to know, once he finds it.** He meets an impossible ocean and a sealed sky
+  in his own soul and does exactly what any young man would: he wants it open. He
+  strives for it, actively, and cultivates hard because realm is the price of the next
+  layer. He is pulling forward through the early arcs of act two, not holding back.
 - **Later he hesitates.** The arc is **eager → hesitant → opening anyway, under
   pressure and at a price.** A protagonist who simply stops is static; one who keeps
   going while dreading it is not.
@@ -66,8 +71,9 @@ another book.
 - **Has never:** been afraid, or had anything that could be taken from him. Both are
   now false.
 
-**Sympathy floor:** the family. Not chosen, not earned, installed before he came
-back. He cannot dismiss it as a weakness he picked up, because he didn't pick it up.
+**Sympathy floor:** the mother and the sister — not the father, and not the clan.
+Not chosen, not earned, installed before he came back. He cannot dismiss it as a
+weakness he picked up, because he didn't pick it up.
 
 ## The friend — Jiang Wei *(this life)* / Jin Yao *(old era)*
 
@@ -192,7 +198,9 @@ part he can stand on without effort. Everything below is the old era.
   permission to cultivate at full speed, so his eager phase needs no contrivance.
 - Pressure that isn't aimed at him. He is overpowered; nothing can threaten him
   directly. A clan is a large, soft surface that can be threatened instead.
-- A plausible arrival for the friend — visiting disciples, allied clans, tournaments.
+- A reason for Zishan to leave the compound at all — clan errands, escorts,
+  assessments, town business — which is where he can plausibly meet someone from
+  outside it.
 - Politics, which is a game of calculation, which is the thing he was best at. He
   will be *good* at this, immediately and without effort, and that is the problem.
 
@@ -394,9 +402,10 @@ reader sees Shen Luo, no memory is involved at all.
   set up, he set up before. Whether he chose this family — the last place anyone
   would look for a recluse who despised institutions — or whether it is pure accident
   changes what the clan *is* to him.
-- Who the household is: two or three people, what each wants from him, and what each
-  would notice when he changes.
 - Which branch family is the named rival, and who fronts it.
+- **Does the sister cultivate at all, or merely could she?** The drift meter needs a
+  rough realm for her: someone who dabbles and stops around realm two or three reads
+  very differently from someone who never began. She has centuries either way.
 
 **Production constraint:** a clan implies dozens of people, and a listener can hold
 about five to seven names in early chapters. Name almost no one. The clan speaks

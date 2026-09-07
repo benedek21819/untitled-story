@@ -3,8 +3,8 @@
 *Working title.* A cultivation serial written for audiobook release.
 
 An absolute being from a dead era reincarnates into the new one, having sunk his own
-memories to avoid being found. He does not know what he was. Everyone still looking
-for him does.
+memories to avoid being found. They all came back blank; only his stays that way. He
+does not know what he was — and the ones who will come looking are remembering.
 
 ## Format
 
