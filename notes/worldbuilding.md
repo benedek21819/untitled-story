@@ -225,6 +225,11 @@ What this does to things already recorded:
   it to cost.
 - **The drift becomes measurable in spending.** A pill that is a family's fortune,
   bought without noticing. The reader tracks his ascent by what he stops counting.
+- **Allocation is a weapon.** Elixirs are clan resources and who receives them is a
+  council decision, so a faction can kill someone with a vote — block a renewal,
+  divert what was promised, lose it in committee. Deniable, procedurally correct, and
+  slow. This is how the branches come for Zishan's mother, and it is far better than
+  an assassin: it makes his answer disproportionate, which is the whole point.
 
 ### The Immortal realm
 

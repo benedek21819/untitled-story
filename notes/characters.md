@@ -308,9 +308,19 @@ not the floor.
 **The mother — the floor.** Married in from a middle-sized clan that was buying
 political favour. She was the payment.
 
+- **She cultivates a little** — a middle clan's daughter would — so she sits in the
+  same band as the sister and puts no second deathwatch in act one.
+- **On marrying in she received an elixir worth a hundred years.** That was her cut of
+  her own sale: her birth clan took the political favour, she took the lifespan. The
+  Mu bought her and paid her partly in her own years, and she has spent every day
+  since knowing exactly what she cost and what she was worth.
 - She is the only person in that house who has already been used as an instrument by
   a family, which is exactly what is now being done to her son. Her wanting him to be
-  *less* is not a temperament, it is experience.
+  *less* is not a temperament, it is experience — **she was the transaction.**
+- *A hundred years is a number a listener can hold.* Not "a long life": finite,
+  countable, hers. Long enough that act one carries no second clock beside the
+  grandfather, short enough to matter later. And Zishan will be able to extend it —
+  so both women of the sympathy floor end up alive because he pays for them.
 - The elders consider it a poor match — a middle clan was beneath a successor — so
   she is faintly resented inside the Mu and has no standing of her own. That
   isolation is what makes the bond precious.
@@ -419,9 +429,21 @@ during a trial, a rigged assessment. That window closes permanently once he is
 strong, so it cannot carry the arc. When it closes, they do the only thing left and
 go after the household. That is where it stops being politics.
 
-*Candidate act-one climax:* when they touch his mother he does not lose control. He
-calculates — coldly, correctly — and the result is appalling. The first time the
-reader sees Shen Luo, no memory is involved at all.
+*Act-one climax:* they come for his mother — **and not with an assassin.** Elixirs
+are clan resources and allocation is a council decision, so the branches need only
+ensure hers go elsewhere: block a renewal, divert what was promised, lose it in
+committee. Deniable, procedurally correct, entirely within the rules, and it kills
+her slowly.
+
+He does not lose control. He calculates, coldly and correctly, and the result is
+appalling.
+
+**The disproportion is the point.** A boy who destroys people over an attempted
+murder is understandable. A boy who destroys them over a committee vote is not — and
+that missing sense of scale is the thing itself. It is also exactly what the elder
+recognises: not rage, not grief, but an answer with no proportion in it, the
+signature of a man who stopped weighing lives against consequences a very long time
+ago. The first time the reader sees Shen Luo, no memory is involved at all.
 
 **Undecided:**
 
