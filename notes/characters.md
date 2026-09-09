@@ -113,22 +113,19 @@ another book.
     and narrows everything outside it. The people he wants are outside the circle. A
     man who desires someone who barely registers to him **as a person** needs no cruel
     line written — it is in how little attention he pays afterwards.
-  - **Heat level: 3 of 4 — "closed door with a window."** The scene continues past the
-    door but stays in impression: breath, weight, heat, fragments. No anatomical
-    specificity. *(1 is cutting at the door, 2 is fade to black, 4 is explicit.)*
-    Three reasons specific to this format:
-    - **A narrator makes everything more intimate than text.** Level 3 read aloud
-      lands roughly where level 4 lands on the page. Calibrate with a test render
-      rather than by reading silently.
-    - **TTS is worst at exactly this material** — gasps, moans, broken breathing,
-      half-words. Those are the load-bearing elements of an explicit scene and the ones
-      synthetic narration mangles. Written as *prose* rather than vocal performance,
-      the problem disappears.
-    - **Consistency matters more than level.** Switching register at chapter sixty
-      reads as a different book, and listeners catch tonal shifts faster than readers.
-  - **The characterisation is not in the scene.** It is in him arranging it beforehand
-    and in how little attention he pays afterwards. Both sit outside the heat
-    entirely, so the level costs nothing that matters.
+  - **Heat level: fade to black.** The scene builds — tension, dialogue, the first
+    contact — and then cuts. Nothing past the door.
+    - **Hold this register for the whole series.** Consistency matters more than
+      level: switching at chapter sixty reads as a different book, and listeners catch
+      tonal shifts faster than readers do.
+    - *Two problems this avoids outright:* a narrator's voice makes everything more
+      intimate than text, so anything written to feel restrained on the page runs
+      hotter aloud — and TTS is at its worst on exactly the material an explicit scene
+      is built from (gasps, broken breathing, half-words). Neither applies here.
+  - **The characterisation is not in the scene**, which is why the cut costs nothing.
+    It is in him **arranging** it beforehand and in **how little attention he pays
+    afterwards**. Both sit entirely outside the door. Write those two things well and
+    the trait lands harder than any amount of heat would.
 
 - **Dry humour, delivered flat.** The one thing on this list that exists for the
   reader rather than the character — a listener spends hundreds of hours with him, and
