@@ -204,9 +204,10 @@ requires knowing what it refers to at the time of writing.
     and the reason, so the listener should feel him **solving**, not admire him being
     inscrutable.
   - **He is suppressed at all times**, and has been since childhood — see *Realm
-    suppression* in `worldbuilding.md`. It is dangerous compression, it accelerates
-    his growth, the Mu heirloom removes most of the risk, and his father gave it to
-    him and knows he wears it without knowing the number.
+    suppression* in `worldbuilding.md`. It is dangerous compression that
+    accelerates his growth, and the Mu heirloom teaches him to carry it rather than
+    carrying it for him. His father gave it to him and knows he wears it, without
+    knowing the number.
   - **It is where he meets Jiang Wei, and the recognition is mutual.** Poor, so his
     foundation is terrible — but with millennia of technique in his head. He fights far
     above his realm and loses the moment he meets anyone with real resources behind

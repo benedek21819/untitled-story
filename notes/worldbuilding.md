@@ -207,10 +207,13 @@ could do it will not, because the risk is not worth the concealment.
 growth under compression. So suppression is a genuine trade, not a disguise: real
 danger and real benefit, both continuous.
 
-**Suppression artifacts remove most of the danger.** They are rare and valuable, and
-a clan that owns one owns it as an heirloom rather than as equipment. One artifact
-serves one wearer, and most people still could not manage what it enables, which is
-why the Mu having one has not by itself made them great.
+**Suppression artifacts do not hold the pressure. They teach you to hold it.** A
+second set of wheels until a rider can balance alone: the artifact accelerates
+adaptation and makes the learning survivable, and **the capacity it builds is
+permanently the wearer's.** They are rare and valuable, and a clan that owns one owns
+it as an heirloom rather than equipment. One artifact serves one wearer, and most
+people still could not manage what it enables, which is why the Mu having one has not
+by itself made them great.
 
 **The Mu heirloom is on Zishan, and has been since he was a child.** His father gave
 it to him when his cultivation speed turned unnatural — worried and strategic at
@@ -219,11 +222,13 @@ stopped.
 
 Consequences, and the first is the largest:
 
-- **It gives an overpowered protagonist a real vulnerability.** He is a pressure
-  vessel at all times and the artifact is what keeps him intact. Lost, damaged, or
-  stolen, he is in physical danger *and* forced to choose between rupture and
-  revelation. "Fights are concealment problems" stops being a declaration and becomes
-  a mechanic.
+- **It gives an overpowered protagonist a real vulnerability — and it is a condition,
+  not an object.** He is under continuous internal pressure at all times, and he is
+  the one holding it. Losing the artifact would cost him a safety margin, not the
+  capacity, so nobody wins by stealing it. What can crack him is **exhaustion, injury,
+  a fight that runs longer than planned, or being pushed harder than he prepared
+  for** — weaknesses that appear inside scenes rather than requiring a heist. "Fights
+  are concealment problems" stops being a declaration and becomes a mechanic.
 - **It hands the world a false explanation for his speed.** Everyone knows compression
   accelerates growth, so nobody needs to wonder. Three real causes — exceptional
   aptitude, peerless comprehension, years under pressure — and the world is aware of
@@ -231,8 +236,14 @@ Consequences, and the first is the largest:
 - **His father has been complicit since he was small.** He knows the boy is
   suppressed. He does not know the real realm and can only guess — so he estimates his
   son constantly, gets it wrong, and is pleased by the wrong number.
-- **It has a ceiling, which is a clock.** An artifact holds only so much. He will
-  outgrow the thing that hides him, and neither he nor the reader knows exactly when.
+- **The strain grows as he does.** The artifact accelerates adaptation, so the wider
+  the gap between his real realm and his shown one, the less of the work it does and
+  the more he carries himself. He gets stronger and it gets harder at once.
+- **He will stop needing it, and that is a quiet beat rather than a crisis.** One day
+  he takes off a thing he has worn since childhood, for no reason except that it has
+  become unnecessary, and nothing happens. His father would notice — and what he would
+  be watching is his son outgrowing a Mu heirloom that has served the clan for
+  generations. The drift, in one object, years before anyone could name it.
 - **Never a power-up.** It removes danger from suppression; it adds no strength. The
   growth comes from the pressure, which is a cost he pays daily. Same rule as the
   inner world.

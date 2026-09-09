@@ -397,9 +397,10 @@ instinct, never wonders why he is good at it, and only the reader knows.
 **He reaches World Forming at eighteen** — extremely fast, close to unprecedented —
 **and shows a controlled figure the whole way.** He is **suppressed at all times**,
 wearing the Mu heirloom his father gave him as a child when his cultivation speed
-turned unnatural. See *Realm suppression* in `worldbuilding.md`: it is dangerous
-compression, it accelerates his growth, the artifact removes most of the risk, and it
-has a ceiling he will eventually exceed.
+turned unnatural. See *Realm suppression* in `worldbuilding.md`: it is
+dangerous compression and it accelerates his growth, and the artifact does not hold
+the pressure for him — it teaches him to hold it, so the capacity is permanently his
+and the strain is permanently his too.
 
 - *Not blanket concealment.* An heir who tests as mediocre gets written off, his
   father loses the succession, and the branches win; hiding completely would hand his
