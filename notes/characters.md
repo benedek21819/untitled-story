@@ -124,12 +124,34 @@ another book.
     take good advice. The ratio shifts over years. That is the engine act one's middle
     was short of: each arc he is a little more central than the last, and nobody can
     name the moment it changed.
-  - **The rupture, when it comes, is not about succession.** It is a decision they
-    disagree on, at which point the father discovers he has not been in charge for
-    years. Far more intimate than losing a seat — not *you took my position* but *I
-    was never the one deciding* — and precisely aimed, because his defining trait is
-    that he likes to be in control. What he values most in himself turns out to have
-    been maintained by his son.
+  - **There is no rupture. He outgrows it.** As his power and influence pass beyond
+    the Mu entirely, his father's need for control stops being an obstacle — a man
+    whose domain is one clan is not in competition with someone operating above the
+    great clans. The father becomes patriarch; his son is playing several tables
+    higher; the influence over the family reads as natural to everyone. Nothing to
+    fight over.
+  - *Why this beats a rupture:* it protects the sympathy floor a father-son war would
+    burn, it avoids one of the genre's most worn beats, and it is **what the drift
+    predicts** — the clan stops registering as he rises, so the seat and the council
+    become beneath his notice through irrelevance rather than conflict.
+  - **But it must land as a loss.** His father spends his life becoming patriarch of a
+    great clan, reaches it, and finds that his son has already made it *small*. Not
+    taken — outgrown. He is proud and diminished at once and there is nobody to be
+    angry at. **The tragedy is obsolescence, not betrayal**, and it is worse than a
+    fight because no one did anything wrong.
+  - **He still finds out.** He works out that his son was steering him for years — and
+    by then Zishan is so far past him that anger would be absurd, and he can see that
+    clearly enough not to feel it. For a man whose defining trait is liking control,
+    that is worse than any confrontation.
+  - ***The scene that carries the whole arc:*** the father offers something — advice,
+    an introduction, a decision he is proud of — that would have mattered enormously
+    ten years earlier and now does not at all. Zishan takes it kindly. Accepts it,
+    thanks him, does not use it. **Kindness as the evidence of distance.** The love is
+    entirely intact, which is what makes it unbearable, and it is the drift shown on
+    someone the audience has known for hundreds of chapters.
+  - *Guard against:* the father becoming furniture afterwards. Running the clan his son
+    owns and does not think about is a sufficient function, but it has to be a
+    deliberate one.
   - **Open:** does the father know? *Lean: he half-knows and does not examine it,
     because his son is right and it works.*
   - **Craft warning: rule by proxy risks a passive protagonist.** He advises, his
