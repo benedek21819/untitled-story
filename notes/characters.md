@@ -27,16 +27,17 @@ another book.
 - **Was:** an absolute being at the very top of the previous era. Reached it through
   calculation and cruelty. Every other absolute being wanted him dead; none of them
   could manage it.
-- **The Heavenly Yin physique** — a constitution almost exclusive to women, which
-  accelerates Yin Qi accumulation several times and cripples or kills the men who have
-  it. It is his exceptional aptitude and his lethal defect in one. Publicly known,
-  which explains his cultivation speed to the world and closes the question. He is not
-  ashamed of it; see `worldbuilding.md`.
-- **Peerless comprehension, a bad body.** He climbed to the top of the world with the
-  worst engine of the eight, which is why it took an era and why it took cruelty. In
-  this life the dice came up the other way: exceptional aptitude, the same soul, and
-  understanding returning as the seals open. He is not fast because he is a
-  reincarnator. He is fast because he finally has the body he never had.
+- **Peerless comprehension, a bad body — then.** He climbed to the top of the world
+  with the worst engine of the eight, which is why it took an era, and why it took a
+  technique for taking what he could not earn.
+- **The Heavenly Yin physique — now.** A constitution almost exclusive to women,
+  accelerating Yin Qi accumulation several times over and crippling or killing the men
+  who have it. **It is the exceptional aptitude the dice gave him and his lethal
+  defect in one.** Publicly known, so the world explains his cultivation speed by it —
+  correctly — and stops asking. He is not ashamed of it; see `worldbuilding.md`.
+- So he is not fast because he is a reincarnator. He is fast because he finally has a
+  body that can accumulate, plus the same soul, plus understanding returning as the
+  seals open — and the world knows about exactly one of the three.
 - **Ruled by deterrence, not administration.** Managed nothing, owed nothing,
   answered to no one, and was largely absent from the world — but wherever he
   appeared, everything went according to his wishes, because he could kill anyone who
@@ -82,7 +83,7 @@ another book.
 
 - **Calm** is the most valuable of these, and in audio it is a *sound* — a narrator
   carries it, and it makes him legible with no interiority at all.
-- **Authoritative, and it is a problem.** A fifteen-year-old who speaks like a man who
+- **Authoritative, and it is a problem.** A seventeen-year-old who speaks like a man who
   expects to be obeyed is conspicuous. It is the concealment problem made audible, it
   slips out when he is not thinking about it, and it is the kind of thing the elder
   files away years before he understands why.
@@ -104,7 +105,7 @@ another book.
     watches a man secure an asset. Same behaviour, two readings.
   - **It gives act one a clean objective:** get his father the seat. It also converts
     him from a *stake* in the succession fight into an *agent* of it, within the
-    limits of being fifteen.
+    limits of being seventeen.
   - **And it puts him in the same game as the elder** — both backing a candidate as a
     route to the chair, from opposite sides of the table. The elder may respect the
     play before he fears the boy, because it is his own.
@@ -122,7 +123,7 @@ another book.
     applied to clan politics with the enthusiastic approval of everyone who loves him.
     **The approval is the horror.** This is stronger than deception would be: there is
     no villainy to point at, and he is exactly what he appears to be.
-  - **It is earned across act one by being right.** A fifteen-year-old is not handed
+  - **It is earned across act one by being right.** A seventeen-year-old is not handed
     standing. He starts small — accurate counsel, a correct read of an elder, a
     prediction that lands — and his father is competent, and competent men take good
     advice. Each arc he is a little more central than the last. That is the engine act
@@ -174,7 +175,7 @@ another book.
   overriding judgement, and it demonstrates the calculation in a domain the reader
   feels rather than admires.
   - *It compounds with having never been refused.* He wants, and expects the world to
-    arrange itself, and at fifteen he can arrange nothing. That gap is where he lives
+    arrange itself, and at seventeen he can arrange little. That gap is where he lives
     in act one — and being told no by someone who simply does not want him is an
     experience Shen Luo never had and cannot out-think.
   - *The dark version the mechanics already support:* the drift exempts the household
@@ -575,12 +576,16 @@ him for things. He will be excellent at them, immediately, without effort. His f
 will be proud of him. That is the moral engine of act one, and it needs no seal
 opened to run.
 
-### The branch conflict expires — plan the escalation
+### The branch conflict expires
 
 They can only hurt him while he is weak: poison, sabotaged resources, an accident
 during a trial, a rigged assessment. That window closes permanently once he is
-strong, so it cannot carry the arc. When it closes, they do the only thing left and
-go after the household. That is where it stops being politics.
+strong, so it cannot carry the arc.
+
+**Do not resolve this by escalating to the household.** That is the reasoning that
+produced the rejected mother-as-victim climax — see below. The window closing is a
+fact about the branches, not a prompt to threaten his family; what follows is his
+move, not theirs.
 
 ### The act-one climax
 
@@ -708,22 +713,23 @@ the first rung of a ladder back, and the Mu clan is what is within reach.
 — not a prodigy, a man who out-thought and out-hurt everyone for longer than they
 could stand. So a boy cultivating at unprecedented speed is the *least* Shen Luo-like
 thing in the world. The elder is not scanning for a genius. He is scanning for a
-schemer, and he is looking at a polite fifteen-year-old who defers to his father.
+schemer, and he is looking at a polite seventeen-year-old who defers to his father.
 
 **Which sets the act-one climax.** The trigger is never Zishan's power. It is Zishan
-doing something **cold** — the recorded candidate: the branches come for his mother,
-he does not lose control, he calculates, and the result is appalling. The elder sees
-it. What he recognises is not a strong boy. It is a *method* he spent an era being
-afraid of.
+doing something **cold** — see *The act-one climax* above for what is settled and
+which triggers remain open. The elder sees it, and what he recognises is not a strong
+boy. It is a *method* he spent an era being afraid of.
 
 **Constraints:**
 
 - **He dies in act one.** The secret survives into act two intact, which is what the
   premise depends on.
-  - **He must be out-thought, not out-fought.** He is realm five or six and Zishan is
-    three or four, so a fight is impossible. The method kills him — which is right,
-    because Shen Luo was never a talent, he was a man who out-thought people for
-    millennia.
+  - **He must be out-thought, not out-fought** — and by the climax that is a *choice*
+    rather than a necessity. The elder is realm five or six; Zishan is late Nascent
+    Soul and reaches World Forming inside the act, so the gap is small and closing. He
+    could fight. He does not, because a fight at his real level would announce him.
+    The method kills the elder instead, which is right: Shen Luo was never a talent,
+    he was a man who out-thought people for millennia.
   - **Zishan kills one of the eight and never learns it.** He removes a branch-family
     problem and an absolute being of the previous era happens to be standing in it. The
     reader has spent an act watching that man circle him. Zishan steps on him

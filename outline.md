@@ -2,7 +2,7 @@
 
 ## Premise
 
-An absolute being from the previous era — one of a handful at the very top of the
+An absolute being from the previous era — one of the eight at the very top of the
 world, who reached it through calculation and cruelty, and whom every other absolute
 being wanted dead and could not kill — reincarnates into the new era.
 
@@ -15,14 +15,21 @@ remember, they start looking for him.
 In this life he has a family, and people who genuinely care about him. He never had
 that before.
 
+He also has the **Heavenly Yin physique** — a constitution almost exclusive to women,
+which accelerates Yin Qi accumulation several times over and kills the men who have
+it. It is the best body he has ever had and it is killing him. He wears the clan
+heirloom that suppresses his realm and contains the excess, and the world, which knows
+about the physique and not about the suppression, has a tidy and entirely wrong
+account of why he grows so fast.
+
 ## The spine
 
 In the old era he was untouchable for two reasons: nothing could kill him, and there
 was nothing anyone could take from him.
 
-Both are now false. He is a child in a world where the others are children too, and
-for the first time in the existence of any of them, killing is easy. And he has
-people.
+Both are now false. None of the eight are absolute any more and every one of them can
+be killed — for the first time in the existence of any of them, killing is easy. And
+he has people.
 
 His method is the trap. He became what he was through calculation and cruelty, and
 using calculation and cruelty now is precisely how he gets identified — which means
@@ -153,15 +160,21 @@ requires knowing what it refers to at the time of writing.
   elder, born Mu this life, backing the branch candidate — he has most of his memories
   back and is act one's antagonist and its second clock.)*
 - **Act one's length is not being fixed in advance.** He reaches realm five at
-  nineteen or twenty; the chapter count is arrived at in the draft, not decided here.
-- **Does the elder survive act one** — killed, or gets away knowing. The second
-  compromises the invisibility strategy from the first chapter of act two.
+  eighteen; the chapter count is arrived at in the draft, not decided here.
+- **Does the prologue run before the competition, or after it?** The whole design
+  leans on the reader knowing what he is from the start — act one is dramatic irony,
+  not mystery, and the opening scene only lands if the audience already knows that a
+  boy choosing a number is an ancient thing calibrating itself. But a prologue set in
+  a dead era, between two men who mean nothing to a new listener, is a harder first
+  five minutes than a fight.
+- **The act-one climax trigger** — efficiency, applause, or pre-emption. See
+  `characters.md`; pre-emption is the current lean.
 - **The first layer he breaks with nothing forcing him:** trigger, and what it gives
   him. *(The safe unsealing is the incriminating one.)*
 - **What shape does, mechanically.** Realm sets size and complexity and the builder
   sets content, so shape is one variable among three — but it has no rules yet: what
   a shape means, whether it can be read by others, whether it can change.
-- Arc one: where it ends.
+- Names for the elder and the rival branch, specifically.
 
 ### Act one, as settled
 
@@ -204,10 +217,14 @@ requires knowing what it refers to at the time of writing.
     and the reason, so the listener should feel him **solving**, not admire him being
     inscrutable.
   - **He is suppressed at all times**, and has been since childhood — see *Realm
-    suppression* in `worldbuilding.md`. It is dangerous compression that
-    accelerates his growth, and the Mu heirloom teaches him to carry it rather than
-    carrying it for him. His father gave it to him and knows he wears it, without
-    knowing the number.
+    suppression* and *The Heavenly Yin physique* in `worldbuilding.md`. His father
+    gave him the Mu heirloom to **contain the Yin energy that would otherwise kill
+    him**; hiding the realm was the same act. The compression also accelerates his
+    growth, which the world can see and attributes to the physique, correctly. The
+    heirloom teaches him to carry the pressure rather than carrying it for him.
+  - **The public assumes concealment**, which is what everyone does — no risk, no
+    benefit. He is suppressing, which is neither. He hides behind a mundane assumption
+    rather than behind skill.
   - **It is where he meets Jiang Wei, and the recognition is mutual.** Poor, so his
     foundation is terrible — but with millennia of technique in his head. He fights far
     above his realm and loses the moment he meets anyone with real resources behind
@@ -236,6 +253,9 @@ requires knowing what it refers to at the time of writing.
   made of. **Everyone in the story approves. Only the reader is uneasy.**
 - **The elder does not survive act one.** He is out-thought, not out-fought — and
   Zishan kills one of the eight without ever learning that he did.
-- **Act one's climax is fixed:** the branches move on his mother; Zishan does not
-  break, he calculates, and the result is appalling; the elder witnesses it and
-  recognises a method rather than a talent. Pairs with the grandfather's death.
+- **Act one's climax, as far as it is fixed:** Zishan does something appalling. He
+  does not break — he calculates, coldly and correctly, and the disproportion is in
+  the *scope* of the answer: he eliminates a category rather than punishing an act.
+  The elder witnesses it and recognises a method rather than a talent. His mother is
+  the **witness, not the victim**. The trigger is still open — see `characters.md`.
+  Pairs with the grandfather's death.

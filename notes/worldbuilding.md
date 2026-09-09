@@ -165,7 +165,7 @@ quickly for almost anyone; the cost of each step compounds from there.
 - **It explains the pyramid from the effort side**, independently of the jar
   explaining it from the capacity side. Two reasons, both true.
 - **It makes the protagonist's speed more remarkable the further he goes.** Reaching
-  the fifth realm at nineteen is one thing; the gap between him and everyone else
+  the fifth realm at eighteen is one thing; the gap between him and everyone else
   widens as he climbs, because he is beating a curve that defeats everyone.
 - **It is why the elder is frightening rather than pitiable.** Reaching the top of the
   world on patience alone means beating an exponential by sheer duration. *He knows
