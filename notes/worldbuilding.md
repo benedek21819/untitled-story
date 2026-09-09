@@ -744,6 +744,49 @@ solves a problem too elegantly. The danger scales with knowledge automatically.
   whatever he builds? **Deferred** — to be established when the story reaches it.
   Not needed until the island carries something worth losing.
 
+## The Prince as correction
+
+*The Prince* is an influence on how Zishan operates, and it earns its place because
+it is **a diagnosis of what Shen Luo did wrong** rather than a coat of paint.
+
+**The two classic errors, both committed at maximum scale for millennia:**
+
+- **He was feared *and* hated.** The warning is that hatred is what organises people
+  against you. An entire era coordinated to remove Shen Luo, and failed only because
+  he could not be killed. Take away the invulnerability — which the new era does — and
+  that method is fatal.
+- **He had no foundation.** No office, no domain, no base: *sovereignty without a
+  state*. A ruler with no foundation is a man everyone can safely conspire against.
+
+**So Zishan is not repeating the old road. He is correcting it.** He has a clan,
+allies, a name people are glad to say, and the approval of everyone around him —
+everything his old self never had and never wanted. He is building the foundation
+Shen Luo lacked. **A tyrant who has learned to be loved is far more dangerous than
+one who was merely feared, because nobody organises against him.**
+
+That gives *does he walk the old road again* a better answer than yes or no: he walks
+it **better**, and better is worse.
+
+**Already present in the design, arrived at independently:**
+
+- The act-one climax — injuries inflicted all at once, so severe the injured cannot
+  retaliate — is chapter eight almost verbatim.
+- The calibration is the appearance of virtue while retaining the capacity to act
+  otherwise.
+
+**A free resonance.** *The Prince* is a manual on holding power, written by a man at
+the end of his career, addressed to a ruler at the start of his. That is exactly what
+the sky seal is: past-Shen-Luo sending curated instruction forward, layer by layer, to
+a version of himself who is not ready yet. **Build the layers as a curriculum** and
+the shape is already there. Never say so.
+
+**Two rules.**
+
+- **Nobody names or quotes it.** There is no Machiavelli in this world. It is
+  structural, not referenced.
+- **Translate the era-specific material.** Mercenaries and fortresses become clan
+  levies, allied sects, and mountain holdings, or it reads as imported.
+
 ## Names and terms
 
 Test aloud in ElevenLabs before committing. Vary syllable count and opening consonant

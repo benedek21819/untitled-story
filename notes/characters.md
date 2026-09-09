@@ -190,6 +190,10 @@ another book.
     afterwards**. Both sit entirely outside the door. Write those two things well and
     the trait lands harder than any amount of heat would.
 
+- **Machiavellian — structurally, never by name.** See *The Prince as correction* in
+  `worldbuilding.md`. Nobody in this world quotes or names it; a character who
+  articulates principles becomes a treatise. He **acts**, and readers who know the
+  book recognise the shape.
 - **Dry humour, delivered flat.** The one thing on this list that exists for the
   reader rather than the character — a listener spends hundreds of hours with him, and
   calm, authoritative, cold and ambitious is admirable but not companionable. It costs
@@ -697,10 +701,20 @@ afraid of.
 
 **Constraints:**
 
-- **He cannot run past act one.** A recovering absolute being living in the
-  protagonist's house does not stay fooled for four hundred chapters. He works it out,
-  or nearly does, and it comes to a head — plausibly at the same event as the
-  grandfather's death, which gives act one an ending rather than only a funeral.
+- **He dies in act one.** The secret survives into act two intact, which is what the
+  premise depends on.
+  - **He must be out-thought, not out-fought.** He is realm five or six and Zishan is
+    three or four, so a fight is impossible. The method kills him — which is right,
+    because Shen Luo was never a talent, he was a man who out-thought people for
+    millennia.
+  - **Zishan kills one of the eight and never learns it.** He removes a branch-family
+    problem and an absolute being of the previous era happens to be standing in it. The
+    reader has spent an act watching that man circle him. Zishan steps on him
+    incidentally. Seven left, one quietly deleted, and the only person who could have
+    told him is dead.
+  - *One more turn, optional:* the elder understands what he is looking at in the last
+    moment. Recognition and death in the same instant. He is the only one who ever
+    knew and he takes it with him.
 - **His cultivation is helped by recovered technique**, so he rises faster than a man
   his age should — but from a genuinely poor talent, so not far and not fast. Two
   anomalies in one clan, each with reason to watch the other.

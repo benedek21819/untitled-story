@@ -188,6 +188,8 @@ requires knowing what it refers to at the time of writing.
   most useful person available, and as heir he acts openly in his own name. He earns
   that standing by being right, arc after arc, which is what the middle of the act is
   made of. **Everyone in the story approves. Only the reader is uneasy.**
+- **The elder does not survive act one.** He is out-thought, not out-fought — and
+  Zishan kills one of the eight without ever learning that he did.
 - **Act one's climax is fixed:** the branches move on his mother; Zishan does not
   break, he calculates, and the result is appalling; the elder witnesses it and
   recognises a method rather than a talent. Pairs with the grandfather's death.
