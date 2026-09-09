@@ -172,9 +172,37 @@ requires knowing what it refers to at the time of writing.
 - **Open at fifteen or sixteen, close to the crisis:** the grandfather already ill,
   the succession already hot, the concealment already an old habit. Childhood becomes
   a few paragraphs of established fact.
-- *Candidate chapter one:* a talent assessment where he decides what number to show.
-  It introduces the boy, the clan, the politics, and the central behaviour in one
-  scene.
+- **Chapter one is a martial competition.** An arena gives the same decision as a
+  private assessment — what number does he show — with stakes, spectacle, and the
+  whole cast present for legitimate reasons: the father watching, the branch rival
+  competing, the elder in the stands, the sister bored, the mother anxious. A great
+  many introductions with no exposition, and the most audio-friendly opening
+  available: physical action, clear stakes, a crowd, nothing to hold in the head.
+
+  - **It is an opening, not an arc. Two to four chapters.** Tournament arcs are where
+    serials die — long, episodic, repetitive, and they postpone the story. Twenty
+    chapters of bracket is five months of weekly releases spent on a sports event by
+    an audience that came for a reincarnated tyrant. The competition is the *setting*
+    for character and politics, never the subject, and it ends before anyone starts
+    tracking the bracket.
+  - **It fights his central behaviour, which is why it belongs first.** A competition
+    demands maximum performance; his operating principle is showing a controlled
+    number. So the opening is a boy in a public arena, asked by everyone who loves him
+    and everyone who wants him gone to show what he can do, deciding in front of a
+    crowd exactly how much to be.
+  - ***The scene:*** he wins the fight he is supposed to win, in the manner expected,
+    and **declines three chances to end it faster.** Nobody in the arena notices. His
+    father is pleased. The elder is unmoved. The reader, who has heard the prologue,
+    watches a boy choose a number and hit it exactly. That is the whole book in one
+    scene, and it is the first thing a listener hears.
+  - **It is where he meets Jiang Wei.** Poor, so his foundation is terrible — but with
+    millennia of technique in his head. He fights far above his realm and loses the
+    moment he meets anyone with real resources behind them: *knowledge is not capital*,
+    visible in a fight, understood instantly. **Zishan is the only person in that arena
+    who can see what he is actually doing.** Everyone else sees a scrappy nobody
+    getting lucky; he sees technique that should not exist at that level and wants to
+    know where it came from. Two men concealing something, each recognising something
+    in the other and misreading it completely.
 - That leaves four or five years to World Forming, with modest skips.
 - **Accept the consequence:** the ocean does not appear until realm five, so the
   premise's central image lands at the *end* of act one. This is survivable only

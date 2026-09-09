@@ -294,7 +294,9 @@ simply not to live in poverty, which is already hard.
   is what is happening.
 - *(Answered: what he wants in this life is not to be poor. Concrete, humble,
   immediately legible, and entirely his own.)*
-- Where and how they actually meet, given he is outside the clan.
+- *(Answered: they meet at the martial competition that opens the story. He fights
+  far above his realm on technique alone, and Zishan is the only person present who
+  can see what he is doing.)*
 
 ## The Mu clan
 
