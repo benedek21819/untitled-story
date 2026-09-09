@@ -93,9 +93,23 @@ another book.
     The goal supplies the atrocities and everyone around him will applaud the goal.
   - *No conflict with the household/clan split:* he wants to **own** the clan, not
     love it, and a man who owns a thing spends it freely.
-  - **Open:** does he back his father for the seat and expect to inherit, or intend to
-    take it himself? The first is warmer, reads to everyone as filial loyalty, and
-    sets up a later collision. Leaning to the first.
+  - **He backs his father for the seat and expects to inherit it.** In act one the
+    alliance is real and warm, everyone reads it as filial loyalty — his father
+    included, who is genuinely proud of him for it — and the reader, ahead of him,
+    watches a man secure an asset. Same behaviour, two readings.
+  - **It gives act one a clean objective:** get his father the seat. It also converts
+    him from a *stake* in the succession fight into an *agent* of it, within the
+    limits of being fifteen.
+  - **And it puts him in the same game as the elder** — both backing a candidate as a
+    route to the chair, from opposite sides of the table. The elder may respect the
+    play before he fears the boy, because it is his own.
+  - **The trap, and it comes free from the lifespan rule:** *expects to inherit* is a
+    promise this world cannot keep. Where people die, an heir waits and then receives.
+    Here a competent patriarch who likes control can hold the seat for centuries, and
+    his father is exactly that man. Zishan is not going to wait centuries for what he
+    was promised. **Nobody has to betray anyone** — the father simply does not die and
+    does not step down, and eventually his son takes it from him. Act one earns that
+    honestly by making the alliance genuine.
 - **Cold and distant** needs a rule or it reads as inconsistent writing. The rule: he
   is not warm and then cold. He is warm with the household and simply **does not
   bother** with anyone else. The coldness is the absence of effort, not a change of
