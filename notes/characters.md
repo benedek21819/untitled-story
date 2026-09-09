@@ -81,9 +81,21 @@ another book.
   expects to be obeyed is conspicuous. It is the concealment problem made audible, it
   slips out when he is not thinking about it, and it is the kind of thing the elder
   files away years before he understands why.
-- **Ambitious** — but it needs an object, since in act one he does not know the seals
-  exist. His father's seat, the clan's standing, his own advancement: **decide which
-  he actually wants.** Ambition without a target is a placeholder.
+- **Ambitious, and the object is named:** seize control of the Mu clan and raise it
+  to the most powerful and prominent of the great clans. What this buys:
+  - **He and the elder want the same seat**, for completely different reasons, before
+    either knows what the other is. Every council scene has both of them in it.
+  - **It makes his stated intention concrete.** He means to walk the old road again
+    and says so; now it has a shape — clan, then region, then the world. The same
+    ambition Shen Luo had, in a smaller jar, and he thinks it is his own idea.
+  - **It carries a body count from chapter one.** Greatness is positional; there are
+    only so many great clans, so raising the Mu above them means displacing someone.
+    The goal supplies the atrocities and everyone around him will applaud the goal.
+  - *No conflict with the household/clan split:* he wants to **own** the clan, not
+    love it, and a man who owns a thing spends it freely.
+  - **Open:** does he back his father for the seat and expect to inherit, or intend to
+    take it himself? The first is warmer, reads to everyone as filial loyalty, and
+    sets up a later collision. Leaning to the first.
 - **Cold and distant** needs a rule or it reads as inconsistent writing. The rule: he
   is not warm and then cold. He is warm with the household and simply **does not
   bother** with anyone else. The coldness is the absence of effort, not a change of
@@ -101,16 +113,29 @@ another book.
     and narrows everything outside it. The people he wants are outside the circle. A
     man who desires someone who barely registers to him **as a person** needs no cruel
     line written — it is in how little attention he pays afterwards.
-  - *Separate decision:* how explicit the scenes run on the page. The trait is fully
-    present at any heat level and fade-to-black costs none of the characterisation.
-    Settle it before drafting, since it shapes narration style, but it is independent
-    of what he is.
+  - **Heat level: 3 of 4 — "closed door with a window."** The scene continues past the
+    door but stays in impression: breath, weight, heat, fragments. No anatomical
+    specificity. *(1 is cutting at the door, 2 is fade to black, 4 is explicit.)*
+    Three reasons specific to this format:
+    - **A narrator makes everything more intimate than text.** Level 3 read aloud
+      lands roughly where level 4 lands on the page. Calibrate with a test render
+      rather than by reading silently.
+    - **TTS is worst at exactly this material** — gasps, moans, broken breathing,
+      half-words. Those are the load-bearing elements of an explicit scene and the ones
+      synthetic narration mangles. Written as *prose* rather than vocal performance,
+      the problem disappears.
+    - **Consistency matters more than level.** Switching register at chapter sixty
+      reads as a different book, and listeners catch tonal shifts faster than readers.
+  - **The characterisation is not in the scene.** It is in him arranging it beforehand
+    and in how little attention he pays afterwards. Both sit outside the heat
+    entirely, so the level costs nothing that matters.
 
-**Missing, and worth adding: a reason to enjoy his company.** Calm, authoritative,
-cold and ambitious is admirable but not companionable, and a listener spends hundreds
-of hours with him. The sister carries warmth but cannot carry it alone. *Suggestion:
-dry humour delivered flat* — it pairs with calm, plays extremely well in audio, and
-is the *Absolute Regression* register. **Open.**
+- **Dry humour, delivered flat.** The one thing on this list that exists for the
+  reader rather than the character — a listener spends hundreds of hours with him, and
+  calm, authoritative, cold and ambitious is admirable but not companionable. It costs
+  the coldness nothing: a flat funny line is *more* chilling from someone this
+  composed, not less. It also carries the *Absolute Regression* register in scenes
+  where the sister is not present to do it.
 
 **Sympathy floor:** the mother and the sister — not the father, and not the clan.
 Not chosen, not earned, installed before he came back. He cannot dismiss it as a
