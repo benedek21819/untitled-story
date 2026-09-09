@@ -75,20 +75,21 @@ Then the world ends, and the next one grants the wish: they do meet differently.
   Winning is free; winning without being recognised is the expensive part. Frame
   every fight as "what will it cost him to do this quietly" — otherwise combat goes
   slack, because the outcome is never in doubt.
-- **The safe dive is the incriminating one.** Diving under duress is excusable — he
-  had no choice. Diving on an ordinary afternoon, with nothing forcing him, because
-  he wanted to know, is the choice that says what he is. Those are the ones that
-  should carry weight.
-- A dive must leave him **changed when he surfaces**, and the change must land on the
-  present. Inner-world scenes go inert fast, and in audio there is no visual to carry
-  a man floating in water. The tension is what he will find and what it will do to
-  him — never whether he can get back in time.
-- **Nothing about his past reaches him involuntarily.** Both the sky and the ocean
-  are voluntary, so every reveal in the present timeline happens because he chose to
-  go and take it. The pressure that makes him choose has to come from **outside** —
-  people who remember him, remnants, records, and the friend most of all. The outside
-  asks; the inside is the only place with an answer; reaching costs him something.
-  Build the question before you build the reveal.
+- **The safe unsealing is the incriminating one.** Breaking a layer under duress is
+  excusable — he had no choice. Breaking one on an ordinary afternoon, with nothing
+  forcing him, because he wanted to know, is the choice that says what he is. Those
+  are the ones that should carry weight.
+- Opening a layer must leave him **changed**, and the change must land on the present.
+  Inner-world scenes go inert fast, and in audio there is no visual to carry a man
+  standing in his own soul. The tension is what he will find and what it will do to
+  him — never whether he can get out in time.
+- **His memories are behind the sky, not in the water.** One memory system, and it is
+  voluntary: every reveal in the present timeline happens because he chose to break a
+  layer. The ocean is inert and holds nothing to recover. The pressure that makes him
+  choose has to come from **outside** — people who remember him, remnants, records,
+  and the friend most of all. The outside asks; the seal is the only place with an
+  answer; opening it costs him something. Build the question before you build the
+  reveal.
 - Plan proof-of-life touches for the withheld explanation every 30–40 chapters. At
   1–2 chapters/week, "hundreds of chapters later" is *years* of real time, and an
   audience will conclude you forgot.
@@ -151,17 +152,16 @@ requires knowing what it refers to at the time of writing.
 - The other reincarnators: how many, who appears when. *(Settled: one is a Mu clan
   elder, born Mu this life, backing the branch candidate — he has most of his memories
   back and is act one's antagonist and its second clock.)*
-- **How many chapters until realm five.** He reaches it at nineteen or twenty, but
-  years are not chapters and the chapter count is what the buffer depends on.
+- **Act one's length is not being fixed in advance.** He reaches realm five at
+  nineteen or twenty; the chapter count is arrived at in the draft, not decided here.
 - **Does the elder survive act one** — killed, or gets away knowing. The second
   compromises the invisibility strategy from the first chapter of act two.
-- **The first dive he takes uninvited by circumstance:** trigger, and what he finds.
-  *(Note: nothing surfaces on its own. The ocean is inert. This is a choice he makes,
-  and per the structural rule the safe one is the incriminating one.)*
+- **The first layer he breaks with nothing forcing him:** trigger, and what it gives
+  him. *(The safe unsealing is the incriminating one.)*
 - **What shape does, mechanically.** Realm sets size and complexity and the builder
   sets content, so shape is one variable among three — but it has no rules yet: what
   a shape means, whether it can be read by others, whether it can change.
-- Arc one: chapter count and where it ends.
+- Arc one: where it ends.
 
 ### Act one, as settled
 

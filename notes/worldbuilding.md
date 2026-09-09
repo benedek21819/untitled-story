@@ -30,10 +30,9 @@ two.**
 **The guilt is undecidable, not secret.** A secret resolves when someone finds out. An
 unanswerable question never resolves at all.
 
-**No retrieval can answer it.** He could open every layer of the sky and dive to the
-floor of the ocean and recover everything he ever was, and still not know — because
-memory holds what he *did*, not whether it sufficed to burst a world already near
-bursting. Causation is not stored in a soul. The entire apparatus of self-recovery is
+**No retrieval can answer it.** He could open every layer of the sky and recover
+everything he ever was and still not know — because memory holds what he *did*, not
+whether it sufficed to burst a world already near bursting. Causation is not stored in a soul. The entire apparatus of self-recovery is
 structurally incapable of answering the one question that matters most to him, which
 means the story can never resolve this by revelation, only by decision.
 
@@ -468,14 +467,24 @@ that he was never given the choice.
 
 ### Rules
 
-- **Depth equals age.** The deeper the water, the older the memory held there.
-- He can **stand and walk on the surface**. He can dive with effort.
-- **Diving is not difficult. He chooses not to go.** The limit is will, not pressure.
-- **Diving yields knowledge only — never power.** No memory makes him stronger. The
-  two ladders are independent: power comes from cultivation, the same road everyone
-  walks; knowledge comes from the ocean, instantly and freely.
-- **The knowledge is not necessarily good**, and more of it means a higher chance of
-  being found.
+**The ocean is not where his memories are.** They are behind the sky seal. There is
+one memory system in this story and the sky is it — the ocean holds no retrievable
+past and diving recovers nothing.
+
+What the ocean *is*:
+
+- **The measure of what he was**, made physical. He built it across an era, a realm's
+  expansion at a time. Anyone who saw it would understand immediately, which is why
+  nobody ever will.
+- **The ground the island floats on.** The thing he is making sits on the thing he
+  made, both visible in one glance.
+- **Where the serpent lives.**
+- He can **stand and walk on the surface**. Going in is possible and pointless. He
+  never has, and has never needed a reason not to.
+
+**Depth is construction age, not memory age.** The deepest water is the *first* he
+ever made — see **The bottom**. The seabed is the origin of the thing, not a store of
+anything.
 
 ### The island
 
@@ -561,18 +570,19 @@ Consequences:
 - **Realm is the price of knowing.** His hunger to find out and his drive to get
   stronger are the same drive, without the two ladders merging mechanically.
 
-### Both channels are voluntary
+### One channel, and it is voluntary
 
-The sky and the ocean are separate systems — the sky is scheduled and curated, what
-past-him decided he would need; the ocean is raw and unordered, everything else — but
-**neither opens by itself.** Nothing about his past reaches him unless he goes and
-takes it.
+**The sky seal is the only way his past reaches him**, and it never opens by itself.
+Scheduled, curated, realm-gated, deliberate — what past-him decided he would need,
+released only when present-him breaks a layer on purpose.
 
-The ocean does not leak. It does not stir on its own, it does not answer rhymes, and
-living his life does not raise it. It is still water, and it stays still.
+**The ocean is completely inert.** It does not leak, does not stir, does not answer
+rhymes, and living his life does not raise it. No reaction, no residue, no
+unaccountable feeling. It is still water and it stays still, and there is nothing in
+it to recover.
 
-**The ocean is completely inert.** No reaction, no residue, no unaccountable feeling.
-It does nothing at all unless he enters it.
+So nothing about his past reaches him unless he goes and takes it, and there is
+exactly one place to take it from.
 
 ### The leak is outside him
 
@@ -601,11 +611,14 @@ place with an answer. Reaching for it costs him something.
 
 ### The bottom
 
-Depth equals age, so the deepest water is not his reign. It is older than that.
+Depth is construction age, so the deepest water is the first he ever made — from
+before the climb, when he was weak and refused and taking orders from others. Not a
+memory stored down there. The **beginning of the thing itself**, still sitting under
+everything built on top of it.
 
-Underneath every atrocity, beneath the whole span of his time at the top, is whoever
-he was before he was anything — from before the climb, when he was weak and refused
-and taking orders from others.
+**Reserved.** Whoever he was then is decided and will be supplied when the lore needs
+it, and *how* it is ever reached is not established either — not by diving, since
+diving recovers nothing.
 
 **Reserved.** What he actually was is decided and will be supplied when the lore
 needs it. Not an open question. Do not invent it.
@@ -734,7 +747,7 @@ absolute, and using it identifies him.
 
 ### Why more knowledge means more risk
 
-Everything he learns is something he can accidentally demonstrate knowing. He
+Everything a seal gives him is something he can accidentally demonstrate knowing. He
 recognises a technique nobody alive should recognise. He reacts wrongly to a name. He
 solves a problem too elegantly. The danger scales with knowledge automatically.
 

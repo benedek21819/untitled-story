@@ -56,9 +56,9 @@ another book.
   and whatever a gifted boy wants for himself. Do not let the seals motivate him
   before he has seen them.
 - **Wants to know, once he finds it.** He meets an impossible ocean and a sealed sky
-  in his own soul and does exactly what any young man would: he wants it open. He
-  strives for it, actively, and cultivates hard because realm is the price of the next
-  layer. He is pulling forward through the early arcs of act two, not holding back.
+  in his own soul, and it is the **sky** he wants open — the water holds nothing to
+  recover. He strives for it, actively, and cultivates hard because realm is the price
+  of the next layer. He is pulling forward through the early arcs of act two, not holding back.
 - **Later he hesitates.** The arc is **eager → hesitant → opening anyway, under
   pressure and at a price.** A protagonist who simply stops is static; one who keeps
   going while dreading it is not.
