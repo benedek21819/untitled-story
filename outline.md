@@ -183,10 +183,11 @@ requires knowing what it refers to at the time of writing.
   hook: a dying patriarch, a succession war, branches moving on a boy who cannot yet
   fight back, a mother leaned on by her own family, and a sister who will not lift a
   finger.
-- **Act one's objective:** get his father the seat — and become the family's real
-  decision-maker from behind him. Everyone reads filial loyalty. He is reproducing
-  Shen Luo's own mode, sovereignty without a state, entirely by instinct. Earned
-  gradually by being right, which is what the middle of the act is made of.
+- **Act one's objective:** get his father the seat. Their interests align exactly, so
+  there is no steering and no deception — his father deploys him because he is the
+  most useful person available, and as heir he acts openly in his own name. He earns
+  that standing by being right, arc after arc, which is what the middle of the act is
+  made of. **Everyone in the story approves. Only the reader is uneasy.**
 - **Act one's climax is fixed:** the branches move on his mother; Zishan does not
   break, he calculates, and the result is appalling; the elder witnesses it and
   recognises a method rather than a talent. Pairs with the grandfather's death.

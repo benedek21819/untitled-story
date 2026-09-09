@@ -103,27 +103,32 @@ another book.
   - **And it puts him in the same game as the elder** — both backing a candidate as a
     route to the chair, from opposite sides of the table. The elder may respect the
     play before he fears the boy, because it is his own.
-  - **But he does not actually want the seat. He wants the decisions.** He becomes the
-    family's real decision-maker from behind his father, who holds the title. As heir
-    he already has nearly the authority; the arrangement costs him nothing and buys
-    three things — he is not the target, nothing traces to him, and his father is a
-    genuine competent screen rather than a puppet. He can wait centuries without
-    impatience, because the chair only confers what he already has.
+  - **He does not steer his father, and does not need to.** Their interests align
+    completely — both want the Mu to rise, the father in the seat, the branches
+    beaten. There is nothing to manipulate. His father **deploys him because he is the
+    most useful person available**, which is collaboration, not proxy rule.
+  - **He acts in his own name.** As heir he holds near-patriarch authority already, so
+    he needs no screen and is never passive on the page: he does things openly, with
+    his father's backing. There is no deception to maintain and no moment where he
+    chooses to lie. *(His concealed cultivation level is a separate matter and stays.)*
+  - **The unease belongs entirely to the reader, and that is the point.** Everyone in
+    the story sees a gifted son helping his family — no hidden agenda, nothing anyone
+    could object to. The reader, who heard the prologue, watches Shen Luo's methods
+    applied to clan politics with the enthusiastic approval of everyone who loves him.
+    **The approval is the horror.** This is stronger than deception would be: there is
+    no villainy to point at, and he is exactly what he appears to be.
+  - **It is earned across act one by being right.** A fifteen-year-old is not handed
+    standing. He starts small — accurate counsel, a correct read of an elder, a
+    prediction that lands — and his father is competent, and competent men take good
+    advice. Each arc he is a little more central than the last. That is the engine act
+    one's middle was short of.
   - **This is what he already was.** Shen Luo held no office, ran no domain, carried
-    no responsibilities, and was largely absent — but wherever he appeared, things went
-    as he wished. *Sovereignty without a state.* He is reproducing his old mode
-    exactly, by instinct, without knowing why he prefers it. **Nobody in the story can
-    interpret this**, and it is the purest demonstration of his nature available before
-    a single memory returns.
-  - **It gives the calibration a purpose beyond safety.** He does not need to be seen
-    as powerful; he needs to be underestimated. Showing a controlled number is part of
-    the operating model, not only a precaution.
-  - **It must be earned across act one, and that is an asset.** A fifteen-year-old does
-    not assert this. He starts by being *right* — small counsel, an accurate read of an
-    elder, a prediction that lands — and his father is competent, and competent men
-    take good advice. The ratio shifts over years. That is the engine act one's middle
-    was short of: each arc he is a little more central than the last, and nobody can
-    name the moment it changed.
+    no responsibilities — but wherever he appeared, things went as he wished.
+    *Sovereignty without a state.* He is reproducing his old mode by instinct, without
+    knowing why he prefers it, and nobody in the story can interpret it.
+  - **The succession never becomes a conflict.** By the time the seat is genuinely his
+    to take he is already past wanting it, so it does not become a fight — it becomes
+    irrelevant.
   - **There is no rupture. He outgrows it.** As his power and influence pass beyond
     the Mu entirely, his father's need for control stops being an obstacle — a man
     whose domain is one clan is not in competition with someone operating above the
@@ -139,10 +144,9 @@ another book.
     taken — outgrown. He is proud and diminished at once and there is nobody to be
     angry at. **The tragedy is obsolescence, not betrayal**, and it is worse than a
     fight because no one did anything wrong.
-  - **He still finds out.** He works out that his son was steering him for years — and
-    by then Zishan is so far past him that anger would be absurd, and he can see that
-    clearly enough not to feel it. For a man whose defining trait is liking control,
-    that is worse than any confrontation.
+  - **Nothing is revealed, because nothing was hidden.** He does not discover he was
+    managed. He discovers he has been left behind — and for a man whose defining trait
+    is liking control, having nobody to blame is worse than any confrontation.
   - ***The scene that carries the whole arc:*** the father offers something — advice,
     an introduction, a decision he is proud of — that would have mattered enormously
     ten years earlier and now does not at all. Zishan takes it kindly. Accepts it,
@@ -152,13 +156,9 @@ another book.
   - *Guard against:* the father becoming furniture afterwards. Running the clan his son
     owns and does not think about is a sufficient function, but it has to be a
     deliberate one.
-  - **Open:** does the father know? *Lean: he half-knows and does not examine it,
-    because his son is right and it works.*
-  - **Craft warning: rule by proxy risks a passive protagonist.** He advises, his
-    father acts, and in audio the listener loses the sense that the main character does
-    anything. **The persuasion is the action** — put the scene in the room where he
-    shapes the decision, not the room where it is executed. This is the *Absolute
-    Regression* register: dialogue-forward, political, no system windows.
+  - **Stage the deciding, not the executing.** The council room and the conversation
+    are where the story is; the errand that follows is not. This is the *Absolute
+    Regression* register — dialogue-forward, political, no system windows.
 - **Cold and distant** needs a rule or it reads as inconsistent writing. The rule: he
   is not warm and then cold. He is warm with the household and simply **does not
   bother** with anyone else. The coldness is the absence of effort, not a change of
