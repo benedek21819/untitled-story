@@ -71,6 +71,47 @@ another book.
 - **Has never:** been afraid, or had anything that could be taken from him. Both are
   now false.
 
+### Personality
+
+**Ambitious. Calm. Authoritative. Lustful. Cold and distant, in places.**
+
+- **Calm** is the most valuable of these, and in audio it is a *sound* — a narrator
+  carries it, and it makes him legible with no interiority at all.
+- **Authoritative, and it is a problem.** A fifteen-year-old who speaks like a man who
+  expects to be obeyed is conspicuous. It is the concealment problem made audible, it
+  slips out when he is not thinking about it, and it is the kind of thing the elder
+  files away years before he understands why.
+- **Ambitious** — but it needs an object, since in act one he does not know the seals
+  exist. His father's seat, the clan's standing, his own advancement: **decide which
+  he actually wants.** Ambition without a target is a placeholder.
+- **Cold and distant** needs a rule or it reads as inconsistent writing. The rule: he
+  is not warm and then cold. He is warm with the household and simply **does not
+  bother** with anyone else. The coldness is the absence of effort, not a change of
+  mood — one behaviour seen from two sides, and the drift showing early.
+- **Lustful — and calculating about it, which is the point.** He does not lose control
+  and take what he wants in a hot moment; he **arranges** satisfaction, the same way
+  he arranges everything, as a problem with a solution. That is worse than appetite
+  overriding judgement, and it demonstrates the calculation in a domain the reader
+  feels rather than admires.
+  - *It compounds with having never been refused.* He wants, and expects the world to
+    arrange itself, and at fifteen he can arrange nothing. That gap is where he lives
+    in act one — and being told no by someone who simply does not want him is an
+    experience Shen Luo never had and cannot out-think.
+  - *The dark version the mechanics already support:* the drift exempts the household
+    and narrows everything outside it. The people he wants are outside the circle. A
+    man who desires someone who barely registers to him **as a person** needs no cruel
+    line written — it is in how little attention he pays afterwards.
+  - *Separate decision:* how explicit the scenes run on the page. The trait is fully
+    present at any heat level and fade-to-black costs none of the characterisation.
+    Settle it before drafting, since it shapes narration style, but it is independent
+    of what he is.
+
+**Missing, and worth adding: a reason to enjoy his company.** Calm, authoritative,
+cold and ambitious is admirable but not companionable, and a listener spends hundreds
+of hours with him. The sister carries warmth but cannot carry it alone. *Suggestion:
+dry humour delivered flat* — it pairs with calm, plays extremely well in audio, and
+is the *Absolute Regression* register. **Open.**
+
 **Sympathy floor:** the mother and the sister — not the father, and not the clan.
 Not chosen, not earned, installed before he came back. He cannot dismiss it as a
 weakness he picked up, because he didn't pick it up.
