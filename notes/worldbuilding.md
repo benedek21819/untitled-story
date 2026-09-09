@@ -971,6 +971,54 @@ the shape is already there. Never say so.
 - **Translate the era-specific material.** Mercenaries and fortresses become clan
   levies, allied sects, and mountain holdings, or it reads as imported.
 
+## Geography — method, not yet canon
+
+**Build a scarcity map, not a terrain map.** The world is a jar, spiritual energy is
+finite, and every cultivator who rises takes room and resource from everyone else — so
+what makes a place matter is **how much energy concentrates there.** Territory is
+access. Mountains matter for what is inside them. This makes every geographic fact a
+political fact and means no one ever has to be given a reason to fight over anything.
+
+**Range scales with realm, so the map grows as he does.** A Core Formation
+cultivator's world is a valley; Nascent Soul makes it a province; the upper realms
+make it continents. This buys three things at no cost:
+
+- **Act one's containment becomes natural** rather than a contrivance.
+- **The expanding world is a free progression marker** requiring no exposition.
+- **It feeds the drift.** As his range grows, the places he came from shrink. The Mu
+  holdings are the whole world in chapter one and a dot by chapter three hundred, and
+  it never has to be said.
+
+**Three rings, and only build the first.** Same principle as front-loading detail at
+the bottom of the realm ladder:
+
+1. **The Mu holdings** — compound, town, whatever vein they hold. Concrete, detailed.
+   This is where the story lives.
+2. **The region** — neighbouring clans, the mother's birth clan, a sect or two,
+   contested sites. Sketched, lightly named.
+3. **The world** — the great clans as reputations and directions. Deliberately
+   legendary and vague, exactly as the upper realms are.
+
+Never draw a world map. Draw outward from where he stands, only as far as he can
+currently reach.
+
+**Name almost nothing, and never measure.** Five to seven place names is the early
+ceiling in audio. Use relational descriptors — *the valley*, *the north road*, *the
+Tang lands*, *two ridges over*. Express distance in **travel time at a given realm**,
+never in units: "three days at his level" tells a listener something; "four hundred
+li" is noise they cannot picture.
+
+**Open, and it decides a lot:** is this the same physical world remade after the jar
+burst, or a new one?
+
+- **Continuous** makes geography a leak channel — ruins in the wrong places, a
+  mountain that should not be there, a valley Zishan feels wrong about and cannot say
+  why. Exactly the recorded mechanism: the outside asks, and only the seal answers. It
+  also gives Jiang Wei something quiet and devastating, since he remembers the
+  landscape and it is gone.
+- **New** means remnants must arrive by other means, and the old era lives only in
+  memory and objects rather than in places.
+
 ## Names and terms
 
 Test aloud in ElevenLabs before committing. Vary syllable count and opening consonant
