@@ -27,6 +27,11 @@ another book.
 - **Was:** an absolute being at the very top of the previous era. Reached it through
   calculation and cruelty. Every other absolute being wanted him dead; none of them
   could manage it.
+- **The Heavenly Yin physique** — a constitution almost exclusive to women, which
+  accelerates Yin Qi accumulation several times and cripples or kills the men who have
+  it. It is his exceptional aptitude and his lethal defect in one. Publicly known,
+  which explains his cultivation speed to the world and closes the question. He is not
+  ashamed of it; see `worldbuilding.md`.
 - **Peerless comprehension, a bad body.** He climbed to the top of the world with the
   worst engine of the eight, which is why it took an era and why it took cruelty. In
   this life the dice came up the other way: exceptional aptitude, the same soul, and

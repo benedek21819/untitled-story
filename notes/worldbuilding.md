@@ -196,6 +196,53 @@ Two things follow, and both matter more than the rule itself:
 - **Refusing to cultivate has a visible price, and the person refusing can see it.**
   They are not declining power. They are declining centuries, knowingly.
 
+### The Heavenly Yin physique
+
+A special constitution, almost entirely exclusive to women. It accelerates the
+accumulation of Yin Qi several times over — **a blessing in a woman, and in a man a
+thing that cripples at best and kills at worst**, because the excess cold Yin Qi has
+nowhere to go.
+
+Zishan has it. It **is** the exceptional aptitude the dice gave him: the gift arrived
+wrapped in a lethal defect, which is exactly what a random body should be capable of.
+
+- **It is publicly known; his realm is not.** The signs are not hideable and a
+  main-line heir who should have died young and did not is a story no clan could
+  suppress. So the world attributes his cultivation speed to the physique —
+  **correctly** — and stops asking. He is explained, pitied, and underestimated at
+  once, and the only thing actually hidden is the number.
+- **He is not ashamed of it**, and that is the characterisation. A seventeen-year-old
+  in that position would be humiliated or driven to prove something. He is mildly
+  interested in *who* reveals contempt, and files it. Shame requires accepting someone
+  else's judgement, which he has never done in either life. Nobody can interpret the
+  absence — they read composure — and only the reader knows what it is.
+- **Differentiate it hard from the grandfather's illness**, or two incurable
+  conditions in one household read as one idea used twice. His is an **illness** —
+  external, unlucky, terminal, near. Zishan's is a **constitution** — innate, what he
+  *is*, slow, contained. It also gives the council question a worse edge: *how much
+  more do we spend on him* now gets asked about a seventeen-year-old.
+- **Contained, not counting down.** The suppression buys time; he is not actively
+  dying on a schedule. This matters structurally — a countdown would make reaching for
+  the seals coerced, and *the safe unsealing is the incriminating one* requires him
+  choosing to look when nothing forces him.
+
+**The vicious circle:** suppression contains the Yin *and* accelerates cultivation;
+cultivation with this physique accumulates Yin several times faster. **The treatment
+feeds the disease.** He cannot grow strong enough to solve it without making it worse,
+and *the strain grows as he does* is literal rather than figurative. His father does
+not know this. The reader will.
+
+### Hiding a realm: two methods
+
+- **Concealment** — what almost everyone does. Hides the realm. No risk, no benefit,
+  entirely ordinary.
+- **Suppression** — actual compression. Dangerous, and beneficial if survived.
+
+**The public assumes Zishan conceals, because that is what people do.** He suppresses.
+He is not hiding behind skill, he is hiding behind a mundane assumption, which is far
+safer. **Jiang Wei's catch in the arena is exactly this one realisation:** that is not
+concealment.
+
 ### Realm suppression
 
 **Suppressing one's realm is possible, known, and dangerous.** It is compression:
@@ -216,9 +263,11 @@ people still could not manage what it enables, which is why the Mu having one ha
 by itself made them great.
 
 **The Mu heirloom is on Zishan, and has been since he was a child.** His father gave
-it to him when his cultivation speed turned unnatural — worried and strategic at
-once, protecting his son and protecting the clan's asset, unable to say where one
-stopped.
+it to him **to contain the Yin energy and buy time to find a cure** — suppressing the
+realm was the same act. Worried and strategic at once, protecting his son and
+protecting the clan's asset, unable to say where one stopped. A competent, controlling
+man who fixes things, failing for seventeen years at the one thing that matters, with
+a stopgap that quietly makes the underlying problem worse.
 
 Consequences, and the first is the largest:
 
@@ -599,6 +648,49 @@ It is also the only entity that was present. Whether it has any perspective on w
 happened is open — but structurally, the sole possible witness to the death of a
 world is a serpent inside the accused's own soul, and it cannot be produced without
 destroying him.
+
+### The first seal
+
+**Shen Luo's cultivation technique is the most powerful Yang-based method there is**,
+and the first layer of the sky holds its basics.
+
+**Layer one is not a cure he foresaw. It is *how to be me*.** He sealed his memories
+before reincarnating and could not know what body he would get — aptitude is random.
+What he could know is that whatever he landed in, he would want his own method first.
+So the first layer is the most fundamental thing about him. **That it also saves this
+particular body is an accident**, and neither of them planned it.
+
+Which makes the premise physical: **he cannot survive without becoming his old self.**
+His body will kill him unless he cultivates the way a monster cultivated.
+
+*Quiet resonance, never remarked on:* the Yang method belongs to the cold, calculating
+man, and the Yin body to this life. He is two halves the reincarnation separated — and
+the ocean was always Yin already: black, still, cold, endless, deep. His inner world
+was the opposite of his method the whole time.
+
+**Guardrails:**
+
+- **The basics are enough.** Fully stabilising, no further seals required for survival.
+  If living depended on continuing to unseal, every later opening would be coerced and
+  *the safe unsealing is the incriminating one* would die. One layer, solved, and
+  everything after is free choice.
+- **It stabilises rather than cures**, so the physique stops being lethal and becomes
+  **binding**. The body keeps generating excess Yin; the technique keeps converting it.
+  He can never stop cultivating the way Shen Luo cultivated. An identity he is chained
+  to from eighteen, which is worse than an illness.
+- **Knowledge, not power — and this is where that rule erodes if you let it.** A
+  technique is knowledge with power implications over time, not a power-up. It changes
+  how he cultivates going forward, it must still be practised, and **no seal ever
+  raises his realm.**
+
+**Two immediate consequences:**
+
+- **His father spends years searching for a cure and his son solves it himself,
+  silently, and can never say how.** The obsolescence theme arriving early and in
+  miniature.
+- **Curing himself is conspicuous.** A main-line heir with a famously lethal
+  constitution who abruptly stops dying is a story people will ask about. He has to go
+  on performing an illness he no longer has.
 
 ### The sky seal
 
