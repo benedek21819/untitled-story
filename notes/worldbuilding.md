@@ -196,6 +196,47 @@ Two things follow, and both matter more than the rule itself:
 - **Refusing to cultivate has a visible price, and the person refusing can see it.**
   They are not declining power. They are declining centuries, knowingly.
 
+### Realm suppression
+
+**Suppressing one's realm is possible, known, and dangerous.** It is compression:
+forcing what belongs in a large vessel into a much smaller one. The result is
+enormous internal pressure, and **a small leak can burst it.** Most cultivators who
+could do it will not, because the risk is not worth the concealment.
+
+**The pressure is not only a cost.** Properly managed, it *accelerates* cultivation —
+growth under compression. So suppression is a genuine trade, not a disguise: real
+danger and real benefit, both continuous.
+
+**Suppression artifacts remove most of the danger.** They are rare and valuable, and
+a clan that owns one owns it as an heirloom rather than as equipment. One artifact
+serves one wearer, and most people still could not manage what it enables, which is
+why the Mu having one has not by itself made them great.
+
+**The Mu heirloom is on Zishan, and has been since he was a child.** His father gave
+it to him when his cultivation speed turned unnatural — worried and strategic at
+once, protecting his son and protecting the clan's asset, unable to say where one
+stopped.
+
+Consequences, and the first is the largest:
+
+- **It gives an overpowered protagonist a real vulnerability.** He is a pressure
+  vessel at all times and the artifact is what keeps him intact. Lost, damaged, or
+  stolen, he is in physical danger *and* forced to choose between rupture and
+  revelation. "Fights are concealment problems" stops being a declaration and becomes
+  a mechanic.
+- **It hands the world a false explanation for his speed.** Everyone knows compression
+  accelerates growth, so nobody needs to wonder. Three real causes — exceptional
+  aptitude, peerless comprehension, years under pressure — and the world is aware of
+  exactly one.
+- **His father has been complicit since he was small.** He knows the boy is
+  suppressed. He does not know the real realm and can only guess — so he estimates his
+  son constantly, gets it wrong, and is pleased by the wrong number.
+- **It has a ceiling, which is a clock.** An artifact holds only so much. He will
+  outgrow the thing that hides him, and neither he nor the reader knows exactly when.
+- **Never a power-up.** It removes danger from suppression; it adds no strength. The
+  growth comes from the pressure, which is a cost he pays daily. Same rule as the
+  inner world.
+
 ### Lifespan can be bought
 
 **Pills and elixirs extend life** — so lifespan is a commodity, and the rich live

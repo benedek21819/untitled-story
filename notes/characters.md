@@ -394,8 +394,12 @@ So he learns to manage how much of himself is visible, carefully, from a very yo
 age, for entirely mundane reasons. It is exactly what Shen Luo would do. He does it by
 instinct, never wonders why he is good at it, and only the reader knows.
 
-**He reaches World Forming at nineteen or twenty** — extremely fast, close to
-unprecedented — **and shows a controlled figure the whole way.**
+**He reaches World Forming at eighteen** — extremely fast, close to unprecedented —
+**and shows a controlled figure the whole way.** He is **suppressed at all times**,
+wearing the Mu heirloom his father gave him as a child when his cultivation speed
+turned unnatural. See *Realm suppression* in `worldbuilding.md`: it is dangerous
+compression, it accelerates his growth, the artifact removes most of the risk, and it
+has a ceiling he will eventually exceed.
 
 - *Not blanket concealment.* An heir who tests as mediocre gets written off, his
   father loses the succession, and the branches win; hiding completely would hand his
@@ -410,7 +414,11 @@ unprecedented — **and shows a controlled figure the whole way.**
   for it — a child cultivating impossibly fast whose gut simply declines to let
   anyone see the whole number. The good reasons arrive later. The impulse was first.
   That is the earliest evidence of what he is, it costs nothing, and no one in the
-  story can interpret it.
+  story can interpret it. *(His father handing him the artifact ratified an instinct
+  the boy already had. Neither of them thought it strange.)*
+- **The number he shows has to keep rising**, or he becomes conspicuous by failing to
+  improve. The calibration is not one decision but a running account he must keep
+  credible year after year.
 
 **The rival need not be a villain.** The elders want someone controllable, so the
 branch candidate may be a decent boy being used. Destroying him should be ugly rather
@@ -493,8 +501,8 @@ political favour. She was the payment.
   come home wrong. **No character ever remarks on this.** The reader notices she has
   been in the training yard again and knows what it means before anyone says it. Keep
   the gains always small — she must never level up because the plot needs her to.
-- **She thinks she is ahead of him, and she is not.** His public number is Core
-  Formation and so is hers, so she teases him about it constantly — a lazy older
+- **She thinks she is close to him, and she is not.** His public number is Core
+  Formation and hers is around there too, so she teases him about it constantly — a lazy older
   sister still level with her prodigy brother and enjoying it enormously. He lets her.
   In fact he stands two realms above her and has since before the story opened.
 - *Why this is better than genuinely passing her:* it is warm, it is funny, only the

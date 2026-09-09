@@ -169,7 +169,7 @@ requires knowing what it refers to at the time of writing.
   episode without giant time skips, and skips are harsher in audio than in print — a
   listener who missed a week has nothing to glance back at when an episode opens on
   *three years later*.
-- **Open at fifteen or sixteen, close to the crisis:** the grandfather already ill,
+- **Open at seventeen, close to the crisis:** the grandfather already ill,
   the succession already hot, the concealment already an old habit. Childhood becomes
   a few paragraphs of established fact.
 - **Chapter one is a martial competition.** An arena gives the same decision as a
@@ -191,8 +191,8 @@ requires knowing what it refers to at the time of writing.
     and everyone who wants him gone to show what he can do, deciding in front of a
     crowd exactly how much to be.
   - ***The scene:*** **he wins, showing just enough to beat the second best.** He
-    fights suppressed to Core Formation while actually standing high in Nascent Soul,
-    close to World Forming. It is an equation, not a restraint — he solves for the
+    fights suppressed to Core Formation while actually standing at Nascent Soul,
+    seventh layer. It is an equation, not a restraint — he solves for the
     minimum, live, against whatever the field turns out to be, and revises as it turns
     out stronger or weaker than expected.
   - **The public effect is that he is not mediocre — he is *unmeasured*.** Nobody saw
@@ -203,24 +203,24 @@ requires knowing what it refers to at the time of writing.
     standard prodigy beat. What makes it this book is that the reader knows the number
     and the reason, so the listener should feel him **solving**, not admire him being
     inscrutable.
-  - **Suppression rule:** suppressing one's realm is a known, ordinary technique — but
-    holding a **two-realm** gap perfectly stable under combat stress is far beyond
-    what anyone his age should manage. His concealment is therefore technically
-    visible to anyone who knows exactly what to look for. Almost nobody does.
+  - **He is suppressed at all times**, and has been since childhood — see *Realm
+    suppression* in `worldbuilding.md`. It is dangerous compression, it accelerates
+    his growth, the Mu heirloom removes most of the risk, and his father gave it to
+    him and knows he wears it without knowing the number.
   - **It is where he meets Jiang Wei, and the recognition is mutual.** Poor, so his
     foundation is terrible — but with millennia of technique in his head. He fights far
     above his realm and loses the moment he meets anyone with real resources behind
     them: *knowledge is not capital*, visible in a fight, understood instantly.
     **Zishan is the only person in that arena who can see what he is doing** — everyone
     else sees a scrappy nobody getting lucky; he sees technique that should not exist
-    at that level. **And Jiang Wei, with millennia of experience, is the only person
-    who spots the suppression.** Each catches the other, and each misreads what he has
-    found completely.
-- That leaves four or five years to World Forming, with modest skips. **Being close
-  and being able to cross are different things** under the exponential curve: he stands
-  high in Nascent Soul from chapter one, and the last stretch into the fifth realm
-  still takes years. This demonstrates the curve to the audience without explaining
-  it.
+    at that level. **And Jiang Wei, with millennia behind him, is the only person who sees
+    the size of it** — not *that* the boy is suppressed, which an artifact makes
+    ordinary, but that **he is holding far more than that artifact was built for.**
+    Each catches the other, and each misreads what he has found completely.
+- **He is at Nascent Soul, seventh layer, in chapter one, and reaches World Forming at
+  eighteen.** Roughly a year of story time, so act one runs dense with few skips —
+  which suits weekly audio, and brings the ocean forward rather than parking the
+  premise's central image years away.
 - **Accept the consequence:** the ocean does not appear until realm five, so the
   premise's central image lands at the *end* of act one. This is survivable only
   because the prologue has already told the reader what he is — act one is dramatic
