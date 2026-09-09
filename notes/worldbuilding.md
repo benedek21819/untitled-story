@@ -15,13 +15,24 @@ vessel holds what grows in it until it cannot.
 
 **Both at once, and the ambiguity is permanent.**
 
-The protagonist was the closest anyone ever came to the hundredth step. **The serpent
-is the first and only being ever born inside a cultivator's inner world** — proof
-that he crossed into the threshold condition.
+**He crossed the hundredth step as the world was being destroyed** — a breakthrough
+reached in the instant the jar tore — **and the serpent was born in that same
+moment.** He is the only being ever to stand at a hundred; it lasted an instant; the
+world he did it in ceased to exist; and he reincarnated blank into a body at nothing.
+He will have to climb the whole ladder again to find out what he touched. *(This
+supersedes the earlier note that he came "closest of anyone" — he arrived.)*
 
-So he may be why the era ended. But the world was already close to full, so the
-pressure may have been general and his part incidental. **Nobody can distinguish the
-two.**
+**Simultaneity is what makes the guilt unresolvable**, and it opens three readings
+that cannot be told apart:
+
+- His breakthrough burst the jar.
+- The jar was failing anyway and his part was incidental.
+- **The world's death is what enabled the breakthrough** — as the vessel failed,
+  something released, and in that instant he could do what had been impossible for an
+  era. Under this reading he did not cause the catastrophe; he was handed a moment by
+  it.
+
+**Nobody can distinguish the three.** He least of all.
 
 - Nobody can ever confirm it, because nobody can see his inner world.
 - Nobody can ever rule it out, because the jar was failing anyway.
@@ -640,14 +651,27 @@ the price is being found" a better problem than "I could end this now."
 Also open: whether he put it there, and whether he controls it.
 
 **It is the evidence.** At level 100 an inner world grows large enough that beings
-form inside it. The serpent is the first and only being ever born that way — so its
-existence is proof that he crossed into the threshold condition, and it is the
-closest thing to evidence about the end of the era that exists anywhere.
+form inside it. The serpent is the first and only being ever born that way, born in
+the instant he crossed the hundredth step — so its existence is proof he arrived, and
+it is the closest thing to evidence about the end of the era that exists anywhere.
 
-It is also the only entity that was present. Whether it has any perspective on what
-happened is open — but structurally, the sole possible witness to the death of a
-world is a serpent inside the accused's own soul, and it cannot be produced without
-destroying him.
+**It is the only being that survived the end of an era.** The eight were *evicted* —
+soul only, blanked, into new bodies. The serpent simply continued, inside an inner
+world that travelled with his soul. Nothing else in existence spans both eras.
+
+**And it cannot testify, because it was newborn.** It was a day old when the world
+died. It has continuity without comprehension: it witnessed the death of everything
+the way an infant witnesses a room. Nothing is retrievable from it and nothing ever
+will be.
+
+**This is a load-bearing guardrail, not a detail.** A surviving witness with
+continuous memory would be a shortcut past the seals, past the Reserved material, and
+past the entire *the outside asks and only the seal answers* structure. Ask the snake,
+and the book is over. It was born at the end and therefore knows nothing.
+
+So the irony holds and gets worse: the sole possible witness to the death of a world
+is inside the accused's own soul, cannot be produced without destroying him, **and
+would have nothing to say if it could speak.**
 
 ### Shen Luo's technique, and the first seal
 
@@ -1008,16 +1032,21 @@ Tang lands*, *two ridges over*. Express distance in **travel time at a given rea
 never in units: "three days at his level" tells a listener something; "four hundred
 li" is noise they cannot picture.
 
-**Open, and it decides a lot:** is this the same physical world remade after the jar
-burst, or a new one?
+**Settled: the world is continuous — the same world, remade after the jar burst.**
 
-- **Continuous** makes geography a leak channel — ruins in the wrong places, a
-  mountain that should not be there, a valley Zishan feels wrong about and cannot say
-  why. Exactly the recorded mechanism: the outside asks, and only the seal answers. It
-  also gives Jiang Wei something quiet and devastating, since he remembers the
-  landscape and it is gone.
-- **New** means remnants must arrive by other means, and the old era lives only in
-  memory and objects rather than in places.
+So **geography is a leak channel**, which keeps *remnants* (places, objects, ruins,
+techniques) intact as one of the four external pressures driving the plot. The land
+echoes the old era without matching it: ruins in the wrong places, a mountain that
+should not be there, a valley Zishan feels wrong about and cannot say why. The outside
+asks; only the seal answers.
+
+**The strongest texture this buys, and it falls out of the theft technique: the places
+where he fed.** He drained people industrially, for millennia. Some of those sites are
+still there and still wrong — a valley where nothing grows, a stretch of ground with no
+spiritual energy in it at all, and local stories about why. He can walk into one.
+
+It also gives Jiang Wei something quiet and devastating: he remembers the landscape,
+and it is gone.
 
 ## Names and terms
 
