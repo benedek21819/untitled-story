@@ -493,14 +493,15 @@ political favour. She was the payment.
   come home wrong. **No character ever remarks on this.** The reader notices she has
   been in the training yard again and knows what it means before anyone says it. Keep
   the gains always small — she must never level up because the plot needs her to.
-- **She is barely ahead of him when act one opens**, and he goes past almost
-  immediately. He is already at her shoulder in chapter one; the exponential curve
-  means he does not spend the act catching up. So the tease is **one scene, early** —
-  a lazy older sister genuinely, briefly above her prodigy brother and enjoying it —
-  and then never again for the rest of the series. **That is the first visible
-  instance of the drift**, years before a single memory surfaces, and everyone in the
-  story reads it as an ordinary sibling milestone. A small early throwaway is what a
-  listener remembers four hundred chapters later, when he can no longer be in a room
+- **She thinks she is ahead of him, and she is not.** His public number is Core
+  Formation and so is hers, so she teases him about it constantly — a lazy older
+  sister still level with her prodigy brother and enjoying it enormously. He lets her.
+  In fact he stands two realms above her and has since before the story opened.
+- *Why this is better than genuinely passing her:* it is warm, it is funny, only the
+  reader is in on it, and it runs for as long as you want rather than expiring in one
+  scene. And it converts the milestone into something much sadder — **one day he stops
+  pretending, and she learns she was never ahead at all.** A small early joke is what a
+  listener remembers hundreds of chapters later, when he can no longer be in a room
   with her.
 - *Why she matters for the format:* this story is a dying patriarch, scheming elders,
   and a boy with an ocean of atrocity in him. A weekly audio serial needs one voice in

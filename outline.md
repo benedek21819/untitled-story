@@ -190,20 +190,37 @@ requires knowing what it refers to at the time of writing.
     number. So the opening is a boy in a public arena, asked by everyone who loves him
     and everyone who wants him gone to show what he can do, deciding in front of a
     crowd exactly how much to be.
-  - ***The scene:*** he wins the fight he is supposed to win, in the manner expected,
-    and **declines three chances to end it faster.** Nobody in the arena notices. His
-    father is pleased. The elder is unmoved. The reader, who has heard the prologue,
-    watches a boy choose a number and hit it exactly. That is the whole book in one
-    scene, and it is the first thing a listener hears.
-  - **It is where he meets Jiang Wei.** Poor, so his foundation is terrible — but with
-    millennia of technique in his head. He fights far above his realm and loses the
-    moment he meets anyone with real resources behind them: *knowledge is not capital*,
-    visible in a fight, understood instantly. **Zishan is the only person in that arena
-    who can see what he is actually doing.** Everyone else sees a scrappy nobody
-    getting lucky; he sees technique that should not exist at that level and wants to
-    know where it came from. Two men concealing something, each recognising something
-    in the other and misreading it completely.
-- That leaves four or five years to World Forming, with modest skips.
+  - ***The scene:*** **he wins, showing just enough to beat the second best.** He
+    fights suppressed to Core Formation while actually standing high in Nascent Soul,
+    close to World Forming. It is an equation, not a restraint — he solves for the
+    minimum, live, against whatever the field turns out to be, and revises as it turns
+    out stronger or weaker than expected.
+  - **The public effect is that he is not mediocre — he is *unmeasured*.** Nobody saw
+    his ceiling because he never went near it. That makes him the clan's opportunity
+    without making him alarming, which is exactly the sweet spot the concealment needs,
+    and it leaves the whole arena wondering how much more there is.
+  - ***Write the calculation, not the mystery.*** "Won easily, everyone wonders" is the
+    standard prodigy beat. What makes it this book is that the reader knows the number
+    and the reason, so the listener should feel him **solving**, not admire him being
+    inscrutable.
+  - **Suppression rule:** suppressing one's realm is a known, ordinary technique — but
+    holding a **two-realm** gap perfectly stable under combat stress is far beyond
+    what anyone his age should manage. His concealment is therefore technically
+    visible to anyone who knows exactly what to look for. Almost nobody does.
+  - **It is where he meets Jiang Wei, and the recognition is mutual.** Poor, so his
+    foundation is terrible — but with millennia of technique in his head. He fights far
+    above his realm and loses the moment he meets anyone with real resources behind
+    them: *knowledge is not capital*, visible in a fight, understood instantly.
+    **Zishan is the only person in that arena who can see what he is doing** — everyone
+    else sees a scrappy nobody getting lucky; he sees technique that should not exist
+    at that level. **And Jiang Wei, with millennia of experience, is the only person
+    who spots the suppression.** Each catches the other, and each misreads what he has
+    found completely.
+- That leaves four or five years to World Forming, with modest skips. **Being close
+  and being able to cross are different things** under the exponential curve: he stands
+  high in Nascent Soul from chapter one, and the last stretch into the fifth realm
+  still takes years. This demonstrates the curve to the audience without explaining
+  it.
 - **Accept the consequence:** the ocean does not appear until realm five, so the
   premise's central image lands at the *end* of act one. This is survivable only
   because the prologue has already told the reader what he is — act one is dramatic
