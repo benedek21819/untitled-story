@@ -649,39 +649,66 @@ happened is open — but structurally, the sole possible witness to the death of
 world is a serpent inside the accused's own soul, and it cannot be produced without
 destroying him.
 
-### The first seal
+### Shen Luo's technique, and the first seal
 
-**Shen Luo's cultivation technique is the most powerful Yang-based method there is**,
-and the first layer of the sky holds its basics.
+**His method is Yin-based: he steals other people's Qi and converts it into dark Qi
+of his own.** It is **incredibly inefficient**, so it required enormous numbers of
+people to get anywhere. Everything about the technique is built around handling and
+controlling Yin energy, because that is what he spent an era doing.
 
-**Layer one is not a cure he foresaw. It is *how to be me*.** He sealed his memories
-before reincarnating and could not know what body he would get — aptitude is random.
-What he could know is that whatever he landed in, he would want his own method first.
-So the first layer is the most fundamental thing about him. **That it also saves this
-particular body is an accident**, and neither of them planned it.
+What this explains, all of it retroactively:
 
-Which makes the premise physical: **he cannot survive without becoming his old self.**
-His body will kill him unless he cultivates the way a monster cultivated.
+- **The ocean.** The black water is dark Qi. It is not a symbol of what he did — it is
+  *made of* what he did. Every realm he spent extending that water, he filled with
+  what he took out of people. **"The water kept the record" is literal.** The ledger is
+  the substance.
+- **The climb.** He had a bad body and could not accumulate efficiently, so he built a
+  method to take what he could not earn. **The theft was compensation for the defect**
+  — the cruelty-as-compensation note, now mechanical rather than asserted.
+- **The scale.** Inefficient means the body count is *industrial*, not dramatic. Not a
+  few great atrocities but millennia of small ones, which is exactly what a man who
+  stopped taking small lives seriously would produce.
+- **The hatred.** A far better reason for an era to organise against him than cruelty.
+  Everyone else draws from the world. He drew from the room.
 
-*Quiet resonance, never remarked on:* the Yang method belongs to the cold, calculating
-man, and the Yin body to this life. He is two halves the reincarnation separated — and
-the ocean was always Yin already: black, still, cold, endless, deep. His inner world
-was the opposite of his method the whole time.
+**Layer one of the sky holds its basics — and it is not a cure he foresaw. It is *how
+to be me*.** He sealed his memories before reincarnating and could not know what body
+he would get; aptitude is random. What he could know is that whatever he landed in,
+he would want his own method first. **That it also saves this particular body is an
+accident.**
+
+**It saves him because the technique controls Yin**, and his problem is uncontrolled
+Yin. He stops being poisoned by his own constitution by learning the method of a man
+who spent an era handling exactly that substance.
+
+**So layer one is salvation and horror in the same object, and they cannot be
+separated.** He receives survival and a method for feeding on people together. This
+matters structurally: a purely benevolent first layer would make the *eager → hesitant*
+turn very hard to earn, because it is difficult to fear the thing that saved your
+life.
+
+**The joke at his expense:** he spent an era stealing Yin because he never had enough.
+He came back in a body that produces it in excess and is being killed by the overflow.
+The universe gave the thief more than he ever stole and made it poison.
 
 **Guardrails:**
 
-- **The basics are enough.** Fully stabilising, no further seals required for survival.
-  If living depended on continuing to unseal, every later opening would be coerced and
-  *the safe unsealing is the incriminating one* would die. One layer, solved, and
-  everything after is free choice.
+- **Control is separable from acquisition.** He can handle the Yin without taking any,
+  because his own body supplies more than he needs. **For the first time in either
+  life, he has enough**, and the technique's entire purpose is unnecessary to him. He
+  holds the knife and has no reason to use it — a standing temptation, never a
+  compulsion. Coercion would kill the moral structure, exactly as it would at the
+  seals.
+- **The basics are enough.** Fully stabilising; no further seals required for survival,
+  or every later opening would be coerced and *the safe unsealing is the incriminating
+  one* would die. One layer, solved, everything after is free choice.
 - **It stabilises rather than cures**, so the physique stops being lethal and becomes
-  **binding**. The body keeps generating excess Yin; the technique keeps converting it.
-  He can never stop cultivating the way Shen Luo cultivated. An identity he is chained
+  **binding**. The body keeps generating excess Yin; the technique keeps handling it.
+  He can never stop cultivating the way Shen Luo cultivated — an identity he is chained
   to from eighteen, which is worse than an illness.
-- **Knowledge, not power — and this is where that rule erodes if you let it.** A
-  technique is knowledge with power implications over time, not a power-up. It changes
-  how he cultivates going forward, it must still be practised, and **no seal ever
-  raises his realm.**
+- **Knowledge, not power, and this is where the rule erodes if you let it.** The seal
+  hands him a *method*. Using it is a separate decision with a visible cost, and **no
+  seal ever raises his realm by itself.**
 
 **Two immediate consequences:**
 
