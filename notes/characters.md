@@ -103,13 +103,40 @@ another book.
   - **And it puts him in the same game as the elder** — both backing a candidate as a
     route to the chair, from opposite sides of the table. The elder may respect the
     play before he fears the boy, because it is his own.
-  - **The trap, and it comes free from the lifespan rule:** *expects to inherit* is a
-    promise this world cannot keep. Where people die, an heir waits and then receives.
-    Here a competent patriarch who likes control can hold the seat for centuries, and
-    his father is exactly that man. Zishan is not going to wait centuries for what he
-    was promised. **Nobody has to betray anyone** — the father simply does not die and
-    does not step down, and eventually his son takes it from him. Act one earns that
-    honestly by making the alliance genuine.
+  - **But he does not actually want the seat. He wants the decisions.** He becomes the
+    family's real decision-maker from behind his father, who holds the title. As heir
+    he already has nearly the authority; the arrangement costs him nothing and buys
+    three things — he is not the target, nothing traces to him, and his father is a
+    genuine competent screen rather than a puppet. He can wait centuries without
+    impatience, because the chair only confers what he already has.
+  - **This is what he already was.** Shen Luo held no office, ran no domain, carried
+    no responsibilities, and was largely absent — but wherever he appeared, things went
+    as he wished. *Sovereignty without a state.* He is reproducing his old mode
+    exactly, by instinct, without knowing why he prefers it. **Nobody in the story can
+    interpret this**, and it is the purest demonstration of his nature available before
+    a single memory returns.
+  - **It gives the calibration a purpose beyond safety.** He does not need to be seen
+    as powerful; he needs to be underestimated. Showing a controlled number is part of
+    the operating model, not only a precaution.
+  - **It must be earned across act one, and that is an asset.** A fifteen-year-old does
+    not assert this. He starts by being *right* — small counsel, an accurate read of an
+    elder, a prediction that lands — and his father is competent, and competent men
+    take good advice. The ratio shifts over years. That is the engine act one's middle
+    was short of: each arc he is a little more central than the last, and nobody can
+    name the moment it changed.
+  - **The rupture, when it comes, is not about succession.** It is a decision they
+    disagree on, at which point the father discovers he has not been in charge for
+    years. Far more intimate than losing a seat — not *you took my position* but *I
+    was never the one deciding* — and precisely aimed, because his defining trait is
+    that he likes to be in control. What he values most in himself turns out to have
+    been maintained by his son.
+  - **Open:** does the father know? *Lean: he half-knows and does not examine it,
+    because his son is right and it works.*
+  - **Craft warning: rule by proxy risks a passive protagonist.** He advises, his
+    father acts, and in audio the listener loses the sense that the main character does
+    anything. **The persuasion is the action** — put the scene in the room where he
+    shapes the decision, not the room where it is executed. This is the *Absolute
+    Regression* register: dialogue-forward, political, no system windows.
 - **Cold and distant** needs a rule or it reads as inconsistent writing. The rule: he
   is not warm and then cold. He is warm with the household and simply **does not
   bother** with anyone else. The coldness is the absence of effort, not a change of
