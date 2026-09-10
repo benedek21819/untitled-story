@@ -68,6 +68,56 @@ everything.
 
 Then the world ends, and the next one grants the wish: they do meet differently.
 
+### Prologue beat sheet
+
+**Target: 800–1,200 words. Five to eight minutes.** Shorter than a standard chapter,
+deliberately — its only job is to make the listener know the boy they are about to
+meet was something terrible. Everything else is texture that pays off much later, and
+a new listener cannot feel it yet.
+
+**Release it bundled with chapter one as a single first episode** (~3,000–4,000 words,
+20–25 minutes). The listener gets the cold abstract scene and then lands immediately
+in an arena with a boy and stakes they understand, so the prologue's difficulty never
+has to be sat through alone. First episodes are allowed to run long.
+
+**POV: exterior.** No interiority at all — camera and microphone, what they say and
+what their faces do. This is why the withholding is honest: inside Shen Luo you would
+be concealing his own thoughts, and inside Jin Yao you would have to look away at the
+moment he understands. Exterior conceals nothing because it accesses nothing.
+
+**The two voices must be tellable apart with no dialogue tags** — non-negotiable in
+audio. Jin Yao is warm, expansive, and asks things. Shen Luo is flat, short, precise,
+and never elaborates.
+
+| # | Beat | Notes |
+|---|---|---|
+| 1 | **The stop** | Cold open. Something wrong with the sky, one concrete strange image the listener can hold. Two men who were fighting and have stopped. **Do not dramatise the fight** — it has been going for centuries and it is over before the first sentence. |
+| 2 | **Both know what it is** | Neither explains. No one says *the world is ending*. The wordless mutual recognition is what tells you how long they have known each other. |
+| 3 | **The posture changes** | Combat to conversation. This is where the scene announces what kind of scene it is. Undramatic. |
+| 4 | **First real exchange** | Establishes millennia of war, no prior conversation, mutual exhaustion. Jin Yao does most of the talking. Small physical business — one knows exactly where the other will step — carries the history with no exposition. |
+| 5 | **The question** | *Why did you do it.* Per the recorded note, this reads as a question about the cruelty on first listen and about the world on a re-listen. Which he meant is invisible the first time. |
+| 6 | **The answer** | **Three or four sentences. Concrete, specific, referents unknown.** Not vagueness, not trailing off. The listener should feel they just heard something exact and missed it. *(Content is **Reserved** — author-held.)* |
+| 7 | **The understanding** | The beat the prologue exists for. Almost silent: a physical reaction, a long pause, then something small said badly. He is horrified *because he understands*. |
+| 8 | **The draw** | Brief. Not a negotiation — an acknowledgement that there is no time left, said almost with regret. |
+| 9 | **The line** | *If we had met differently, we could have been friends.* The last thing either of them says. |
+| 10 | **The seal** | Shen Luo alone, doing something small, deliberate and entirely unexplained to himself. No commentary. Then the world goes. |
+
+**Why beat 10 is the ending:** the listener watches a man calmly perform an operation
+on himself in the last seconds of a world, and has no idea what it is. It hands off
+perfectly to chapter one — the same deliberateness, seventeen years and one world
+later, in a boy choosing a number in an arena.
+
+**Rough proportions:** beats 1–4 about 350 words, 5–7 about 350, 8–10 about 300.
+
+**Cut list, if it runs long:** the fight (never show it), any worldbuilding at all
+(no realms, no absolute beings, no jar — everything the listener needs is inferable
+from how these two speak to each other), and any part of the answer beyond four
+sentences.
+
+**The whole scene delivers exactly two facts:** these two have been trying to kill
+each other for a very long time, and one of them did something the other can barely
+stand to find comprehensible.
+
 ## Structural notes
 
 - Reader stays ahead of him. He works out the mechanism late; we get there first.
