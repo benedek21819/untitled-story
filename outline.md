@@ -226,6 +226,80 @@ requires knowing what it refers to at the time of writing.
   a shape means, whether it can be read by others, whether it can change.
 - Names for the elder and the rival branch, specifically.
 
+### Act one — movement outline
+
+Five movements, no chapter counts. Roughly one year of story time: he opens at
+seventeen at Nascent Soul seven and reaches World Forming at eighteen.
+
+**I — The Arena**
+
+1. Prologue, bundled into the same episode.
+2. **The competition.** He solves for the minimum and wins showing Core Formation.
+   The whole cast is present with a legitimate reason to be: father watching, branch
+   rival competing, elder in the stands, sister bored, mother anxious.
+3. **Jiang Wei fights** far above his realm on technique with no foundation. Mutual
+   recognition, mutual misreading.
+4. **Aftermath.** The household at home; the clan pleased and still wondering; the
+   elder entirely unmoved, because he is scanning for a schemer.
+
+**II — The Council** *(the middle engine)*
+
+- The succession laid out in scene, never in summary: grandfather ill, elders
+  manoeuvring for a controllable patriarch, father the legitimate candidate.
+- **Zishan starts being right.** Small counsel that lands. Then a correct read of an
+  elder. Then a prediction. His father is competent and competent men take good
+  advice, so the ratio shifts — each arc he is a little more central than the last,
+  and nobody can name the moment it changed.
+- **The friendship builds outside the clan.** Jiang Wei must appear in every movement
+  or a serial will quietly drop him. Stage one — neither knows — runs the whole act.
+- **The branches probe while he is still reachable:** sabotaged resources, a rigged
+  assessment, an accident during a trial, poison.
+- **He passes his sister**, early, and she never learns it. The joke continues.
+- The mother's disapproval sharpens with every success. The elder circles patiently,
+  watching the wrong things.
+
+**III — The Squeeze**
+
+- The grandfather worsens. **The council scene:** *how much more do we spend on him?*
+  Monstrous and correct, and it splits the elders into the ambitious and the merely
+  arithmetical.
+- The branch candidate gains ground.
+- **The window closes.** He is now strong enough that they cannot reach him directly,
+  which is what forces everything into the open.
+- The trigger fires. *(Still open — efficiency, applause, or pre-emption. Pre-emption
+  is the lean.)*
+
+**IV — The Answer**
+
+- **He acts.** Not vengeance — he eliminates a category, removing everyone who could
+  ever have had reason, including people who knew nothing about it.
+- **The clan benefits enormously and thanks him for his decisiveness.**
+- **His mother is the only person in the room who understands what she has watched.**
+  Something in how she looks at him afterwards never entirely comes back.
+- **The elder sees it, recognises the method, and dies of it.** Out-thought, not
+  out-fought — by choice, since the realm gap is small and closing and a fight at his
+  real level would announce him. Zishan kills one of the eight and never learns it.
+
+**V — The Ocean**
+
+- **The grandfather dies.** The funeral. A boy standing at it thinking *this happened
+  because we were not strong enough* — the same conclusion he reached once before, and
+  the reader knows what it turned into.
+- **He breaks through to World Forming** — and the new realm means more Yin than the
+  heirloom can help him carry. The breakthrough nearly kills him.
+- **The inner world opens.** He arrives to build something and finds it already made:
+  an endless black ocean, a sealed sky, and something alive in the water.
+- **He opens the first layer because he is dying.** It saves him.
+- **And it is a method for taking Qi out of people.** Salvation and horror in one
+  object, inseparable.
+
+**The seal line this draws:** the first unsealing is *forced*. Every one after it is
+free — which is what makes the second one, and all the rest, say something about him.
+
+**Not yet placed:** the mother's birth clan coming to ask (probably act two), the
+named rival branch and who fronts it, and when Jiang Wei's recovery reaches stage two
+(probably act two).
+
 ### Act one, as settled
 
 - **Do not open at birth.** Two decades cannot be covered at 1,500–3,000 words an
